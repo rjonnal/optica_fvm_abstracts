@@ -1,0 +1,73 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.19</article-id>
+			<article-id pub-id-type="manuscript">Talks_19</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session III: Neural network models of the visual system</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session III: Neural network models of the visual system: Reverse-engineering neural code in the language of objects and generative models </article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yildirim</surname>
+						<given-names>Ilker</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Yale University</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>19</fpage>
+						<lpage>19</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>When we open our eyes, we do not see a jumble of light or colorful patterns. There lies a great distance from the raw inputs sensed at our retinas to what we experience as the contents of our perception. How in the brain are incoming sense inputs transformed into rich, discrete structures that we can think about and plan with? These “world models” include representations of objects with kinematic and dynamical properties, scenes with navigational affordances, and events with temporally demarcated dynamics. Real world scenes are complex, but given a momentary task, only a fraction of this complexity is relevant to the observer. Attention allows us to selectively form these world models, driving flexible action as task-driven, simulatable state-spaces. How in the mind and brain do we build and use such internal models of the world from raw visual inputs? In this talk, I will begin to address this question by presenting two new computational modeling frameworks.  First, in high-level vision, I will show how we can reverse-engineer population-level neural activity in the macaque visual cortex in the language of three-dimensional objects and computer graphics, by combining generative models with deep neural networks. Second, I will present a novel account of attention based on adaptive computation that situates vision in the broader context of an agent with goals, and show how it explains internal representations and implicit goals underlying the selectivity of scene perception.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Air Force Office of Scientific Research FA9550-22-1-0041
+	</back>
+</article>

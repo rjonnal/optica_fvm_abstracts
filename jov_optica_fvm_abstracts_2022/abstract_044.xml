@@ -1,0 +1,102 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.44</article-id>
+			<article-id pub-id-type="manuscript">Talks_44</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Lexical effects on 3D color matches in short- and long-term memory </article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Deshpande</surname>
+						<given-names>Prutha</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Brown</surname>
+						<given-names>Angela</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lindsey</surname>
+						<given-names>Delwin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>The Ohio State University</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>44</fpage>
+						<lpage>44</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>We report a comprehensive within-subjects study of color memory, using 22 colors widely spaced in 3D color space. 10 observers made isomeric color matches on iPads (method of adjustment, 3D CIELAB-based color palette) when the test color was simultaneously present or after delays = 10 or 300 sec (random block design). 
+To test for lexical effects on color memory, the same observers grouped 1625 Munsell samples before the memory experiment and provided focal colors and unconstrained color terms for the groups. They also named the remembered color after each 300-sec trial.
+Delay affected every measure of matching performance. Matches were more variable for 10-sec delays than in the simultaneous condition. Simultaneous matches were near the test colors (∆E=2.8), but the distance from the test color (bias) increased for 10-sec delays, generally in the direction of increased saturation, with variation across test colors. These measures increased little between 10 and 300 sec.
+To test for lexical effects, an “attraction score” measured how much matches were biased by the observers’ unique focal colors. Attraction scores for simultaneous matches were near zero, but some colors showed substantial attraction to the focal colors at 10- and 300-sec delays. The 300-sec matches were highly significantly attracted to the focal colors of names provided after each trial. Observers’ color idiolect complexity and test color codability were not impressively related to performance at any delay.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: None
+	</back>
+</article>

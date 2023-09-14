@@ -1,0 +1,73 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.18</article-id>
+			<article-id pub-id-type="manuscript">Talks_18</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session III: Neural network models of the visual system</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session III: Neural network models of the visual system: Neural population geometry: An approach for understanding biological and artificial neural networks</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chung</surname>
+						<given-names>SueYeon</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>New York University</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>18</fpage>
+						<lpage>18</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>A central goal in neuroscience is to understand how orchestrated computations in the brain arise from the properties of single neurons and networks of such neurons. Answering this question requires theoretical advances that shine light into the ‘black box’ of representations in neural circuits. In this talk, we will demonstrate theoretical approaches that help describe how cognitive and behavioral task implementations emerge from the structure in neural populations and from biologically plausible neural networks. First, we will introduce an analytic theory that connects geometric structures that arise from neural responses (i.e., neural manifolds) to the neural population’s efficiency in implementing a task. In particular, this theory describes a perceptron’s capacity for linearly classifying object categories based on the underlying neural manifolds’ structural properties. Next, we will describe how such methods can, in fact, open the ‘black box’ of distributed neuronal circuits in a range of experimental neural datasets. In particular, our method overcomes the limitations of traditional dimensionality reduction techniques, as it operates directly on the high-dimensional representations, rather than relying on low-dimensionality assumptions for visualization. Furthermore, this method allows for simultaneous multi-level analysis, by measuring geometric properties in neural population data, and estimating the amount of task information embedded in the same population. These geometric frameworks are general and can be used across different brain areas and task modalities, as demonstrated in the work of ours and others, ranging from the visual cortex to parietal cortex to hippocampus, and from calcium imaging to electrophysiology to fMRI datasets. Finally, we will discuss our recent efforts to fully extend this multi-level description of neural populations, by (1) investigating how single neuron properties shape the representation geometry in early sensory areas, and by (2) understanding how task-efficient neural manifolds emerge in biologically-constrained neural networks. By extending our mathematical toolkit for analyzing representations underlying complex neuronal networks, we hope to contribute to the long-term challenge of understanding the neuronal basis of tasks and behaviors.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: None
+	</back>
+</article>

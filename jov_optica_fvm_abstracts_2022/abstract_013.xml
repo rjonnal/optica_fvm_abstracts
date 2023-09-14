@@ -1,0 +1,104 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.13</article-id>
+			<article-id pub-id-type="manuscript">Talks_13</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session II: Myopia and myopia control</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session II: Myopia and myopia control: Early functional changes in the myopic retina compromise emmetropization</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Schaeffel</surname>
+						<given-names>Frank</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Swiatczak</surname>
+						<given-names>Barbara</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Institute of molecular and clinical ophthalmology Basel (IOB), Switzerland</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Ophthalmic Research Institute, University of Tuebingen, Germany</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Zeiss Vision Science Lab, Ophthalmic Research Institute, University of Tuebingen, Germany</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>13</fpage>
+						<lpage>13</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>There is abundant evidence that emmetropization is controlled by visual experience, and that the retina is able to extract the information necessary to fine-tune axial eye growth during development. Emmetropization represents a closed-loop feedback system that uses defocus as error signal. It involves two pathways, one stimulating eye growth and the other restraining it. Both are different at several levels (1) different genes (2) different biochemical pathways and pharmacological interventions (3) different modes of retinal image processing. Knowing all this, the question arises why myopia does not limit itself and why undercorrection does not inhibit eye growth as expected from experiments in animal models. We found that only the emmetropic human retina can generate the growth-inhibiting signals when the focal plane is in front of the retina while the myopic retina has largely lost this ability. The functional deficit concerns retinal image processing, not the biochemical signaling cascades to choroid and sclera. Most recently, we found that the emmetropic human retina uses chromatic differences in focus to determine the sign of defocus. Again, we found that the myopic retina has lost this ability. The questions are now: (1) why and when occur the changes in the myopic retina that make myopia an open loop system, (2) what is the biological sense of this functional loss at a time when vision is otherwise normal (with correction) and (3) what are the underlying retinal circuits that seem to “give up”? </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: None
+	</back>
+</article>

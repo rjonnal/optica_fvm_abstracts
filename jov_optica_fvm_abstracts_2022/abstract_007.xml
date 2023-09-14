@@ -1,0 +1,73 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.7</article-id>
+			<article-id pub-id-type="manuscript">Talks_7</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session I: Vision restoration</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session I: Vision restoration: The New Generation of Visual Cortical Prosthetics</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yoshor</surname>
+						<given-names>Daniel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Pennsylvania</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>7</fpage>
+						<lpage>7</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Since the 1960s, the prospect of developing a visual cortical prosthesis for restoration of useful vision to the blind has tantalized scientists, engineers, and clinicians. After two decades of relative inactivity, interest in this approach has been renewed. There are now multiple active efforts to develop next generation visual prostheses and to bring these devices to clinical implementation. We will review the current state of the field, with a particular emphasis on our own work, and will highlight advances in the field as well challenges that must be overcome to produce a clinically useful prosthetic device. </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: NIH R01EY023336, NIH UH3NS103442, DARPA
+	</back>
+</article>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.17</article-id>
+			<article-id pub-id-type="manuscript">Talks_17</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session III: Neural network models of the visual system</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session III: Neural network models of the visual system: Robust information representation in hierarchical networks of the visual cortex</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Choi</surname>
+						<given-names>Hannah</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Georgia Institute of Technology</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>17</fpage>
+						<lpage>17</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The mammalian visual system has an exquisite ability to encode relevant information from noisy sensory inputs in natural scenes. Such robust yet adaptable computation is believed to emerge from the uniquely complex connectivity structure of biological neural networks. In this talk, I will focus on the hierarchical organization of the cortical network, and discuss how this unique network structure shapes robust representations of noisy visual inputs via predictive coding. Using a predictive coding model of hierarchically-related visual cortical areas, we link feedback connections to top-down predictions of the lower cortical neural activity. Our model shows that hierarchical predictive coding explains the mechanisms of robust recognition of noisy objects in intermediate cortical areas. Secondly, we study how context-specific information may be represented and modified across learning in populations of neurons in a recurrent neural network model of hierarchically-related cortical areas. Motivated by an experimental study investigating neural activities in response to expected and unexpected natural images in mouse visual cortex, we test how the divergence of feedforward and feedback connections underlie differential representations of expected and surprising sensory information across cortical areas and layers. In sum, our study provides insights into how robust and adaptable visual encoding arise from biologically-motivated connectivity across the cortical hierarchy.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: National Eye Institute of the National Institutes of Health under Award Number K99/R00 EY030840
+	</back>
+</article>

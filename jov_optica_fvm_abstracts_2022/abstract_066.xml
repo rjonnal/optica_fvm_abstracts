@@ -1,0 +1,190 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.66</article-id>
+			<article-id pub-id-type="manuscript">Talks_66</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Fixational Eye Motion Measured with Tracking Scanning Laser Ophthalmoscopy in ABI/TBI and Control Subjects</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Putnam</surname>
+						<given-names>Nicole M.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jomoc</surname>
+						<given-names>Caitlin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Adams</surname>
+						<given-names>Makayla</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Charbonneau</surname>
+						<given-names>Brandon</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Davis</surname>
+						<given-names>Thaddeus</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>dela Victoria</surname>
+						<given-names>Angelique</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Engel</surname>
+						<given-names>Katheryn</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kemp</surname>
+						<given-names>Albert</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ogoke</surname>
+						<given-names>Chizoba H.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Esposito</surname>
+						<given-names>Christina</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Arizona College of Optometry, Midwestern University</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>66</fpage>
+						<lpage>66</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>This study compared fixational eye motion (FEM) in acquired/traumatic brain injury (ABI/TBI) subjects presenting with clinical symptoms (reading text, losing place while reading, words moving around the page, decreased reading comprehension) to control subjects as measured with Tracking Scanning Laser Ophthalmoscopy (TSLO). Six ABI/TBI subjects (4M, 2F) aged 29-62 and six control subjects (4M, 2F) aged 23-42 participated in the study. A 5°x5° square 840nm TSLO imaging raster was used to guide fixation in 3 conditions: upper right corner (UR), freely in the center (CF), and a dot in the center (DOT). At least three 10sec videos were collected for all subjects in both eyes for each condition. Offline, custom MATLAB software was used to stabilize the videos, extract eye motion at 480Hz, and extract FEM characteristics. Significant differences were seen between the ABI/TBI and control subjects with t-test analysis in all fixation conditions. Different Microsaccade and drift parameters of FEM were found to be significantly different for the different conditions with the number of Microsaccade reaching significance only for UR (p&lt;0.001) and Microsaccade amplitude and peak velocity only for CF (p&lt;0.01). These results demonstrate FEM measurements with TSLO in ABI/TBI subjects are different from control and are highly variable between fixation tasks. This warrants further exploration to determine the mechanisms behind oculomotor deficiency and to guide future clinical treatments.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: This work was supported by a College of Optometrists in Vision Development (COVD) Research Grant awarded to Dr. Esposito.
+	</back>
+</article>

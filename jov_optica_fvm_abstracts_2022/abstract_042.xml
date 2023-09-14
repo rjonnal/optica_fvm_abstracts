@@ -1,0 +1,169 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.42</article-id>
+			<article-id pub-id-type="manuscript">Talks_42</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Oculomotor influences on retinal input signals in myopia</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Cox</surname>
+						<given-names>Michele A.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Clark</surname>
+						<given-names>Ashley M. </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Intoy </surname>
+						<given-names>Janis</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Moon</surname>
+						<given-names>Benjamin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wu</surname>
+						<given-names>Ruei-Jr</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Victor</surname>
+						<given-names>Jonathan D.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rucci</surname>
+						<given-names>Michele</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Center for Visual Science, University of Rochester</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Brain and Cognitive Sciences & Center for Visual Sciences, University of Rochester</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>The Institute of Optics & Center for Visual Science, University of Rochester</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Weill Cornell Medical College</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>42</fpage>
+						<lpage>42</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Studies of emmetropization have traditionally focused on the spatial characteristics of visual input signals.  Yet the input to the retina is not a two-dimensional pattern but a temporally-varying luminance flow. The temporal structure of this flow is predominately determined by eye movements, as the human eyes move incessantly.  Even when fixating on a single point, a persistent motion known as ocular drift reformats the luminance flow in a way that counterbalances the spectra of natural scenes.  It is established that emmetropes are highly sensitive to these luminance modulations. However, their visual consequences in myopia and hyperopia are unknown. Here, we first review how the temporal-frequency distribution of retinal input signals varies with the amount of ocular drift. We then use a detailed optical/geometrical model of the eye to study how the eye movements jointly shape retinal input as a function of refraction. We show that, within the temporal range of sensitivity of the retina, the spatial frequency distribution of the input signals conveys signed information about defocus. Specifically, for a given degree of defocus, myopic retinas experience more power from low spatial frequency stimuli than hyperopic retinas. These redistribution of input power may have a consequence during eye growth supporting the proposal that eye movements should be taken into consideration in the process of emmetropization. </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Research reported here was supported by Meta Reality Labs and the NEI of the NIH under Award Numbers R01EY018363 (awarded to MR), R01EY07977 (awarded to JDV),  and P30EY001319 (core grant).
+	</back>
+</article>

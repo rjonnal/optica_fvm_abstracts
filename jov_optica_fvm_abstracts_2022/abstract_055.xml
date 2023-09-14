@@ -1,0 +1,131 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.55</article-id>
+			<article-id pub-id-type="manuscript">Talks_55</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Development and validation of a virtual reality based toolkit to assess functional vision in  Ultra Low Vision </article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kartha</surname>
+						<given-names>Arathy</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sadeghi</surname>
+						<given-names>Roksana</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Swanson</surname>
+						<given-names>Thom</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gee</surname>
+						<given-names>Will</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dagnelie</surname>
+						<given-names>Gislin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Johns Hopkins University</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>BaltiVirtual</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>55</fpage>
+						<lpage>55</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p> Ultra-Low Vision (ULV) refers to a level of vision that is ≦ 20/1600. There are a growing number of vision restoration treatments that recruit people with ULV or restore vision to the ULV level. At present, limited standardized outcome measures are available to assess visual potential before and after such vision restoration treatments. The ULV toolkit was developed as a standardized outcome measure for people with ULV. Three virtual reality (VR) based modules were developed to assess visual information gathering, hand-eye coordination and wayfinding in people with ULV. Each module consisted of a range of visually guided tasks related to activities of daily life (e.g., direction of motion of cars, flipping a light switch, boarding a train). Each correct/incorrect response was scored as ‘1’/ ‘0’. These raw scores were then analyzed to estimate item difficulty (item measure) and person ability (person measure). Item measures showed a wide range of difficulty levels that can be used to evaluate visual performance in people with ULV. Person measures were correlated with estimated logMAR visual acuity as well as completion rates, number of collisions and reaction times. This study bridges a big gap in the field of ULV where little is known about visual potential and usefulness in activities of daily life. VR provides portability and consistency for testing across participants with ULV thereby allowing for standardization of measurements across vision restoration studies.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: NEI R01EY028452 (GD), K99EY033031(AK), Research to Prevent Blindness
+	</back>
+</article>

@@ -1,0 +1,124 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.39</article-id>
+			<article-id pub-id-type="manuscript">Talks_39</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Laminar and cell class distinctions for pre-saccadic attention in marmoset MT/MTC</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bucklaew</surname>
+						<given-names>Amy</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Coop</surname>
+						<given-names>Shanna</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sarch</surname>
+						<given-names>Gabriel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mitchell</surname>
+						<given-names>Jude</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Rochester</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Stanford University</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Carnegie Mellon Univeristy</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>39</fpage>
+						<lpage>39</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Pre-saccadic attention has been related to enhanced neural responses before saccades made into a neuron’s receptive field in macaque visual cortex (Moore and Chang 2009). However, much remains unknown about the underlying circuit mechanisms. Using the marmoset, a small New World monkey with a smooth brain, we examined laminar and cell class distinctions during pre-saccadic attention in motion selective areas MT/MTC. In a saccade foraging task, marmosets made a saccade from a central fixation point to one of three equally eccentric random dot field stimuli. We positioned the stimuli such that one foraged location overlapped the receptive fields of neurons under study and examined how tuning functions for motion direction changed. Tuning curves were fit with an adjusted Von Mises curve that estimates baseline, gain, and tuning width. We found in two animals that neurons on average exhibited increases in baseline and gain with pre-saccadic attention, but no changes in tuning width. In a single animal we were able to dissect the population by cell class and layer. We found that increases in gain were predominantly among broad spiking neurons in superficial layers whereas additive increases in rate were shared across layers and cell types. This suggests that superficial layer broad spiking neurons, the putative projection neurons that would relay information to downstream cortical areas, have a privileged role for encoding enhanced motion sensitivity during pre-saccadic attention.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: SC, AB, and JFM from NIH EY030998; GS from NSF GRF 2020305476
+	</back>
+</article>

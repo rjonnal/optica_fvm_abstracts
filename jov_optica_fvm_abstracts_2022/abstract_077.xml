@@ -1,0 +1,124 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.77</article-id>
+			<article-id pub-id-type="manuscript">Talks_77</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Investigating temporal evolutions of perceptual choice within biological and artificial neural networks</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Xu</surname>
+						<given-names>Yunlong </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kwon</surname>
+						<given-names>Oh-Sang </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Ruyuan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tadin</surname>
+						<given-names>Duje</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Rochester</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Ulsan National Institute of Science and Technology</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Shanghai Jiao Tong University</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>77</fpage>
+						<lpage>77</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Perceptual decisions involve a process that evolves over time until it reaches a decision boundary. It&#39;s important to understand how this process unfolds. Recent psychophysical data indicates that the visual system extracts motion axis information faster than motion direction information (Kwon et al., 2015, J Vision). To understand the underlying mechanisms, we developed a biophysically realistic cortical network model of decision making. We generalized the two-variable reduced spiking neural network (Wong et al., 2006, J Neuroscience) to four-variable. The network input is based on motion energy (Adelson et al., 1985, Josa a) and the temporal profile of surround influence (Tadin et al., 2006, J Neuroscience). The model reproduces the prior experimental findings, showing the motion axis extraction before direction extraction. It reveals a stronger axis-wise inhibitory connection between the selective neural populations than the direction-wise inhibitory connection. We further designed a recurrent deep neural network to validate the neural population connectivity pattern. Our model provides a quantitative explanation for the temporal evolution of motion direction judgments. The results show that the spatiotemporal filtering for visual motion integration, the center-surround antagonism, and stronger axis-wise inhibitory connection between the selective neural populations can explain how the visual system can extract motion axis orientation before detecting motion direction.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: None
+	</back>
+</article>

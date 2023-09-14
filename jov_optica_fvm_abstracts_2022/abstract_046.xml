@@ -1,0 +1,203 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.46</article-id>
+			<article-id pub-id-type="manuscript">Talks_46</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Eliciting Color Percepts over Extended Fields through Cone-by-Cone Stimulation</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Doyle</surname>
+						<given-names>Hannah K.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fong</surname>
+						<given-names>James</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wang</surname>
+						<given-names>Congli</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Herbeck</surname>
+						<given-names>Sofie R.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Vanston</surname>
+						<given-names>John E.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Boehm</surname>
+						<given-names>Alexandra E.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Schmidt</surname>
+						<given-names>Brian P.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tuten</surname>
+						<given-names>William S.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Roorda</surname>
+						<given-names>Austin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ng</surname>
+						<given-names>Ren</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Department of Electrical Engineering & Computer Sciences, University of California Berkeley, Berkeley, CA, United States</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Herbert Wertheim School of Optometry and Vision Science, University of California Berkeley, Berkeley, CA, United States</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>46</fpage>
+						<lpage>46</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Purpose
+Human color vision is informed by the relative activations of the long-, medium-, and short-wavelength sensitive cones. We have developed a display that can produce a variety of color sensations using only a single wavelength of light, by programming the activity levels of the three cone types at population scales. 
+Methods
+With an Adaptive Optics Scanning Laser Ophthalmoscope, we image the retina at 840 nm over a 0.9° x 0.9° field and track the eye’s fixational motion in order to deliver discrete microdoses of 543 nm light to ~2500 individual cones per frame. Using each cone type’s spectral sensitivity to 543 nm, we can recapitulate the relative activations consistent with colors that are distinct from the stimulating laser, resulting in percepts of uniform colored squares that appear stable in the world.
+Results
+Using stimulation from only 543 nm light, we can elicit color percepts ranging from green to red-orange in 2 subjects who have cone spectral types classified in a region of their retina. Additionally, we find through color matching data that the distinct color percepts are lost for intentional misdeliveries that exceed 30% of the cone diameter in both subjects.
+Conclusions
+These results demonstrate our system’s ability to track the retina at high speed, stimulate with cone-level precision, and generate color percepts by directly programming the activity of the human cone mosaic. These technical capabilities provide a novel platform for studying color vision.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: This work was supported by the Air Force Office of Scientific Research under award numbers FA9550-20-1-0195 and FA9550-21-1-0230 and by the National Institutes of Health under award number R01EY023591.
+	</back>
+</article>

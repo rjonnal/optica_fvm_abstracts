@@ -1,0 +1,76 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.12</article-id>
+			<article-id pub-id-type="manuscript">Talks_12</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session II: Myopia and myopia control</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session II: Myopia and myopia control: Interactions between Light Exposure and Diurnal Rhythms on the Choroid</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ostrin</surname>
+						<given-names>Lisa</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Houston College of Optometry</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>12</fpage>
+						<lpage>12</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Purpose: Increasing evidence demonstrates that light exposure and circadian rhythms plays a role in myopia, with high intensity outdoor light being protective. The choroid may be involved in this mechanism. The goals of our studies were to examine the interaction between light exposure and circadian influences on the choroid. 
+Methods: In Experiment 1, choroid diurnal rhythms were investigated during monocular light deprivation in adults using spectral domain optical coherence tomography imaging (SD-OCT). The left eye was light deprived for 20 hours. In Experiment 2, the effects of two hours of high intensity outdoor light exposure on retinal and choroid thickness were investigated and compared to indoor illumination and darkness. 
+Results: For Experiment 1, choroid diurnal variation persisted and retinal diurnal variation was eliminated in light deprived eyes. Total retinal and inner segment thicknesses decreased (P &lt; 0.001) and outer segment + RPE thickness increased (P &lt; 0.05) with light deprivation. For Experiment 2, the choroid was significantly thinner during outdoor light exposure compared to indoors and darkness (P &lt; .01), but returned to baseline at follow-up (P &gt; .05). Total retinal thickness was significantly thicker during and after the outdoor compared to indoor and dark conditions (P &lt; .05). 
+Conclusions: These studies demonstrate that the choroid is mediated by both intrinsic circadian mechanisms as well as light exposure. Choroidal thickness rhythms were not impacted by short-term light deprivation. Surprisingly, high intensity sunlight resulted in an unexpected thinning of the choroid. These findings have implications regarding the interaction between light exposure, circadian rhythm, and the choroid on myopia.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: None
+	</back>
+</article>

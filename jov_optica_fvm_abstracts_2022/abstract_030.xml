@@ -1,0 +1,299 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.30</article-id>
+			<article-id pub-id-type="manuscript">Talks_30</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session V: The eye as a window to systemic and neurodegenerative health</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session V: The eye as a window to systemic and neurodegenerative health: Seeking Answers through a keyhole: Harnessing the Synergy of Dynamic OCT/OCT Angiography and Adaptive Optics SLO for Retinal Assessment of Systemic Disease </article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rosen</surname>
+						<given-names>Richard</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Otero-Marquez</surname>
+						<given-names>Oscar</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Migacz</surname>
+						<given-names>Justin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhou</surname>
+						<given-names>Davis</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pinhas</surname>
+						<given-names>Alexander</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Castanos</surname>
+						<given-names>Maria</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ahsanuddin</surname>
+						<given-names>Sofia</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rickford</surname>
+						<given-names>Kara</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Murillo</surname>
+						<given-names>Brian</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhou</surname>
+						<given-names>Rebecca</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Spellman</surname>
+						<given-names>Lily</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sredar</surname>
+						<given-names>Nrupin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gillette</surname>
+						<given-names>Peter</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Weitz</surname>
+						<given-names>Rishard</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Glassberg</surname>
+						<given-names>Jeffrey</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dubra</surname>
+						<given-names>Alfredo</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chui</surname>
+						<given-names>Toco</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>New York Eye and Ear Infirmary</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Stanford University</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Kings County Hospital</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Icahn School of Medicine at Mount Sinai</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>30</fpage>
+						<lpage>30</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The retina is our only non-invasive access to microworld of the body’s capillaries and cellular activities. Leveraging the multimodal synergy of combining dynamic methods of OCT/OCTA, with Adaptive Optics SLO, clinicians have new opportunities to better appreciate some of the complexities of human disease. Serial OCTA imaging can reveal inconsistencies in retinal perfusion not appreciated on single images and can be used to measure activity status of sickle cell microvasculopathy. This approach facilitates earlier detection and immediate assessment of disease burden. AOSLO imaging provides cellular level resolution for confirmation of these OCTA events. En face OCT reflectance images which accompany OCTA studies offer a glimpse of the macrophage-like cellular activity above the retinal surface which responds to systemically instigated vascular events below. The complementary use of AOSLO to characterize morphology of these cells provides clues to their activation status and potential role in tissue maintenance and repair. Features of clinical OCT/OCTA interpreted by AOSLO imaging have the potential to become useful clinical biomarkers of disease activity and response to treatment.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: National Eye Institute of the National Institutes of Health under award numbers R01EY027301, P30EY026877, R01EY031360, R01EY032147, R01EY032669, Marrus Family Foundation, Wise Family Foundation, J Milbank Foundation, New York Eye & Ear Research Foundation, Jorge N. Buxton Microsurgical Foundation, Violett Charitable Foundation, Challenge Grant award from Research to Prevent Blindness
+	</back>
+</article>

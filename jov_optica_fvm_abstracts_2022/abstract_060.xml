@@ -1,0 +1,118 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.60</article-id>
+			<article-id pub-id-type="manuscript">Talks_60</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Bayesian inference and adaptation in neural responses</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Manalansan</surname>
+						<given-names>Jake</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Emery</surname>
+						<given-names>Kara</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rudd</surname>
+						<given-names>Michael</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Webster</surname>
+						<given-names>Michael</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Nevada, Reno</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>New York University</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>60</fpage>
+						<lpage>60</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Many of the perceptual changes induced by adaptation can be captured in a Bayesian framework, in which adaptation renormalizes neural responses to weak or strong stimuli, consistent with correcting the likelihood to match the prior (Emery and Webster VSS 2020). We explored what this model implies about Bayesian estimation at the level of an individual neuron or channel. The prior corresponds to what the neuron expects to see, but the adaptation causes responses to match what it expects. If the decoder does not “know” the neuron’s adaptation state (Series et al 2009), these adjustments effectively flatten priors for dimensions the neuron adapts to, preserving expectations only for information that it does not adapt to, such as how signals deviate from the predicted value.  Bayesian-like estimates of these deviations can be computed within the neuron because the shape of the prior is instantiated in the neuron’s contrast response function (CRF). For example, for a Gaussian prior the corresponding CRF is a cumulative Gaussian. Steeper CRFs bias responses more toward the mean. The biases approximate but do not equal the Bayesian posterior. If, like adaptation, the decoding does not account for this approximation, then the interpreted stimulus value is distorted relative to the Bayes estimate. This may underlie the distortions evident in some perceptual dimensions, such as nonlinearities in perceived contrast.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Supported by EY010834
+	</back>
+</article>

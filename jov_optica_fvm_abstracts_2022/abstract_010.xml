@@ -1,0 +1,151 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.10</article-id>
+			<article-id pub-id-type="manuscript">Talks_10</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session I: Layer-specific, retinotopically-diffuse modulation in human visual cortex by emotional faces</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Liu</surname>
+						<given-names>Tong</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fu</surname>
+						<given-names>Jason</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chai</surname>
+						<given-names>Yuhui</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Japee</surname>
+						<given-names>Shruti</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chen</surname>
+						<given-names>Gang</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ungerleider</surname>
+						<given-names>Leslie</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Merriam</surname>
+						<given-names>Elisha</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>NIMH</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>10</fpage>
+						<lpage>10</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Emotionally expressive faces evoke enhanced neural responses in multiple brain regions, a phenomenon thought to depend critically on the amygdala. This emotion-related modulation is evident even in primary visual cortex (V1), providing a potential neural substrate by which emotionally salient stimuli can affect perception. How does emotional valence information, computed in the amygdala, reach V1? Here we use high-resolution functional MRI to investigate the layer profile and retinotopic distribution of neural activity specific to emotional facial expressions. Across three experiments, human participants viewed centrally presented face stimuli varying in emotional expression and performed a gender judgment task. We found that facial valence sensitivity was evident only in superficial cortical layers and was not restricted to the retinotopic location of the stimuli, consistent with diffuse feedback-like projections from the amygdala. Together, our results provide a feedback mechanism by which the amygdala directly modulates activity at the earliest stage of visual processing. </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: This work was supported by the Intramural Research Program of the National Institute of Mental Health (ZIAMH002918; NCT00001360).
+	</back>
+</article>

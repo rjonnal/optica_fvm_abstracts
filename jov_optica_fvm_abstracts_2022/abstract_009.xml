@@ -1,0 +1,138 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.9</article-id>
+			<article-id pub-id-type="manuscript">Talks_9</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session I: Spectral, Spatial and Temporal Response Properties of Foveal Ganglion Cells</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Patterson</surname>
+						<given-names>Sara</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Godat</surname>
+						<given-names>Tyler</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kohout</surname>
+						<given-names>Kendall</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yang</surname>
+						<given-names>Qiang</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Merigan</surname>
+						<given-names>William</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Williams</surname>
+						<given-names>David</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Rochester</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>9</fpage>
+						<lpage>9</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>While the fovea is best known for its high spatial acuity mediated by a high density of midget ganglion cells (RGCs), anatomy and transcriptomics show ~15 rarer RGC types are also present. However, our understanding of the visual information these RGCs convey to the brain is limited as both the fovea and rarer RGC types have been difficult to address with standard physiology techniques. We addressed this gap in knowledge in vivo, with two macaques expressing GCaMP6s in the foveal ganglion cell layer. Using a fluorescence adaptive optics scanning light ophthalmoscope, we presented stimuli to the cones while measuring the responses of hundreds of distinct cells. We classified cells with stimuli assessing polarity, spectral tuning, receptive field size, temporal tuning and motion sensitivity. 21% of cells had response properties inconsistent with midget RGCs, including ON-OFF responses, non-canonical spatial receptive fields, direction selectivity and suppressed-by-contrast responses. Our classification enables in vivo functional identification of the rarest foveal RGCs, laying the foundation for future experiments targeting these elusive cells to determine their roles in vision. While the dominance of midget RGCs observed is consistent with the fovea’s specialization for acuity, the unappreciated functional diversity we observed indicates that far more visual processing occurs within the primate fovea than classically thought.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: NIH Grants F32 EY032318, P30 EY001319, R01 EY031467, R01 EY021166, R01EY028293, R01 EY032116, T32 EY007125, U24 EY033275 and Research to Prevent Blindness
+	</back>
+</article>

@@ -1,0 +1,77 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.1</article-id>
+			<article-id pub-id-type="manuscript">Talks_1</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Award Lecture</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Award Lecture: 2022 Boynton Award Lecture: Untangling visual processing and sensitivity regulation using data from normals and from patients missing key molecules required for normal visual function</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Stockman</surname>
+						<given-names>Andrew</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>UCL Institute of Ophthalmology</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>1</fpage>
+						<lpage>1</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>An important way of characterizing normal and abnormal visual processing is to measure sensitivity to flicker. We can account for over 70 years of normal flicker-sensitivity measurements with a simple, physiologically relevant sequential model built from a cascade of low-pass filters that requires only two intensity-dependent model parameters: one that adjusts response speed, and the other that adjusts the overall gain at higher light intensities.
+
+We have also applied this model to 20 years of flicker-sensitivity measurements obtained from groups of patients with molecularly characterised deficits that affect different stages of visual processing. We can characterise the resulting visual losses (or gains) in terms of changes that speed up the responses of one or more stages, or slow them down, or interpose additional stages. Remarkably, we find that other stages make compensatory adjustments to offset the abnormality and thus help to keep the overall system in a useful operating range. For example, if the abnormal stage slows down the visual response, another stage is likely to speed up or attenuate the response to rebalance performance.
+
+Our approach also allows us to tease apart stationary and progressive effects, and the localised molecular losses help us to unravel and characterise individual steps in the normal and abnormal processing sequences. They have also led to a revised understanding of a classic problem in visual science: how the critical flicker frequency (the highest frequency that can just be seen) grows with light intensity.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: None
+	</back>
+</article>

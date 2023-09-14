@@ -1,0 +1,94 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.65</article-id>
+			<article-id pub-id-type="manuscript">Talks_65</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Deep retinal laser lesions recruit resident microglia without involvement of labeled neutrophils</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Power</surname>
+						<given-names>Derek</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Schallek</surname>
+						<given-names>Jesse</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Rochester Center for Visual Science</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>University of Rochester, Center for Visual Science, Flaum Eye Institute</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>65</fpage>
+						<lpage>65</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Adaptive Optics Scanning Light Ophthalmoscopy (AOSLO) has revealed the in-vivo behaviors of single immune cells (Joseph et al., 2020). Here, we study the cellular immune response to a laser lesion targeting the outer retina.
+Using fluorescence AOSLO, we tracked microglia (Cx3CR1, GFP transgenic mice) and neutrophils (LY-6G-647 nm antibody). 1 hour, 24 hour and 72 hour time points were tracked in 5 mice. Lesions were induced by focusing light onto the photoreceptors for 3 minutes (488 nm, 1.12 mW, 24x1 µm). In response to light exposure, OCT images revealed focal brightening in the outer nuclear layer (ONL) through RPE within 30 minutes. Inner layers had no evidence of structural change.  Motion contrast AOSLO showed capillary perfusion was maintained post-insult. Histology revealed loss of photoreceptor nuclei at lesion sites within 7 days post-lesion (n=1 mouse, 2 lesions). AOSLO showed Cx3CR1+ cells swarming the ONL as early as 24 hours with waning aggregation through 72 hours post-lesion. Despite microglia swarming, we did not find evidence for neutrophil arrival (n=2 mice, 2 lesions) up to 72 hours post-insult. This study shows resident immune cells aggregate into deeper layers with few labeled neutrophils suggesting the importance and lasting duration of resident microglia for efferocytosis in response to damage. 
+</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: NIH Grant R01 EY028293, P30 EY001319, Career Development Award, Career Advancement Award (Schallek) and Unrestricted Grant to the University of Rochester Department of Ophthalmology from Research to Prevent Blindness, New York, New York , and a research collaboration grant from Genentech Inc.
+	</back>
+</article>

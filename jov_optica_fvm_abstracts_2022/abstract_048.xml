@@ -1,0 +1,133 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.48</article-id>
+			<article-id pub-id-type="manuscript">Talks_48</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Reaching Accuracy Assessment in Cerebellar Stroke using Virtual Reality</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Du</surname>
+						<given-names>Khai</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Benavides</surname>
+						<given-names>Leonardo</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Isenstein</surname>
+						<given-names>Emily</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tadin</surname>
+						<given-names>Duje</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Busza</surname>
+						<given-names>Ania</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Rochester</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>48</fpage>
+						<lpage>48</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Objective: To investigate the application of virtual reality (VR) in the rapid quantification of reaching accuracy at the bedside for patients with cerebellar stroke (CS).
+
+Introduction: Dysmetria, the inability to measure distance in muscular tasks correctly, is a common clinical feature of cerebellar injury. Objective quantification of reaching accuracy for clinical assessment is lacking, and the emerging VR technology with hand-tracking offers a promising opportunity to examine the speed, accuracy, and consistency of hand movements and proprioceptive function.
+
+Methods: 29 individuals (10 CS patients and 19 age-matched not-disabled controls) performed a task measuring reaching accuracy on the VR headset (Oculus Quest 2). 50% of the trials displayed a visible rendering of the hand (visible hand condition), and 50% did not (invisible hand condition).
+
+Results: Reaching error was higher in CS compared to age-matched controls in both visible and invisible hand conditions. Reaching error was higher in the invisible hand condition compared to the visible hand condition in healthy controls, right CS, left CS but not in bilateral CS patients. The average time per trial was higher in patients than in controls.   
+
+Discussion: VR technology promises to be a non-invasive and rapid approach to quantifying fine motor functions in clinical settings. Further studies are needed to examine quantitative changes in reaching accuracy during post-stroke progression. </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: 3000 summer research stipend through the U of R Office of Medical Education
+	</back>
+</article>

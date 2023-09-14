@@ -1,0 +1,144 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.72</article-id>
+			<article-id pub-id-type="manuscript">Talks_72</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Experimental assessment of scleral anisotropy using multi-meridian air-coupled ultrasonic optical coherence elastography</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Villegas</surname>
+						<given-names>Lupe</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zvietcovich</surname>
+						<given-names>Fernando</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Varea</surname>
+						<given-names>Alejandra</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Curatolo</surname>
+						<given-names>Andrea</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Birkenfeld</surname>
+						<given-names>Judith S.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Marcos</surname>
+						<given-names>Susana</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>“Daza de Valdes” Institute of Optics, The Spanish National Research Council - CSIC, Madrid, Spain</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>The Center for Visual Science, University of Rochester, Rochester, New York, USA</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>72</fpage>
+						<lpage>72</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Scleral biomechanics plays a key role in the understanding of myopia progression. In this study, we characterized the elastic properties of sclera using an air-coupled ultrasonic (ACUS) optical coherence elastography (OCE) system. New Zealand rabbit eyes (n=7) were measured (&lt;24hr postmortem) in four scleral locations: superior/inferior temporal (ST, IT), and superior/inferior nasal (SN, IN) maintaining an intraocular pressure of 15 mmHg. Elastic waves were induced in the sclera, and wave propagation velocity and shear modulus were measured along two directions: circumferential (superior-inferior) and meridional (nasal-temporal). Wave velocity in scleral tissue ranged from 6 to 24 m/s and shear modulus from 11 to 150 kPa. Velocity was significantly higher (p&lt;.001) in the circumferential vs. meridional directions in the following locations: ST:15.83±2.85 vs 9.43±1.68 m/s, IT:15.00±3.98 vs 8.93±1.53 m/s; SN:16.79±4.30 vs 9.27±1.47 m/s; and IN:13.92±3.85 vs 8.57±1.46 m/s. The average shear modulus in the circumferential was also significantly higher (p&lt;.001) than in the meridional direction for all locations: 65.37±6.04 vs 22.55±1.36 kPa. These results show that the rabbit sclera is mechanically anisotropic with higher rigidity in the circumferential direction compared to the meridional direction. ACUS-OCE is a promising non-invasive method to quantify the biomechanical changes in scleral tissue for future studies involving myopia treatments.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Horizon 2020 Framework Programme European Project Imcustomeye (H2020-ICT-2017 Ref. 779960); European Research Council (2018-ADG-SILKEYE-833106); Spanish Government PID2020-115191RB-I00; NIH NIE P30EY 001319; Unrestricted Funds Research to Prevent Blindness, NY; Spanish Government10.13039/100014440 (CSIC JAE Intro Fellowship); L'Oréal-UNESCO “For Women in Science” Spain; Spanish Government Juan de la Cierva-Incorporation Fellowship (IJC2018-037508-I); Fundacja na rzecz Nauki Polskiej (MAB/2019/12); National Agency for Academic Exchange, Polish Government (NAWA ULAM/2020/1/00176) 
+	</back>
+</article>

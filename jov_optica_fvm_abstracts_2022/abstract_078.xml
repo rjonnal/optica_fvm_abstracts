@@ -1,0 +1,101 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.78</article-id>
+			<article-id pub-id-type="manuscript">Talks_78</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: A Simple Method for the Measurement of the Color Matching Functions</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yamauchi</surname>
+						<given-names>Yasuki</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kamimura</surname>
+						<given-names>Yuki</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Liu</surname>
+						<given-names>Ruiyan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Yamagata University</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>78</fpage>
+						<lpage>78</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>It is well known that colorimetric matching of colors on different media does not ensure that their appearance is the same for everyone. One of the reasons is that there are variations in the color matching functions (CMFs) between observers, and that individual CMFs are different from that of the standard observer defined in CIE. If CMFs can be measured easily for each observer, customized color management will be possible. Traditional methods require the adjustment of the intensities of three primary lamps (R, G, B) which is not easy for naïve observers.
+A simple method is proposed in this research, in which observers select the closest color from multiple candidates to a reference. The candidate colors are composed of 5 x 5 x 5 lattice, whose center is the expected matching color.
+ The average and standard deviation of the CMFs were calculated based on the CMFs of 11 observers. For each CMF, 5 candidate values were produced: average, average +/- 1/2 SD, average +/- SD. In the experiment, the observers were allowed to choose one for each CMF of RGB among 5 candidates to make a best match. Five observers whose CMFs were measured with the adjustment method participated in the experiment. The results of two methods showed good consistencies for the G and R CMFs, while some discrepancies were observed for the B CMFs. The total time of the experiment was reduced to 1/4 to 1/3, and it was also easy for the naïve subjects, which indicate that our method is an effective one.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: This work was partially supported by JSPS KAKENHI (C) Grant Number 20K12017
+	</back>
+</article>

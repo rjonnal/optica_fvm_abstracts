@@ -1,0 +1,157 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.58</article-id>
+			<article-id pub-id-type="manuscript">Talks_58</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Spatial-frequency-selective enhancement of visual sensitivity from saccade dynamics</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Li</surname>
+						<given-names>Yuanhao H.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Cox</surname>
+						<given-names>Michele A.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Intoy</surname>
+						<given-names>Janis</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Victor</surname>
+						<given-names>Jonathan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yang</surname>
+						<given-names>Bin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhao</surname>
+						<given-names>Zhetuo</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rucci</surname>
+						<given-names>Michele</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Rochester</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Feil Family Brain and Mind Research Institute, Weill Cornell Medical College</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>58</fpage>
+						<lpage>58</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Eye movements transform a spatial scene into luminance modulations on the retina. Recent work has shown that this transformation is highly structured: within human temporal sensitivity, saccades deliver power that increases in proportion to spatial frequency (SF) up to a critical frequency and remains constant beyond that. Importantly, the critical SF increases with decreasing amplitude. Therefore, at sufficiently low SFs, larger saccades effectively deliver stronger input signals to the retina. Here we tested whether this input reformatting has the predicted perceptual consequences, by examining how large and small saccades (6o &amp 1o) affect contrast sensitivity. We measured relative sensitivity at two SFs: a reference (0.5 cpd), equal to the critical SF for the small saccade, and a probe at either a lower or higher SF (0.1/2.5 cpd). We predicted that large saccades enhance visibility only when the probe has a lower SF than the reference. Subjects (N=7) made instructed saccades while presented with a plaid of overlapping orthogonal gratings at the two SFs and reported which grating was more visible. Results closely follow theoretical predictions: psychometric functions following small and large saccades only differed with the lower SF probe, in which case the larger saccade significantly enhanced visibility. In sum, saccades enable selectivity not only in the spatial domain, but also in the spatial-frequency domain.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: This work was supported by Meta Reality Labs and National Institutes of Health grants EY018363 (MR) and EY07977 (JV).
+	</back>
+</article>

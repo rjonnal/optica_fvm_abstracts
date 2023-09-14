@@ -1,0 +1,156 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.22</article-id>
+			<article-id pub-id-type="manuscript">Talks_22</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session II</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session II: In vivo imaging of immune cell activity in primate retina after photoreceptor ablation</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ashbery</surname>
+						<given-names>Drew</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Baez</surname>
+						<given-names>Hector</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kunala</surname>
+						<given-names>Karteek</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Power</surname>
+						<given-names>Derek</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Schallek</surname>
+						<given-names>Jesse</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>McGregor</surname>
+						<given-names>Juliette</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Rochester Medical School and Center for Visual Science</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>University of Rochester Center for Visual Science and Biomedical Education Department</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>University of Rochester Center for Visual Science</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Flaum Eye Institute and Center for Visual Science</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>22</fpage>
+						<lpage>22</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The non-human primate (NHP) is the gold standard animal model for preclinical development of gene and cell based therapies for vision restoration. However, the ocular immune response to these interventions remains poorly understood. We conducted a proof of concept study using offset aperture adaptive optics scanning light ophthalmoscopy (AOSLO) to visualize cellular-scale changes in the primate retina following photoreceptor (PR) ablation. Ultrafast 730nm laser exposure at 26.6 - 32.5 J/cm2 was used to create six lesions in four NHPs. Offset aperture images focused on retinal vascular layers were collected with an offset distance of ~10 Airy Disk Diameters from 15 minutes up to three hours after PR ablation. We observed putative immune cells in and around vessels supplying the lesioned areas. Consistent with previous findings in murine models, cells within vessels adhered to the inner wall, exhibited crawling behavior, and had a diameter ranging from ~9.3 - 11.5 µm. Additionally, we observed the emergence of cellular-scale structures above the PR layer that originated in the center of the lesion 15 minutes post-insult and gradually radiated outward. Vascular perfusion was maintained in these regions. Our data suggest that offset aperture imaging offers cellular-scale, label free, in vivo assessment of the retinal response to insult in NHPs and could be employed to advance our understanding of the ocular immune response provoked by disease and therapeutic interventions.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Research reported in this publication was supported by the National Eye Institute of the National Institutes of Health under the AGI initiative NIH U24 EY033275 (to McGregor), R01 EY028293 (Schallek), CVS core support from NIH P30 EY0001319. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Inst. of Health. Additional funding from the Steven. E. Feldon Scholarship from the Flaum Eye Institute (McGregor), a Career Development Award, Career Advancement Award (Schallek) and Unrestricted Grant to the University of Rochester Department of Ophthalmology from Research to Prevent Blindness, New York, New York and a summer fellowship from the University of Rochester Medical School (Ashbery).
+	</back>
+</article>

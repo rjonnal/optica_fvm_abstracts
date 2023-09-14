@@ -1,0 +1,149 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.20</article-id>
+			<article-id pub-id-type="manuscript">Talks_20</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session II</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session II: Detecting subclinical keratoconus by mapping corneal biomechanics using wave-based optical coherence elastography</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zvietcovich</surname>
+						<given-names>Fernando</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Birkenfeld</surname>
+						<given-names>Judith</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Alejandre-Alba</surname>
+						<given-names>Nicolas</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Merayo</surname>
+						<given-names>Jesus</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Marcos</surname>
+						<given-names>Susana</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>"Daza de Valdes" Institute of Optics, The Spanish National Research Council - CSIC, Madrid 28006, Spain</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>"Daza de Valdes” Institute of Optics, Spanish National Research Council, Madrid, Spain</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Ophthalmology Department, Fundación Jiménez Díaz University Hospital, Madrid, Spain</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Fernandez-Vega Institute, University of Oviedo, Oviedo, Spain.</institution>
+				</aff>
+
+
+				<aff id="aff5">
+					<label><sup>5</sup></label>
+					<institution>The Center of Visual Science, University of Rochester</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>20</fpage>
+						<lpage>20</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The detection of subclinical keratoconus in human corneas remains a challenging task. It is hypothesized that the focal reduction in biomechanical properties of the cornea would be the primary initiating event of keratoconus before changes in topography and pachymetry are manifested. We propose to use an air-couple ultrasonic optical coherence elastography system to map the elasticity of the corneas of 15 patients with a clinical diagnosis of keratoconus (KC) in one eye, and subclinical keratoconus (SK) in the fellow eye. The fully non-contact system excites the corneal apex to produce Lamb wave propagation and measures wave speed and average corneal thickness along 16 semi-meridians. Measurements in 30 human healthy subjects (control group: CG, N = 60 corneas) defined a baseline of normal biomechanics in two biomarkers: Spatial Anisotropy of Wave Speed (SAWS &lt; 0.207), and the Speed-Thickness Index (STI &gt; 0). SAWS was significantly higher in KC (0.353, p &lt; 0.001) and SK (0.249, p &lt; 0.001) corneas when compared to the CG. Moreover, STI maps show abnormal elasticity in SK (STI = -1.22) and KC (STI = -0.375) compared to the CG. Our results show important biomechanical differences in SAWS and STI between normal, subclinical, and advanced stages of keratoconus, suggesting those as potential biomarkers to identify “at-risk” corneas before changes in topography and pachymetry become evident.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Horizon 2020 Framework Programme European Project Imcustomeye (H2020-ICT-2017 Ref. 779960); European Research Council (2018-ADG-SILKEYE-833106); Spanish Government10.13039/100014440 (CSIC JAE Intro Fellowship); L'Oréal-UNESCO “For Women in Science” Spain; Spanish Government Juan de la Cierva-Incorporation Fellowship (IJC2018-037508-I); Spanish Government PID2020-115191RB-I00; NIH NIE P30EY 001319; Unrestricted Funds Research to Prevent Blindness, NY
+	</back>
+</article>

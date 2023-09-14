@@ -1,0 +1,195 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.38</article-id>
+			<article-id pub-id-type="manuscript">Talks_38</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Estimation of scleral biomechanical properties from air-puff-coupled optical coherence tomography</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Birkenfeld</surname>
+						<given-names>Judith S.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Villegas</surname>
+						<given-names>Lupe</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>de la Hoz</surname>
+						<given-names>Andrés </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bronte-Ciriza</surname>
+						<given-names>David</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Varea</surname>
+						<given-names>Alejandra</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Martínez-Enríquez</surname>
+						<given-names>Eduardo</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Curatolo</surname>
+						<given-names>Andrea</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Germann</surname>
+						<given-names>James A.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Marcos</surname>
+						<given-names>Susana</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Instituto de Óptica "Daza de Valdés", Consejo Superior de Investigaciones Científicas (IO-CSIC), Madrid, Spain</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>CNR – IPCF, Istituto per i Processi Chimico-Fisici, Messina, Italy</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>ICTER and Institute of Physical Chemistry, Polish Academy of Sciences, Warsaw, Poland</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>The Center for Visual Science, University of Rochester, Rochester, New York, USA</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>38</fpage>
+						<lpage>38</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Progression of myopia is usually accompanied by axial overgrowth of the eyeball, which affects scleral biomechanics (BM). To study scleral biomechanics, we propose the use of air-puff deformation swept-source OCT imaging. Air-puff deformation imaging was performed at different sites of ex vivo porcine (n=5) and rabbit (n=3) eyes, (&lt;24hr postmortem): Nasal/temporal equatorial and posterior sclera (NE, NP, TE, TP), superior (S) and inferior (I) sclera, and cornea (C). Intraocular pressure was kept at 15mmHg. Deformation data were used as input to inverse finite element model (FEM) algorithms to reconstruct BM properties. Experimental deformation amplitudes showed dependence on the animal model, with porcine scleras exhibiting greater inter-site variation (displacement of S, I was up to four times greater than that of N, T), while rabbit scleras exhibited at most 40% of displacement differences between all sites. Both models showed significant (p&lt;.001) differences in the temporal deformation profile between sclera and (C), but similarities in all scleral locations, suggesting that the scleral temporal profile is independent of scleral thickness variations. The FEM estimated an elastic modulus of 1.84 ± 0.30 MPa (I) to 6.04 ± 2.11 MPa (TE) for the porcine sclera. The use of scleral air-puff imaging is promising for noninvasive investigation of structural changes in the sclera associated with myopia and for monitoring possible modulation of scleral stiffness with myopia treatment.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Horizon 2020 Framework Programme European Project Imcustomeye (H2020-ICT-2017 Ref. 779960); European Research Council (2018-ADG-SILKEYE-833106); Spanish Government10.13039/100014440 (CSIC JAE Intro Fellowship); L'Oréal-UNESCO “For Women in Science” Spain; Spanish Government Juan de la Cierva-Incorporation Fellowship (IJC2018-037508-I); Spanish Government PID2020-115191RB-I00; Fundacja na rzecz Nauki Polskiej (MAB/2019/12); National Agency for Academic Exchange, Polish Government (NAWA ULAM/2020/1/00176); NIH NIE P30EY 001319; Unrestricted Funds Research to Prevent Blindness, NY
+	</back>
+</article>

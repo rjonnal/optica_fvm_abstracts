@@ -1,0 +1,125 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.84</article-id>
+			<article-id pub-id-type="manuscript">Talks_84</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Neural Correlates of the Visual Expectation of Active and Passive Touch </article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Isenstein</surname>
+						<given-names>Emily</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rico</surname>
+						<given-names>Grace</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Freedman</surname>
+						<given-names>Ed</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tadin</surname>
+						<given-names>Duje</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Foxe</surname>
+						<given-names>John</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Rochester</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>84</fpage>
+						<lpage>84</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The sense of touch is frequently paired with a visual stimulus that provides information on how the sensation will be experienced. This is true for both active touch—when a person moves to touch an object—and passive touch—when an object moves to touch a person. However, limited research has been conducted on how active and passive touch are processed by the cortex, as well as how prediction of the sensory experience influences that processing. Here, we use electroencephalography (EEG) to measure cortical activity while virtual reality creates the visual expectation of touching an object that is paired with vibrotactile feedback. In the active condition, the participant will reach toward and receive tactile input from the virtual object. In the passive condition, the virtual object will move toward and provide tactile input to the participant. This experiment will measure an electrophysiological phenomenon called the mismatch negativity (MMN), a distinct deflection in the EEG waveform shown to index a deviation from an established pattern in sensory stimuli. To elicit an MMN, we will manipulate the duration of the vibrotactile stimuli, with 80% being 100 ms long and 20% being 160 ms long. Our experiment is the first to assess the MMN in an active tactile context. Preliminary data (n=4) show a robust N1 component and MMN in response to active and passive touch. Further data collection is ongoing. </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Autism Science Foundation
+	</back>
+</article>

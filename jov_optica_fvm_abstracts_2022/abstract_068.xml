@@ -1,0 +1,95 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.68</article-id>
+			<article-id pub-id-type="manuscript">Talks_68</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: After up to a year of hyperglycemia Ins2Akita mice show minimal capillary change</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Shang</surname>
+						<given-names>Fei</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Schallek</surname>
+						<given-names>Jesse</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Rochester Center for Visual Science</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>University of Rochester, Center for Visual Science, Flaum Eye Institute</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>68</fpage>
+						<lpage>68</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Diabetic retinopathy (DR) is a leading cause of blindness and is detected clinically via retinal vascular changes. Here we measure the impact of hyperglycemia in a mouse model to evaluate changes in retinal capillary density, path length and pericyte coverage.
+We crossbred mice with fluorescent pericytes (NG2DSRed) with hyperglycemic mice (Ins2Akita) to produce offspring with labeled pericytes and sustained hyperglycemia. Retinas from male mice (7 to 53 weeks) were fixed, flat mounted, then imaged with confocal microscopy (Nikon eclipse Ti2e). Pericytes and vessel path length were manually measured with ImageJ. Custom MATLAB code rendered path length as a function of depth. Two-tailed t-tests were used for statistics.
+Regardless of hyperglycemic duration, Akita+ mice (n=7) had a pericyte density of 307.03 ± 69.09 cells/mm2 which was less than, but not statistically different from Akita- mice (n=5; 348.51 ± 29.78 cells/mm2; p=0.12). We did not find a difference in total path length in any of the trilaminar layers: superficial (p=0.08), intermediate (p=0.95) or deep (p=0.52).
+Akita+ mice had increased blood glucose, decreased body weight, and polyuria. Despite a systemic phenotype, we saw no reduction in pericytes or vessel path length, even after ~1 year of hyperglycemic insult. These findings indicate that Ins2Akita vascular changes may be more subtle than previously reported and neural/behavioral deficits may not correlate with microvascular path length or pericyte density.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: NIH Grant R01 EY028293, P30 EY001319, Career Development Award, Career Advancement Award (Schallek) and Unrestricted Grant to the University of Rochester Department of Ophthalmology from Research to Prevent Blindness, New York, New York , and a research collaboration grant from Genentech Inc.
+	</back>
+</article>

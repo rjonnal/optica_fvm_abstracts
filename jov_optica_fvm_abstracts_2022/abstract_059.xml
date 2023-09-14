@@ -1,0 +1,131 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.59</article-id>
+			<article-id pub-id-type="manuscript">Talks_59</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: A unifying framework for perceptual decision-making</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lin</surname>
+						<given-names>Ying</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chen</surname>
+						<given-names>Zhen</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Reynoso</surname>
+						<given-names>Jose</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Haefner</surname>
+						<given-names>Ralf</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tadin</surname>
+						<given-names>Duje</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Rochester</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>The City College of New York</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>59</fpage>
+						<lpage>59</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Perceptual decision making (PDM) has been studied using two approaches. Threshold measurement is predominant used in psychophysics, while reaction times (RT) with associated models have been used to estimate components of PDM (i.e., drift rate). To test if these two approaches reflect overlapping mechanisms, we conducted 3 experiments: a motion, a static orientation, and a dynamic orientation task. DT is the shortest stimulus presentation time sufficient to make accurate perceptual decisions. RTs and choices were fitted by a drift diffusion model (DDM). We expected a close relationship between DTs and drift rates, allowing us to accurately predict DTs from RT. In the motion task, we found a close relation between the empirical DTs and the DTs predicted by the DDM. Surprisingly, in the static task, there was little correlation between the two; DTs, improved monotonically with higher contrast, but drift rates saturated at 6%. We hypothesize that this mismatch is due to the information being available immediately in the static task, without needing to accumulate new evidence. Thus, we developed a novel dynamic orientation task that mimics the dynamic nature of the motion task and found a similar relation between DTs and drift rates. In summary, we show a close link between DTs and drift rate for the two dynamic tasks. This result supports the conceptualization of drift rate as a proxy for perceptual sensitivity but only for task where new information becomes available over time.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: None
+	</back>
+</article>

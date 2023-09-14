@@ -1,0 +1,180 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.81</article-id>
+			<article-id pub-id-type="manuscript">Talks_81</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Deep Active Learning Using Retinal Image Embedding Vectors to Optimize Training Data Selections</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Yifan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sheehy</surname>
+						<given-names>Christy</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Min</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rossi</surname>
+						<given-names>Ethan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Green</surname>
+						<given-names>Ari</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff6"><sup>6</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Xing</surname>
+						<given-names>Joe</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>C. Light Technologies, Inc.</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Computer Science, University of California, Berkeley</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Department of Statistics, University of California, Berkeley</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Department of Ophthalmology, University of Pittsburgh School of Medicine</institution>
+				</aff>
+
+
+				<aff id="aff5">
+					<label><sup>5</sup></label>
+					<institution>Department of Neurology, University of California, San Francisco</institution>
+				</aff>
+
+
+				<aff id="aff6">
+					<label><sup>6</sup></label>
+					<institution>Department of Ophthalmology, University of California, San Francisco</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>81</fpage>
+						<lpage>81</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>In recent years, deep learning (DL) has made breakthroughs in many fields. However, the success of DL requires constant re-training with large amounts of data, which is often costly, causing data paucity problems in the medical space. Active learning (AL), on the other hand, aims to reduce the amount of training data while still retaining similar performance through the exploration of the added value of data. 
+
+In this study, we designed an AL system for training Artificial Intelligence (AI) models to explore faster learning curves while minimizing the need for new data. The model was designed for vessel object detection, using a Deep Neural Network (DNN), for scanning laser ophthalmoscopy (SLO) retinal images. Image embedding vectors were used to proactively select the most informative data. We established a baseline of k-fold cross validation frameworks to measure model performance, where 809 annotated images were randomly selected from our database and divided into multiple regions of interest with minimal selection bias. Using this validation framework, we observed the detection model for vessel junctions could achieve a mean average precision (mAP) of 0.648, precision of 0.645, and recall of 0.703; tested on 135 images. We then tested our active learning system by dividing the dataset into two clusters using image embedding vectors and machine learning clustering algorithms. We observed one cluster converged faster to the desired mAP performance than the other by 2.3x.
+</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: This research was supported by grants from the National Institutes of Health TL1 TR 001871 (C.K.S.) and R41 NS100222-01A1 (A.J.G. and C.K.S.), and That Man May See (A.J.G. and C.K.S.).
+	</back>
+</article>

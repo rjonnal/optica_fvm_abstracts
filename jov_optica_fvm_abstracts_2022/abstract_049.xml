@@ -1,0 +1,131 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.49</article-id>
+			<article-id pub-id-type="manuscript">Talks_49</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Perceived image quality of natural images through different bifocal corrections after adaptation to sharp or blur.</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Esteban-Ibañez</surname>
+						<given-names>Eduardo</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gambra</surname>
+						<given-names>Enrique</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Marrakchi</surname>
+						<given-names>Yassine</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sawides</surname>
+						<given-names>Lucie</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dorronsoro </surname>
+						<given-names>Carlos</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Institute of Optics (CSIC)/ 2EyesVision SL</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>2EyesVision SL</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>49</fpage>
+						<lpage>49</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Simultaneous Vision, present in bifocal and multifocal contact or intraocular lenses, is a common clinical strategy for presbyopia. Neural adaptation is known to occur, but it is not predictable nor well understood. Previous works have studied the short-term neural adaptation to bifocal images using Adaptive Optics and digital convolutions of a face image (with pure defocus and simultaneous images) as adaptation images, and also as test images for perceptual judgments (Radhakrishnan et al., 2014). In this study, we use a programmable see-through head-mounted visual simulator (SimVis Gekko) to analyze the effect of neural adaptation on the perceived image quality of different bifocal corrections (BC) with different balances of energy between far and near, and for different transitions between adaptation and test. Eight subjects judged a video sequence of urban natural images, through two monofocal corrections (0 and 3D) and nine BCs (far/near balance from 90/10 to 10/90 and an addition of 3.00D), optically simulated monocularly. Two initial adaptation states of 10s were used: 0.00D-SHARP and 3.00D-BLUR, followed a transition from these states to the BC that can be ABRUPT (with 1, 5 or 30s of adaptation), or SMOOTH (linear transition lasting 1, 5 or 30s). Our results show a significant increase in perceptual quality after adaptation to BLUR, particularly for intermediate energy balances. However, subjects are quite insensitive to the type and duration of the transition.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Industrial PhD Grant (Comunity of Madrid) IND2020/BMD-17442
+	</back>
+</article>

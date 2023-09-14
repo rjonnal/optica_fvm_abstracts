@@ -1,0 +1,220 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.80</article-id>
+			<article-id pub-id-type="manuscript">Talks_80</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Comparison of Dynamic Visual Acuity Assessments in Head-Mounted Technology and Traditional Laptop-based Method</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zaman</surname>
+						<given-names>Nasif</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Waisberg</surname>
+						<given-names>Ethan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ong</surname>
+						<given-names>Joshua</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Paladugu</surname>
+						<given-names>Phani </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kamran</surname>
+						<given-names>Sharif Amit</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lee</surname>
+						<given-names>Andrew G.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff6"><sup>6</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff7"><sup>7</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff8"><sup>8</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff9"><sup>9</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff10"><sup>10</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tavakkoli</surname>
+						<given-names>Alireza</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Human-Machine Perception Laboratory, Department of Computer Science and Engineering, University of Nevada, Reno, Reno, Nevada, United States</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>University College Dublin School of Medicine, Belfield, Dublin, Ireland</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Michigan Medicine, University of Michigan, Ann Arbor, Michigan, United States</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Brigham and Women’s Hospital, Harvard Medical School, Boston, Massachusetts, United States</institution>
+				</aff>
+
+
+				<aff id="aff5">
+					<label><sup>5</sup></label>
+					<institution>Department of Ophthalmology, Blanton Eye Institute, Houston Methodist Hospital, Houston, Texas, United States</institution>
+				</aff>
+
+
+				<aff id="aff6">
+					<label><sup>6</sup></label>
+					<institution>The Houston Methodist Research Institute, Houston Methodist Hospital, Houston, Texas, United States</institution>
+				</aff>
+
+
+				<aff id="aff7">
+					<label><sup>7</sup></label>
+					<institution>Departments of Ophthalmology, Neurology, and Neurosurgery, Weill Cornell Medicine, New York, New York, United States</institution>
+				</aff>
+
+
+				<aff id="aff8">
+					<label><sup>8</sup></label>
+					<institution>Department of Ophthalmology, University of Texas Medical Branch, Galveston, Texas, United States</institution>
+				</aff>
+
+
+				<aff id="aff9">
+					<label><sup>9</sup></label>
+					<institution>University of Texas MD Anderson Cancer Center, Houston, Texas, United States Texas A&M College of Medicine, Texas, United States</institution>
+				</aff>
+
+
+				<aff id="aff10">
+					<label><sup>10</sup></label>
+					<institution>Department of Ophthalmology, The University of Iowa Hospitals and Clinics, Iowa City, Iowa, United States</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>80</fpage>
+						<lpage>80</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>An impairment in dynamic visual acuity (DVA) has been observed in astronauts shortly after they return to Earth.1 These transitional effects may lead to safety risks during interplanetary spaceflight. At this time, functional vision assessments are performed via laptop onboard the International Space Station. However, DVA is not performed as a standard assessment, and optimization of traditional assessments may aid in more efficient and frequent testing. As part of our group’s NASA-funded head-mounted visual assessment system to detect subtle vision changes in long-duration spaceflight2, we present a method to measure DVA in virtual reality. An early validation study was conducted with 5 subjects comparing our novel assessment with a traditional laptop-based test. All participants had a best correctable visual acuity of 20/20, had no past ocular history, balancing disorders, or neurological history. Our DVA assessment framework was built in UnrealEngine 4. The early validation study confirmed that our VR-based DVA assessment performed similarly to traditional laptop-based test (0.485 and 0.525 LogMar respectively, Pearson Correlation = 0.911). A Bland-Altman plot and analysis demonstrated that our DVA assessment data fell within the upper and lower limits of agreement. Future studies are required to further validate this technology; however, these early results showcase VR-based DVA assessment as a promising alternative to laptop-based methods.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: NASA Grant [80NSSC20K183]: A Non-intrusive Ocular Monitoring Framework to Model Ocular Structure and Functional Changes due to Long-term Spaceflight.
+	</back>
+</article>

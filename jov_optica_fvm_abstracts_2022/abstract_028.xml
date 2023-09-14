@@ -1,0 +1,73 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.28</article-id>
+			<article-id pub-id-type="manuscript">Talks_28</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session V: The eye as a window to systemic and neurodegenerative health</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session V: The eye as a window to systemic and neurodegenerative health: Disturbances of retinal structure in schizophrenia spectrum disorders and their clinical implications</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Silverstein</surname>
+						<given-names>Steven M.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Departments of Psychiatry, Neuroscience, and Ophthalmology, University of Rochester</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>28</fpage>
+						<lpage>28</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Schizophrenia (SZ) is a disabling psychiatric condition that is characterized by disturbances in reality testing (e.g., hallucinations, delusions) during its acute phase and by many brain-related impairments. It has become apparent, however, that the CNS disturbance in SZ extends to the retina. Studies have demonstrated retinal structural (neural and vascular) and functional (e.g., ERG) changes in SZ, although findings vary in effect size and confounds are often present. This presentation will review several studies from my lab that used OCT and OCTA to investigate retinal characteristics of people with SZ, with a focus on characterizing within-group heterogeneity. Results indicate that: 1) retinal thinning is present at the macula, but not until several years after the first psychotic episode; 2) reductions in microvasculature density are observable as early as the first episode and worsen over time at a greater rate than expected by age alone; 3) microvasculature reductions are present in both the superficial and deep retinal layers; and 4) issues such as diabetes, smoking, and obesity must be carefully considered when studying the retina in SZ. Findings will be discussed within the context of the emerging view that SZ is multi-system disorder with a significant vascular-ischemic component.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Supported by a grant from the New York Fund for Innovation in Research and Scientific Talent (NYFIRST)
+	</back>
+</article>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.31</article-id>
+			<article-id pub-id-type="manuscript">Talks_31</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session V: The eye as a window to systemic and neurodegenerative health</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session V: The eye as a window to systemic and neurodegenerative health: In vivo study of higher-order retinal hemodynamics in human retinal capillaries</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Yuhua</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Doheny Eye Institute, Department of Ophthalmology, University of California - Los Angeles</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>31</fpage>
+						<lpage>31</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Pulsatile erythrocyte flow in human retinal capillaries reflects the capillary-blood flow system&#39;s mechanical condition and represents a fundamental functioning aspect of retinal microcirculation. Inside the capillary, the erythrocytes are continuously accelerated and decelerated by systemic pressure and hydrostatic and osmotic pressures periodically with the heartbeat. This process can be described by the Navier-Stokes equation: ρ(∂v/∂t+v∙∇v)=-∇P+∇∙T, ρ is the density, v is the velocity, P is the pressure, and T represents the stress tensor. The time variation of the flow velocity (∂v/∂t), i.e., the acceleration, is a higher-order dynamics term (compared to velocity) of the pulsatile flow, reflects the temporal variation of the hemodynamic forces, and informs the dynamic mechanical properties of the erythrocyte-capillary system. Higher-order dynamics relating to the acceleration of the erythrocytes in retinal capillaries have not been investigated in the human eye due to inadequate technical measures. This study aims to characterize the higher-order retinal hemodynamics and identify sensitive biomarkers for quantifying age-related changes in the retinal microcirculation using high-speed adaptive optics near-confocal ophthalmoscopy. In human subjects in normal physical health with different ages, we demonstrate that higher-order hemodynamic characteristics of the erythrocyte flow in the retinal capillary can disclose age-related differences in the retinal microcirculation.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: NIH R01EY024378), W. M. Keck Foundation, Carl Marshall Reeves & Mildred Almen Reeves Foundation, and Research to Prevent Blindness/Dr. H. James and Carole Free Catalyst Award for Innovative Research Approaches for AMD.
+	</back>
+</article>

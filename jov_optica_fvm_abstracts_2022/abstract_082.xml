@@ -1,0 +1,95 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.8.82</article-id>
+			<article-id pub-id-type="manuscript">Talks_82</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session: Dynamic optomechanical eye model for the validation of peripheral aberration measurement</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhao</surname>
+						<given-names>Yanbo</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fang</surname>
+						<given-names>Fengzhou</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Centre of Micro/Nano Manufacturing Technology (MNMT-Dublin), University College Dublin, Dublin 4, Ireland</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>State Key Laboratory of Precision Measuring Technology and Instruments, Centre of Micro/Nano Manufacturing Technology (MNMT), Tianjin University, Tianjin 300072, China</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>7</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>8</issue>
+						<fpage>82</fpage>
+						<lpage>82</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Many myopia control products based on the peripheral defocus theory have emerged on the market in the past five years. However, efficient measurement of peripheral aberrations is still not a well-addressed problem. To validate the aberrometer for peripheral aberration measurement, a dynamic wide field optomechanical eye model is designed and fabricated. This model consists of a plano-convex lens representing cornea (f’=30mm), a double-convex lens representing crystalline lens (f’=100mm), and a spherical retinal screen with a 12mm radius. To optimize the quality of spot-field images get from the Hartman-Shack sensor, the materials and surface treatment for the retina are studied. The model has a movable retina to achieve Zernike 4th item (Z4 focus) ranging from -6.28-＋6.84 μm. As for M (Mean sphere equivalent), it can achieve -11.85D-+10.88D at 0° visual field and -6.97D-+5.88D at 30° visual field with a 4mm pupil size. To allow a changing pupil size, a slot at the back of the cornea mount and a series of thin metal sheets with 2, 3, 4, and 6 mm holes are manufactured. Both on-axis aberrations and peripheral aberrations of the eye model are verified by commercial aberrometer VX130 (Luneau Technology, France) and the feasibility of the eye model to mimic a human eye in a peripheral aberration measuring system is illustrated.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                Funding: Science Foundation Ireland (SFI) (No. 15/RP/B3208) and Enterprise Ireland (EI) (CF20221894)
+	</back>
+</article>
