@@ -12,8 +12,8 @@ sessions[10] = 'Poster Session'
 
 year = 2023
 volume = 23
-issue = 8
-month = 7
+issue = 10
+month = 9
 output_folder = './jov_optica_fvm_abstracts_2022'
 
 max_authors = 17
