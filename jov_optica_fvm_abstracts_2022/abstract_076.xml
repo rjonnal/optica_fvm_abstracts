@@ -44,7 +44,7 @@
 						<given-names>Sławomir</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -57,7 +57,7 @@
 						<given-names>Dawid</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -70,7 +70,7 @@
 						<given-names>Maciej</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -83,7 +83,7 @@
 						<given-names>Andrea</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -94,6 +94,12 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
+					<institution>ICTER – International Centre for Translational Eye Research</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
 					<institution>ICTER – International Centre for Translational Eye Research</institution>
 				</aff>
 

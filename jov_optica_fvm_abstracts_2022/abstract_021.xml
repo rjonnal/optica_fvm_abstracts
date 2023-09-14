@@ -89,7 +89,7 @@
 						<given-names>Marco</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff6"><sup>6</sup></xref>
 
 
 				</contrib>
@@ -118,10 +118,10 @@
 						<given-names>Susana</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff6"><sup>6</sup></xref>
-
-
 					<xref ref-type="aff" rid="aff7"><sup>7</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff8"><sup>8</sup></xref>
 
 
 				</contrib>
@@ -162,12 +162,18 @@
 
 				<aff id="aff6">
 					<label><sup>6</sup></label>
-					<institution>Instituto de Óptica, Consejo Superior de Investigaciones Cientificas, Madrid, Madrid, Spain</institution>
+					<institution>Ophthalmic Biophysics Center, Bascom Palmer Eye Institute, University of Miami Miller School of Medicine, Miami, FL, United States.</institution>
 				</aff>
 
 
 				<aff id="aff7">
 					<label><sup>7</sup></label>
+					<institution>Instituto de Óptica, Consejo Superior de Investigaciones Cientificas, Madrid, Madrid, Spain</institution>
+				</aff>
+
+
+				<aff id="aff8">
+					<label><sup>8</sup></label>
 					<institution>Center for Visual Science. The Institute of Optics. Flaum Eye Institute, University of Rochester, Rochester, NY, United States.</institution>
 				</aff>
 

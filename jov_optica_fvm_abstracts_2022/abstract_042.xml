@@ -109,7 +109,7 @@
 						<given-names>Michele</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
 
 
 				</contrib>
@@ -139,6 +139,12 @@
 				<aff id="aff4">
 					<label><sup>4</sup></label>
 					<institution>Weill Cornell Medical College</institution>
+				</aff>
+
+
+				<aff id="aff5">
+					<label><sup>5</sup></label>
+					<institution>Department of Brain and Cognitive Sciences & Center for Visual Sciences, University of Rochester</institution>
 				</aff>
 
 

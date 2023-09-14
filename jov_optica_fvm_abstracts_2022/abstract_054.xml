@@ -44,7 +44,7 @@
 						<given-names>Khondker Fariha</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -57,7 +57,7 @@
 						<given-names>Joshua</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
 
 
 				</contrib>
@@ -70,9 +70,6 @@
 						<given-names>Andrew G.</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
 					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
 
 
@@ -94,6 +91,9 @@
 					<xref ref-type="aff" rid="aff10"><sup>10</sup></xref>
 
 
+					<xref ref-type="aff" rid="aff11"><sup>11</sup></xref>
+
+
 				</contrib>
 
 
@@ -104,7 +104,7 @@
 						<given-names>Alireza</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -121,54 +121,60 @@
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Michigan Medicine, University of Michigan, Ann Arbor, Michigan, United States</institution>
+					<institution>Human-Machine Perception Laboratory, Department of Computer Science and Engineering, University of Nevada, Reno, Reno, Nevada, United States</institution>
 				</aff>
 
 
 				<aff id="aff3">
 					<label><sup>3</sup></label>
-					<institution>Center for Space Medicine, Baylor College of Medicine, Houston, Texas, United States</institution>
+					<institution>Michigan Medicine, University of Michigan, Ann Arbor, Michigan, United States</institution>
 				</aff>
 
 
 				<aff id="aff4">
 					<label><sup>4</sup></label>
-					<institution>Department of Ophthalmology, Blanton Eye Institute, Houston Methodist Hospital, Houston, Texas, United States</institution>
+					<institution>Center for Space Medicine, Baylor College of Medicine, Houston, Texas, United States</institution>
 				</aff>
 
 
 				<aff id="aff5">
 					<label><sup>5</sup></label>
-					<institution>The Houston Methodist Research Institute, Houston Methodist Hospital, Houston, Texas, United States</institution>
+					<institution>Department of Ophthalmology, Blanton Eye Institute, Houston Methodist Hospital, Houston, Texas, United States</institution>
 				</aff>
 
 
 				<aff id="aff6">
 					<label><sup>6</sup></label>
-					<institution>Departments of Ophthalmology, Neurology, and Neurosurgery, Weill Cornell Medicine, New York, New York, United States</institution>
+					<institution>The Houston Methodist Research Institute, Houston Methodist Hospital, Houston, Texas, United States</institution>
 				</aff>
 
 
 				<aff id="aff7">
 					<label><sup>7</sup></label>
-					<institution>Department of Ophthalmology, University of Texas Medical Branch, Galveston, Texas, United States</institution>
+					<institution>Departments of Ophthalmology, Neurology, and Neurosurgery, Weill Cornell Medicine, New York, New York, United States</institution>
 				</aff>
 
 
 				<aff id="aff8">
 					<label><sup>8</sup></label>
-					<institution>University of Texas MD Anderson Cancer Center, Houston, Texas, United States</institution>
+					<institution>Department of Ophthalmology, University of Texas Medical Branch, Galveston, Texas, United States</institution>
 				</aff>
 
 
 				<aff id="aff9">
 					<label><sup>9</sup></label>
-					<institution>Texas A&M College of Medicine, Texas, United States</institution>
+					<institution>University of Texas MD Anderson Cancer Center, Houston, Texas, United States</institution>
 				</aff>
 
 
 				<aff id="aff10">
 					<label><sup>10</sup></label>
+					<institution>Texas A&M College of Medicine, Texas, United States</institution>
+				</aff>
+
+
+				<aff id="aff11">
+					<label><sup>11</sup></label>
 					<institution>Department of Ophthalmology, The University of Iowa Hospitals and Clinics, Iowa City, Iowa, United States</institution>
 				</aff>
 

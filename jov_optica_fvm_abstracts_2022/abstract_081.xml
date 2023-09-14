@@ -105,7 +105,7 @@
 						<given-names>Joe</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff7"><sup>7</sup></xref>
 
 
 				</contrib>
@@ -147,6 +147,12 @@
 				<aff id="aff6">
 					<label><sup>6</sup></label>
 					<institution>Department of Ophthalmology, University of California, San Francisco</institution>
+				</aff>
+
+
+				<aff id="aff7">
+					<label><sup>7</sup></label>
+					<institution>C. Light Technologies, Inc</institution>
 				</aff>
 
 

@@ -11,6 +11,37 @@ def similarity(s1,s2):
     """See https://docs.python.org/3/library/difflib.html#difflib.SequenceMatcher"""
     return SequenceMatcher(None,s1,s2).ratio()
 
+def reduce_list(L,threshold=0.9,interactive=True):
+    """Check to see if items in list are near-duplicates and replace one with the other."""
+    N = len(L)
+    L_new = []
+    for idx1 in range(N):
+        item1 = L[idx1]
+        new_item = item1
+        for idx2 in range(idx1+1,N):
+            item2 = L[idx2]
+            if item1==item2:
+                continue
+            sim = similarity(item1,item2)
+            if sim>=threshold:
+                if interactive:
+                    print('1:%s'%item1)
+                    print('2:%s'%item2)
+                    response = int(input('Enter 0 to keep distinct items and 1 or 2 to if item 1 or item 2 are the correct replacement for the other: '))
+                    if response==0:
+                        new_item = item1
+                    elif response==1:
+                        new_item = item1
+                    elif response==2:
+                        new_item = item2
+                    else:
+                        sys.exit('Invalid response.')
+                else:
+                    new_item = item2
+        L_new.append(new_item)
+    assert len(L)==len(L_new)
+    return L_new
+
 def cleanup(s):
     rem = ['M.D.','Ph.D.','M.S.','O.D.','D.O.','D.Phil.','M.Phil.',',']
     for r in rem:
@@ -88,6 +119,7 @@ class Abstract:
             else:
                 affiliation_list = self.affiliation_factory.get_affiliation_list(affiliation_key)
 
+                
             self.ag.add(surname,given_names,affiliation_list)
 
         doi = jovt.doi_template.replace('$ABSTRACT_NUMBER$','%d'%self.number)
@@ -150,6 +182,11 @@ class AuthorGroup:
         return out+'\n'
     
     def get_affiliations_xml(self):
+        # This is where we would implement some fuzzy matching to collapse multiple
+        # instances of the same institution into a single instance, to provide consistency
+        # among the abstracts.
+        if True:
+            self.affiliations = reduce_list(self.affiliations)
         out = ''
         for idx,affiliation in enumerate(self.affiliations):
             at = jovt.aff_template.replace('$AFFILIATION_NUMBER$','%d'%(idx+1))
@@ -180,37 +217,6 @@ class AffiliationFactory:
                         self.dictionary[dat] = [token.strip() for token in dat.split(';')]
 
 
-        # This is where we would implement some fuzzy matching to collapse multiple
-        # instances of the same institution into a single instance, to provide consistency
-        # among the abstracts.
-        if True:
-            all_affiliations = []
-            for k in self.dictionary.keys():
-                all_affiliations = all_affiliations+self.dictionary[k]
-            all_affiliations = list(set(all_affiliations))
-            similarities = []
-            n_affil = len(all_affiliations)
-            replacements = {}
-            for aff1_idx in range(n_affil):
-                for aff2_idx in range(aff1_idx+1,n_affil):
-                    aff1 = all_affiliations[aff1_idx]
-                    aff2 = all_affiliations[aff2_idx]
-                    if not aff1==aff2:
-                        sim = similarity(aff1.lower(),aff2.lower())
-                        if sim>0.95:
-                            print('Replacing\n%s\nwith\n%s\nin affiliations.'%(aff2,aff1))
-                            replacements[aff2] = aff1
-                        similarities.append(sim)
-            #plt.hist(similarities,100)
-            #plt.show()
-            for k in self.dictionary.keys():
-                temp = []
-                for item in self.dictionary[k]:
-                    if item in replacements.keys():
-                        temp.append(replacements[item])
-                    else:
-                        temp.append(item)
-                self.dictionary[k] = temp
 
     def __str__(self):
         out = ''
