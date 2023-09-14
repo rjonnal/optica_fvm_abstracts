@@ -126,13 +126,13 @@
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Department of Brain and Cognitive Sciences & Center for Visual Science, University of Rochester</institution>
+					<institution>Department of Brain and Cognitive Sciences &amp Center for Visual Science, University of Rochester</institution>
 				</aff>
 
 
 				<aff id="aff3">
 					<label><sup>3</sup></label>
-					<institution>The Institute of Optics & Center for Visual Science, University of Rochester</institution>
+					<institution>The Institute of Optics &amp Center for Visual Science, University of Rochester</institution>
 				</aff>
 
 
@@ -144,7 +144,7 @@
 
 				<aff id="aff5">
 					<label><sup>5</sup></label>
-					<institution>Department of Brain and Cognitive Sciences & Center for Visual Sciences, University of Rochester</institution>
+					<institution>Department of Brain and Cognitive Sciences &amp Center for Visual Sciences, University of Rochester</institution>
 				</aff>
 
 

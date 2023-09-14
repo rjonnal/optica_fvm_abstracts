@@ -191,6 +191,7 @@ class AuthorGroup:
         out = ''
         for idx,affiliation in enumerate(self.affiliations):
             at = jovt.aff_template.replace('$AFFILIATION_NUMBER$','%d'%(idx+1))
+            affiliation = special_chars(affiliation)
             at = at.replace('$INSTITUTION$',affiliation)
             out = out + at + '\n'
         return out
