@@ -173,6 +173,7 @@ class AuthorGroup:
         for author in self.authors:
             contrib = jovt.contrib_template.replace('$SURNAME$',author[0]).replace('$GIVEN_NAME$',author[1]) + '\n'
             author_links = [str(l[1]+1) for l in self.links if l[0]==author]
+            author_links.sort()
             aff_block = ''
             for author_link in author_links:
                 aff_block = aff_block + jovt.contrib_aff_template.replace('$AFFILIATION_NUMBER$',author_link) + '\n'

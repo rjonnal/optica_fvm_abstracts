@@ -70,6 +70,12 @@
 						<given-names>Andrew G.</given-names>
 					</name>
                                         
+					<xref ref-type="aff" rid="aff10"><sup>10</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff11"><sup>11</sup></xref>
+
+
 					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
 
 
@@ -86,12 +92,6 @@
 
 
 					<xref ref-type="aff" rid="aff9"><sup>9</sup></xref>
-
-
-					<xref ref-type="aff" rid="aff10"><sup>10</sup></xref>
-
-
-					<xref ref-type="aff" rid="aff11"><sup>11</sup></xref>
 
 
 				</contrib>
@@ -115,7 +115,7 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Human-Machine Perception Laboratory, Department of Computer Science and Engineering, University of Nevada, Reno, Nevada, United States</institution>
+					<institution>Human-Machine Perception Laboratory, Department of Computer Science and Engineering, University of Nevada, Reno, Reno, Nevada, United States</institution>
 				</aff>
 
 
