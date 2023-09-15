@@ -44,6 +44,9 @@
 						<given-names>Jesse</given-names>
 					</name>
                                         
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
@@ -61,7 +64,7 @@
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>University of Rochester, Center for Visual Science, Flaum Eye Institute</institution>
+					<institution>University of Rochester, Flaum Eye Institute</institution>
 				</aff>
 
 
@@ -73,7 +76,7 @@
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>10</issue>
+						<issue>11</issue>
 						<fpage>65</fpage>
 						<lpage>65</lpage>
 			<permissions>

@@ -6,6 +6,16 @@ from xml.etree import ElementTree as ET
 import os,sys
 import numpy as np
 from matplotlib import pyplot as plt
+import json
+
+# try:
+#     affiliation_replacement_dictionary = json.load( open( "affiliation_replacement_dictionary.json" ) )
+# except FileNotFoundError as fnfe:
+#     print(fnfe)
+#     print('Creating empty affiliation replacement dictionary.')
+#     affiliation_replacement_dictionary = {}
+    
+affiliation_replacement_dictionary = {}
 
 def similarity(s1,s2):
     """See https://docs.python.org/3/library/difflib.html#difflib.SequenceMatcher"""
@@ -17,30 +27,73 @@ def reduce_list(L,threshold=0.9,interactive=True):
     L_new = []
     for idx1 in range(N):
         item1 = L[idx1]
-        new_item = item1
-        for idx2 in range(idx1+1,N):
-            item2 = L[idx2]
-            if item1==item2:
-                continue
-            sim = similarity(item1,item2)
-            if sim>=threshold:
-                if interactive:
-                    print('1:%s'%item1)
-                    print('2:%s'%item2)
-                    response = int(input('Enter 0 to keep distinct items and 1 or 2 to if item 1 or item 2 are the correct replacement for the other: '))
-                    if response==0:
-                        new_item = item1
-                    elif response==1:
-                        new_item = item1
-                    elif response==2:
-                        new_item = item2
+        if item1 in affiliation_replacement_dictionary.keys():
+            new_item = affiliation_replacement_dictionary[item1]
+        else:
+            new_item = item1
+            for idx2 in range(idx1+1,N):
+                item2 = L[idx2]
+                if item1==item2:
+                    continue
+                sim = similarity(item1,item2)
+                if sim>=threshold:
+                    if interactive:
+                        print('1:%s'%item1)
+                        print('2:%s'%item2)
+                        response = int(input('Enter 0 to keep distinct items and 1 or 2 to if item 1 or item 2 are the correct replacement for the other: '))
+                        if response==0:
+                            new_item = item1
+                        elif response==1:
+                            new_item = item1
+                        elif response==2:
+                            new_item = item2
+                            affiliation_replacement_dictionary[item1] = item2
+                        else:
+                            sys.exit('Invalid response.')
                     else:
-                        sys.exit('Invalid response.')
-                else:
-                    new_item = item2
+                        new_item = item2
+        
         L_new.append(new_item)
     assert len(L)==len(L_new)
     return L_new
+
+
+def reduce_list0(L,threshold=0.9):
+    similar_groups = []
+    N = len(L)
+    for index in range(N):
+        test = L[index]
+        for group in similar_groups:
+            sim = 0
+            for item in group:
+                sim = max(sim,similarity(test,item))
+            if sim>threshold:
+                group.append(test)
+                break
+        else:
+            similar_groups.append([test])
+
+    affiliation_replacement_dictionary = dict((a,a) for a in L)
+    for sg in similar_groups:
+        if len(sg)==1:
+            continue
+        for index,item in enumerate(sg):
+            print('%d:%s'%(index,item))
+        response = input('Enter the number 0 - %d of the correct affiliation, or press enter to skip:'%(len(sg)-1))
+        if len(response.strip())==0:
+            continue
+        else:
+            
+            correct_index = int(response)
+            print(correct_index)
+            print(sg)
+            correct = sg[correct_index]
+            for gidx,gitem in enumerate(sg):
+                affiliation_replacement_dictionary[gitem] = correct
+    json.dump(affiliation_replacement_dictionary, open( "affiliation_replacement_dictionary.json", 'w' ) )
+    return [affiliation_replacement_dictionary[item] for item in L]
+
+
 
 def cleanup(s):
     rem = ['M.D.','Ph.D.','M.S.','O.D.','D.O.','D.Phil.','M.Phil.',',']

@@ -12,7 +12,7 @@ sessions[10] = 'Poster Session'
 
 year = 2023
 volume = 23
-issue = 10
+issue = 11
 month = 9
 output_folder = './jov_optica_fvm_abstracts_2022'
 
