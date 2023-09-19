@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.43</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.43</article-id>
 			<article-id pub-id-type="manuscript">Talks_43</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -106,6 +106,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: European project IMCUSTOMEYE H2020-ICT-2017 ref 779960,  European prject SIlkeye H2020-ERC-2018-ADG Ref 833106,  Spanish government grant PID2020-115191RB-100,  NIH grants P30,  Research to Prevent Blindness departmental funds to Flaum Eye Institute 
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: European project IMCUSTOMEYE H2020-ICT-2017 ref 779960,  European prject SIlkeye H2020-ERC-2018-ADG Ref 833106,  Spanish government grant PID2020-115191RB-100,  NIH grants P30,  Research to Prevent Blindness departmental funds to Flaum Eye Institute </p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

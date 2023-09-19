@@ -176,6 +176,7 @@ class Abstract:
             self.ag.add(surname,given_names,affiliation_list)
 
         doi = jovt.doi_template.replace('$ABSTRACT_NUMBER$','%d'%self.number)
+        doi = doi.replace('$ISSUE$','%d'%self.issue)
         self.xml = jovt.root_template.replace('$DOI$',doi)
         self.xml = self.xml.replace('$ABSTRACT_NUMBER$','%d'%self.number)
         self.xml = self.xml.replace('$SESSION$',self.session)
@@ -189,7 +190,8 @@ class Abstract:
         self.xml = self.xml.replace('$FPAGE$','%d'%self.fpage)
         self.xml = self.xml.replace('$LPAGE$','%d'%self.lpage)
         self.xml = self.xml.replace('$ABSTRACT$','%s'%self.text)
-        self.xml = self.xml.replace('$FN_GROUP$','%s'%self.funding)
+        funding_string = jovt.fn_template.replace('$FUNDING$',self.funding)
+        self.xml = self.xml.replace('$FN_GROUP$','%s'%funding_string)
         assert self.xml.find('$')==-1
         #xml_valid(self.xml)
         

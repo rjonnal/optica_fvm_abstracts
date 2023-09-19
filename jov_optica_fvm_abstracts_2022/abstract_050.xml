@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.50</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.50</article-id>
 			<article-id pub-id-type="manuscript">Talks_50</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -175,6 +175,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: Research reported was supported by the NEI of the NIH under Award Number T32EY007125. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Research reported was supported by the NEI of the NIH under Award Number T32EY007125. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

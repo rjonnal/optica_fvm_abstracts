@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.32</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.32</article-id>
 			<article-id pub-id-type="manuscript">Talks_32</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -210,6 +210,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: This work was supported by the National Eye Institute through grants NIH EY007125, NIH U01EY025497, NIH EY031467, NIH EY021166, and through an unrestricted grant to the Flaum Eye Institute from Research to Prevent Blindness.
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This work was supported by the National Eye Institute through grants NIH EY007125, NIH U01EY025497, NIH EY031467, NIH EY021166, and through an unrestricted grant to the Flaum Eye Institute from Research to Prevent Blindness.</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

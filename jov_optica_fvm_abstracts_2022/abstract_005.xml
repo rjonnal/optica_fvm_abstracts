@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.5</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.5</article-id>
 			<article-id pub-id-type="manuscript">Talks_5</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -69,7 +69,13 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: I acknowledge funding support from the AGI initiative NIH U24 EY033275, CVS core support from NIH P30 EY0001319, an unrestricted grant to the Flaum Eye Institute from Research to Prevent Blindness and the Steven. E. Feldon Scholarship from the Flaum Eye Institute.
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: I acknowledge funding support from the AGI initiative NIH U24 EY033275, CVS core support from NIH P30 EY0001319, an unrestricted grant to the Flaum Eye Institute from Research to Prevent Blindness and the Steven. E. Feldon Scholarship from the Flaum Eye Institute.
+</p>
+			</fn>
+		</fn-group>
 
 	</back>
 </article>

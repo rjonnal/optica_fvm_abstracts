@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.79</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.79</article-id>
 			<article-id pub-id-type="manuscript">Talks_79</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -94,6 +94,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: EY031520
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: EY031520</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

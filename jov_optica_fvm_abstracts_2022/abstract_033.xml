@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.33</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.33</article-id>
 			<article-id pub-id-type="manuscript">Talks_33</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -125,6 +125,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: MAM: NIH NS039460; KD: 1R01EY027402-02, T32EY007135, and core grant P30EY008126; VAB & AMP: Office of the Assistant Secretary of Defense for Health Affairs & the Defense Health Agency J9 Research and Health Directorate, Defense Health 6.7 Program #DP_67.2_17_J9_1757, work unit # H1814.  
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: MAM: NIH NS039460; KD: 1R01EY027402-02, T32EY007135, and core grant P30EY008126; VAB & AMP: Office of the Assistant Secretary of Defense for Health Affairs & the Defense Health Agency J9 Research and Health Directorate, Defense Health 6.7 Program #DP_67.2_17_J9_1757, work unit # H1814.  </p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

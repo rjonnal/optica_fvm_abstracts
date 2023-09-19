@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.1</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.1</article-id>
 			<article-id pub-id-type="manuscript">Talks_1</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -72,6 +72,12 @@ Our approach also allows us to tease apart stationary and progressive effects, a
 		</article-meta>
 	</front>
 	<back>
-                Funding: None
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: None</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.52</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.52</article-id>
 			<article-id pub-id-type="manuscript">Talks_52</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -113,6 +113,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: RIT Global Cybersecurity Institute
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: RIT Global Cybersecurity Institute</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

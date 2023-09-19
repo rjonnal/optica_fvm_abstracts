@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.54</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.54</article-id>
 			<article-id pub-id-type="manuscript">Talks_54</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -201,6 +201,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: NASA Grant [80NSSC20K183]: A Non-intrusive Ocular Monitoring Framework to Model Ocular Structure and Functional Changes due to Long-term Spaceflight.
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: NASA Grant [80NSSC20K183]: A Non-intrusive Ocular Monitoring Framework to Model Ocular Structure and Functional Changes due to Long-term Spaceflight.</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.76</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.76</article-id>
 			<article-id pub-id-type="manuscript">Talks_76</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -126,6 +126,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: Foundation for Polish Science (MAB/2019/12): The International Centre for Translational Eye Research (MAB/2019/12) project is carried out within the International Research Agendas Programme of the Foundation for Polish Science, co-financed by the European Union under the European Regional Development Fund. National Science Center: 2016/22/A/ST2/00313 and 2020/38/L/ST2/00556
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Foundation for Polish Science (MAB/2019/12): The International Centre for Translational Eye Research (MAB/2019/12) project is carried out within the International Research Agendas Programme of the Foundation for Polish Science, co-financed by the European Union under the European Regional Development Fund. National Science Center: 2016/22/A/ST2/00313 and 2020/38/L/ST2/00556</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

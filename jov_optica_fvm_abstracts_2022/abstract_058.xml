@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.58</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.58</article-id>
 			<article-id pub-id-type="manuscript">Talks_58</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -152,6 +152,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: This work was supported by Meta Reality Labs and National Institutes of Health grants EY018363 (MR) and EY07977 (JV).
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This work was supported by Meta Reality Labs and National Institutes of Health grants EY018363 (MR) and EY07977 (JV).</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

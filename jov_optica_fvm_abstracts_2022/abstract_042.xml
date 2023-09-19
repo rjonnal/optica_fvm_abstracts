@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.42</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.42</article-id>
 			<article-id pub-id-type="manuscript">Talks_42</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -170,6 +170,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: Research reported here was supported by Meta Reality Labs and the NEI of the NIH under Award Numbers R01EY018363 (awarded to MR), R01EY07977 (awarded to JDV),  and P30EY001319 (core grant).
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Research reported here was supported by Meta Reality Labs and the NEI of the NIH under Award Numbers R01EY018363 (awarded to MR), R01EY07977 (awarded to JDV),  and P30EY001319 (core grant).</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

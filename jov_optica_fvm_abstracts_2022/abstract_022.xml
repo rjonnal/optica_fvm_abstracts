@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.22</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.22</article-id>
 			<article-id pub-id-type="manuscript">Talks_22</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -151,6 +151,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: Research reported in this publication was supported by the National Eye Institute of the National Institutes of Health under the AGI initiative NIH U24 EY033275 (to McGregor), R01 EY028293 (Schallek), CVS core support from NIH P30 EY0001319. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Inst. of Health. Additional funding from the Steven. E. Feldon Scholarship from the Flaum Eye Institute (McGregor), a Career Development Award, Career Advancement Award (Schallek) and Unrestricted Grant to the University of Rochester Department of Ophthalmology from Research to Prevent Blindness, New York, New York and a summer fellowship from the University of Rochester Medical School (Ashbery).
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Research reported in this publication was supported by the National Eye Institute of the National Institutes of Health under the AGI initiative NIH U24 EY033275 (to McGregor), R01 EY028293 (Schallek), CVS core support from NIH P30 EY0001319. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Inst. of Health. Additional funding from the Steven. E. Feldon Scholarship from the Flaum Eye Institute (McGregor), a Career Development Award, Career Advancement Award (Schallek) and Unrestricted Grant to the University of Rochester Department of Ophthalmology from Research to Prevent Blindness, New York, New York and a summer fellowship from the University of Rochester Medical School (Ashbery).</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

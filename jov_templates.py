@@ -49,7 +49,7 @@ ref_template = """
 			</ref>
 """
 
-doi_template = '10.1167/jov.23.8.$ABSTRACT_NUMBER$'
+doi_template = '10.1167/jov.23.$ISSUE$.$ABSTRACT_NUMBER$'
 
 root_template = """
 <?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">

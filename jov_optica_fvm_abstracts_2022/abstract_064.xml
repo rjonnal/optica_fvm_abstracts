@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.64</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.64</article-id>
 			<article-id pub-id-type="manuscript">Talks_64</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -81,6 +81,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: Air Force Office of Scientific Research (FA9550-20-1-0195 and FA9550-21-1-0230), National Institutes of Health (R01EY023591), Alcon Research Institute, Hellman Fellows Fund
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Air Force Office of Scientific Research (FA9550-20-1-0195 and FA9550-21-1-0230), National Institutes of Health (R01EY023591), Alcon Research Institute, Hellman Fellows Fund</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

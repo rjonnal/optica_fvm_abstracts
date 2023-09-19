@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.37</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.37</article-id>
 			<article-id pub-id-type="manuscript">Talks_37</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -222,6 +222,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: The Schmitt Program on Integrative Neuroscience, in conjunction with the Del Monte Neuroscience Institute at the University of Rochester
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: The Schmitt Program on Integrative Neuroscience, in conjunction with the Del Monte Neuroscience Institute at the University of Rochester</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.44</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.44</article-id>
 			<article-id pub-id-type="manuscript">Talks_44</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -97,6 +97,12 @@ To test for lexical effects, an “attraction score” measured how much matches
 		</article-meta>
 	</front>
 	<back>
-                Funding: None
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: None</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

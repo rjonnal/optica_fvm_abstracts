@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.45</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.45</article-id>
 			<article-id pub-id-type="manuscript">Talks_45</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -94,6 +94,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: This work was supported in part by a K01MH108783 to BPK, and by a University of Rochester Medical Center Department of Psychiatry Hendershot Pilot Award Program. Former department lab member Megan Serody contributed to initial literature searches for this project.
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This work was supported in part by a K01MH108783 to BPK, and by a University of Rochester Medical Center Department of Psychiatry Hendershot Pilot Award Program. Former department lab member Megan Serody contributed to initial literature searches for this project.</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

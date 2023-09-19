@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.81</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.81</article-id>
 			<article-id pub-id-type="manuscript">Talks_81</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -181,6 +181,12 @@ In this study, we designed an AL system for training Artificial Intelligence (AI
 		</article-meta>
 	</front>
 	<back>
-                Funding: This research was supported by grants from the National Institutes of Health TL1 TR 001871 (C.K.S.) and R41 NS100222-01A1 (A.J.G. and C.K.S.), and That Man May See (A.J.G. and C.K.S.).
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This research was supported by grants from the National Institutes of Health TL1 TR 001871 (C.K.S.) and R41 NS100222-01A1 (A.J.G. and C.K.S.), and That Man May See (A.J.G. and C.K.S.).</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

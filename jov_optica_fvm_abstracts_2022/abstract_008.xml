@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.8</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.8</article-id>
 			<article-id pub-id-type="manuscript">Talks_8</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -146,6 +146,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: This work was supported by the Air Force Office of Scientific Research under award numbers FA9550-20-1-0195 and FA9550-21-1-0230.
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This work was supported by the Air Force Office of Scientific Research under award numbers FA9550-20-1-0195 and FA9550-21-1-0230.</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.66</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.66</article-id>
 			<article-id pub-id-type="manuscript">Talks_66</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -185,6 +185,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: This work was supported by a College of Optometrists in Vision Development (COVD) Research Grant awarded to Dr. Esposito.
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This work was supported by a College of Optometrists in Vision Development (COVD) Research Grant awarded to Dr. Esposito.</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

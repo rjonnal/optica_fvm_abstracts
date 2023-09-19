@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.78</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.78</article-id>
 			<article-id pub-id-type="manuscript">Talks_78</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -96,6 +96,12 @@ A simple method is proposed in this research, in which observers select the clos
 		</article-meta>
 	</front>
 	<back>
-                Funding: This work was partially supported by JSPS KAKENHI (C) Grant Number 20K12017
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This work was partially supported by JSPS KAKENHI (C) Grant Number 20K12017</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

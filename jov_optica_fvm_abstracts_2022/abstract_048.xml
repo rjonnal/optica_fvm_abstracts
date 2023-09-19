@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.48</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.48</article-id>
 			<article-id pub-id-type="manuscript">Talks_48</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -128,6 +128,12 @@ Discussion: VR technology promises to be a non-invasive and rapid approach to qu
 		</article-meta>
 	</front>
 	<back>
-                Funding: 3000 summer research stipend through the U of R Office of Medical Education
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: 3000 summer research stipend through the U of R Office of Medical Education</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

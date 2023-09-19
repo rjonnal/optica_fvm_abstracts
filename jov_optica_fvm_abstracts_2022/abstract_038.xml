@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.38</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.38</article-id>
 			<article-id pub-id-type="manuscript">Talks_38</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -190,6 +190,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: Horizon 2020 Framework Programme European Project Imcustomeye (H2020-ICT-2017 Ref. 779960); European Research Council (2018-ADG-SILKEYE-833106); Spanish Government10.13039/100014440 (CSIC JAE Intro Fellowship); L'Oréal-UNESCO “For Women in Science” Spain; Spanish Government Juan de la Cierva-Incorporation Fellowship (IJC2018-037508-I); Spanish Government PID2020-115191RB-I00; Fundacja na rzecz Nauki Polskiej (MAB/2019/12); National Agency for Academic Exchange, Polish Government (NAWA ULAM/2020/1/00176); NIH NIE P30EY 001319; Unrestricted Funds Research to Prevent Blindness, NY
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Horizon 2020 Framework Programme European Project Imcustomeye (H2020-ICT-2017 Ref. 779960); European Research Council (2018-ADG-SILKEYE-833106); Spanish Government10.13039/100014440 (CSIC JAE Intro Fellowship); L'Oréal-UNESCO “For Women in Science” Spain; Spanish Government Juan de la Cierva-Incorporation Fellowship (IJC2018-037508-I); Spanish Government PID2020-115191RB-I00; Fundacja na rzecz Nauki Polskiej (MAB/2019/12); National Agency for Academic Exchange, Polish Government (NAWA ULAM/2020/1/00176); NIH NIE P30EY 001319; Unrestricted Funds Research to Prevent Blindness, NY</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

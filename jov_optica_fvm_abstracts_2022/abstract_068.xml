@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.68</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.68</article-id>
 			<article-id pub-id-type="manuscript">Talks_68</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -90,6 +90,12 @@ Akita+ mice had increased blood glucose, decreased body weight, and polyuria. De
 		</article-meta>
 	</front>
 	<back>
-                Funding: NIH Grant R01 EY028293, P30 EY001319, Career Development Award, Career Advancement Award (Schallek) and Unrestricted Grant to the University of Rochester Department of Ophthalmology from Research to Prevent Blindness, New York, New York , and a research collaboration grant from Genentech Inc.
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: NIH Grant R01 EY028293, P30 EY001319, Career Development Award, Career Advancement Award (Schallek) and Unrestricted Grant to the University of Rochester Department of Ophthalmology from Research to Prevent Blindness, New York, New York , and a research collaboration grant from Genentech Inc.</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

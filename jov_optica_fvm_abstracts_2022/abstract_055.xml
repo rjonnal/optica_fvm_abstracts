@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.55</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.55</article-id>
 			<article-id pub-id-type="manuscript">Talks_55</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -126,6 +126,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: NEI R01EY028452 (GD), K99EY033031(AK), Research to Prevent Blindness
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: NEI R01EY028452 (GD), K99EY033031(AK), Research to Prevent Blindness</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

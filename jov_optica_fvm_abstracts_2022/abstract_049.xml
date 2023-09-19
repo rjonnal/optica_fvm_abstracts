@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.49</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.49</article-id>
 			<article-id pub-id-type="manuscript">Talks_49</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -126,6 +126,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: Industrial PhD Grant (Comunity of Madrid) IND2020/BMD-17442
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Industrial PhD Grant (Comunity of Madrid) IND2020/BMD-17442</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

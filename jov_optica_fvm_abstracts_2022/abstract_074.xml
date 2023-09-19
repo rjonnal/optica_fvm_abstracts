@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.74</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.74</article-id>
 			<article-id pub-id-type="manuscript">Talks_74</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -101,6 +101,12 @@ Here, we apply the high-frequency OCE technique to measure the heterogeneous mec
 		</article-meta>
 	</front>
 	<back>
-                Funding: ESRC, BBSRC
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: ESRC, BBSRC</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

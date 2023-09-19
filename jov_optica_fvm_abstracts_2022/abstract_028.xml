@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.28</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.28</article-id>
 			<article-id pub-id-type="manuscript">Talks_28</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -68,6 +68,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: Supported by a grant from the New York Fund for Innovation in Research and Scientific Talent (NYFIRST)
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Supported by a grant from the New York Fund for Innovation in Research and Scientific Talent (NYFIRST)</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.30</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.30</article-id>
 			<article-id pub-id-type="manuscript">Talks_30</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -294,6 +294,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: National Eye Institute of the National Institutes of Health under award numbers R01EY027301, P30EY026877, R01EY031360, R01EY032147, R01EY032669, Marrus Family Foundation, Wise Family Foundation, J Milbank Foundation, New York Eye & Ear Research Foundation, Jorge N. Buxton Microsurgical Foundation, Violett Charitable Foundation, Challenge Grant award from Research to Prevent Blindness
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: National Eye Institute of the National Institutes of Health under award numbers R01EY027301, P30EY026877, R01EY031360, R01EY032147, R01EY032669, Marrus Family Foundation, Wise Family Foundation, J Milbank Foundation, New York Eye & Ear Research Foundation, Jorge N. Buxton Microsurgical Foundation, Violett Charitable Foundation, Challenge Grant award from Research to Prevent Blindness</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

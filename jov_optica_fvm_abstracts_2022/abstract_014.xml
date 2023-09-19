@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.14</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.14</article-id>
 			<article-id pub-id-type="manuscript">Talks_14</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -68,6 +68,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: National Eye Institute Grants R01EY012392 (CFW).
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: National Eye Institute Grants R01EY012392 (CFW).</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

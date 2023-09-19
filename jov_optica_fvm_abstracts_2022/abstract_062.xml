@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.62</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.62</article-id>
 			<article-id pub-id-type="manuscript">Talks_62</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -142,6 +142,12 @@ We can directly activate single RGCs in the living eye and measure the resulting
 		</article-meta>
 	</front>
 	<back>
-                Funding: R01 EY021166, P30 EY001319, Research to Prevent Blindness
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: R01 EY021166, P30 EY001319, Research to Prevent Blindness</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

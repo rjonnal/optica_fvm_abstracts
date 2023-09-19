@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.21</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.21</article-id>
 			<article-id pub-id-type="manuscript">Talks_21</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -204,6 +204,12 @@ Simultaneous high resolution optical and geometrical measurements of stretched l
 		</article-meta>
 	</front>
 	<back>
-                Funding: European Project IMCUSTOMEYE H2020-ICT-2017 Ref. 779960; European Project SILKEYE H2020-ERC-2018-ADG Ref.833106; Spanish government grant PID2020-115191RB-I00, NIH Grants P30; Research to Prevent Blindness Departamental Funds to Flaum Eye Institute and Bascom Palmer Eye Institute; NIH NIE P30EY 001319; Unrestricted Funds Research to Prevent Blindness, NY; National Institutes of Health (R01EY021834; a National Institutes of Health Center Core Grant (P30EY014801); Florida Lions Eye Bank and Beauty of Sight Foundation; Hyderabad Eye Research Foundation.
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: European Project IMCUSTOMEYE H2020-ICT-2017 Ref. 779960; European Project SILKEYE H2020-ERC-2018-ADG Ref.833106; Spanish government grant PID2020-115191RB-I00, NIH Grants P30; Research to Prevent Blindness Departamental Funds to Flaum Eye Institute and Bascom Palmer Eye Institute; NIH NIE P30EY 001319; Unrestricted Funds Research to Prevent Blindness, NY; National Institutes of Health (R01EY021834; a National Institutes of Health Center Core Grant (P30EY014801); Florida Lions Eye Bank and Beauty of Sight Foundation; Hyderabad Eye Research Foundation.</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

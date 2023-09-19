@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.83</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.83</article-id>
 			<article-id pub-id-type="manuscript">Talks_83</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -70,6 +70,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: NSF STTR Phase I: NSF/IIP 1549700; NSF STTR Phase II: NSF/IIP 1738506
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: NSF STTR Phase I: NSF/IIP 1549700; NSF STTR Phase II: NSF/IIP 1738506</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

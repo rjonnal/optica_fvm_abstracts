@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.10</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.10</article-id>
 			<article-id pub-id-type="manuscript">Talks_10</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -146,6 +146,12 @@
 		</article-meta>
 	</front>
 	<back>
-                Funding: This work was supported by the Intramural Research Program of the National Institute of Mental Health (ZIAMH002918; NCT00001360).
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This work was supported by the Intramural Research Program of the National Institute of Mental Health (ZIAMH002918; NCT00001360).</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>

@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.8.46</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.11.46</article-id>
 			<article-id pub-id-type="manuscript">Talks_46</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -198,6 +198,12 @@ These results demonstrate our system’s ability to track the retina at high spe
 		</article-meta>
 	</front>
 	<back>
-                Funding: This work was supported by the Air Force Office of Scientific Research under award numbers FA9550-20-1-0195 and FA9550-21-1-0230 and by the National Institutes of Health under award number R01EY023591.
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This work was supported by the Air Force Office of Scientific Research under award numbers FA9550-20-1-0195 and FA9550-21-1-0230 and by the National Institutes of Health under award number R01EY023591.</p>
+			</fn>
+		</fn-group>
+
 	</back>
 </article>
