@@ -289,8 +289,8 @@ class AffiliationFactory:
 if __name__=='__main__':
     input_filename = sys.argv[1]
     df = pd.read_csv(input_filename)
-    for col in df.columns:
-        print(col)
+    #for col in df.columns:
+    #    print(col)
     affiliation_factory = AffiliationFactory(df)
 
     output_folder = cfg.output_folder

@@ -3,6 +3,7 @@
 
 from field_nicknames import nicknames
 import pandas as pd
+import sys
 
 input_filename = sys.argv[1]
 output_filename = sys.argv[2]
