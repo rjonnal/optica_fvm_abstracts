@@ -11,8 +11,8 @@ Python script to convert abstract submission CSV file into XML files using JOV t
 
 4. We need to make a new CSV file with shortened column headers. To do this and create a new CSV with shortened headers called `abstracts_for_processing.csv` run:
 
-  ```python shorten_headers.py google_sheets_abstracts_2023.csv abstracts_for_processing.csv```
+    ```python shorten_headers.py google_sheets_abstracts_2023.csv abstracts_for_processing.csv```
   
-  This will replace the headers using the dictionary in `field_nicknames.py` and output a file called `abstracts_for_processing.csv`
+    This will replace the headers using the dictionary in `field_nicknames.py` and output a file called `abstracts_for_processing.csv`
   
 5. Run `process_abstracts_csv.py abstracts_for_processing.csv`. This will create a folder (specified in `config.py`) and write your XML files there.
