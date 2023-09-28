@@ -1,6 +1,7 @@
 import pandas as pd
 import config as cfg
 import jov_templates as jovt
+import html_templates as htmlt
 from difflib import SequenceMatcher
 from xml.etree import ElementTree as ET
 import os,sys
@@ -194,6 +195,17 @@ class Abstract:
         self.xml = self.xml.replace('$FN_GROUP$','%s'%funding_string)
         assert self.xml.find('$')==-1
         #xml_valid(self.xml)
+
+
+        self.html = htmlt.root_template
+        self.html = self.html.replace('$TITLE$',self.title)
+        self.html = self.html.replace('$CONTRIBUTORS$',self.ag.get_contributors_html())
+        self.html = self.html.replace('$AFFILIATIONS$',self.ag.get_affiliations_html())
+        self.html = self.html.replace('$ABSTRACT$','%s'%self.text)
+        funding_string = htmlt.fn_template.replace('$FUNDING$',self.funding)
+        self.html = self.html.replace('$FN_GROUP$','%s'%funding_string)
+        self.html = self.html+'\n<br />\n'
+        
         
 class AuthorGroup:
     """Represents a group of authors and their affiliations."""
@@ -251,6 +263,37 @@ class AuthorGroup:
             out = out + at + '\n'
         return out
 
+    def get_contributors_html(self):
+        out = ''
+        for idx, author in enumerate(self.authors):
+            contrib = htmlt.contrib_template.replace('$SURNAME$',author[0]).replace('$GIVEN_NAME$',author[1])
+            if idx<len(self.authors)-1:
+                contrib = contrib+', '
+            author_links = [str(l[1]+1) for l in self.links if l[0]==author]
+            author_links.sort()
+            aff_block = ''
+            for idx,author_link in enumerate(author_links):
+                aff_block = aff_block + htmlt.contrib_aff_template.replace('$AFFILIATION_NUMBER$',author_link)
+                if idx<len(author_links)-1:
+                    aff_block = aff_block+'<sup>,</sup>'
+            contrib = contrib.replace('$CONTRIB_AFFS$',aff_block)
+            out = out + contrib
+            
+        return out+'<br />'
+    
+    def get_affiliations_html(self):
+        # This is where we would implement some fuzzy matching to collapse multiple
+        # instances of the same institution into a single instance, to provide consistency
+        # among the abstracts.
+        if False:
+            self.affiliations = reduce_list(self.affiliations)
+        out = ''
+        for idx,affiliation in enumerate(self.affiliations):
+            at = htmlt.aff_template.replace('$AFFILIATION_NUMBER$','%d'%(idx+1))
+            affiliation = special_chars(affiliation)
+            at = at.replace('$INSTITUTION$',affiliation)
+            out = out + at + '<br />'
+        return out
         
 
 class AffiliationFactory:
@@ -295,14 +338,31 @@ if __name__=='__main__':
 
     output_folder = cfg.output_folder
     os.makedirs(output_folder,exist_ok=True)
+
+    
+    html_fn = cfg.html_filename
+    with open(html_fn,'w') as fid:
+        fid.write('\n')
+        
+    last_session = None
     
     for idx,row in df.iterrows():
         if row['category']=='WITHDRAWN' or row['Day']=='WITHDRAWN':
             continue
+        
+        this_session = row['Session']
+        if not this_session==last_session:
+            session_string = htmlt.session_template.replace('$SESSION$',cfg.sessions[this_session])
+            with open(html_fn,'a') as fid:
+                fid.write(session_string)
+            last_session = this_session
         abstract = Abstract(row,affiliation_factory)
-        out_fn = '%s/abstract_%03d.xml'%(output_folder,abstract.number)
-        out_string = abstract.xml.strip()
+        xml_fn = '%s/abstract_%03d.xml'%(output_folder,abstract.number)
+        xml_string = abstract.xml.strip()
+        html_string = abstract.html.strip()
+        
+        with open(xml_fn,'w') as fid:
+            fid.write(xml_string)
     
-        with open(out_fn,'w') as fid:
-            fid.write(out_string)
-    
+        with open(html_fn,'a') as fid:
+            fid.write(html_string)

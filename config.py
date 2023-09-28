@@ -18,4 +18,6 @@ issue = 13
 month = 11
 output_folder = './jov_optica_fvm_abstracts_2023'
 
+html_filename = 'abstracts.html'
+
 max_authors = 15
