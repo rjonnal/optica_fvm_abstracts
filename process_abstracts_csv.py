@@ -287,7 +287,8 @@ class AffiliationFactory:
 
 
 if __name__=='__main__':
-    df = pd.read_csv('abstracts_2023.csv')
+    input_filename = sys.argv[1]
+    df = pd.read_csv(input_filename)
     for col in df.columns:
         print(col)
     affiliation_factory = AffiliationFactory(df)
