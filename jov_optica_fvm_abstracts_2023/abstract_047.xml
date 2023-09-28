@@ -1,0 +1,165 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.47</article-id>
+			<article-id pub-id-type="manuscript">Talks_47</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session I: Non-rivalrous interocular contrast integration across the human visual cortex hierarchy</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chang</surname>
+						<given-names>Kelly</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Li</surname>
+						<given-names>Xiyan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Meier</surname>
+						<given-names>Kimberly </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tarczy-Hornoch</surname>
+						<given-names>Kristina</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Boynton</surname>
+						<given-names>Geoffrey M.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fine</surname>
+						<given-names>Ione</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Psychology, University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Department of Psychology, University of California, San Diego</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Department of Ophthalmology, University of Washington</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>47</fpage>
+						<lpage>47</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Here, using functional MRI, we measured interocular interactions as a function of contrast presented to each eye under non-rivalrous dichoptic viewing conditions.  Methods: Activity was measured from early visual cortex (V1 – V3) while participants (n = 5) viewed dichoptic gratings (2-cpd) that independently varied in contrast over time in each eye at 1/6 and 1/8 Hz. We fit a model [((L^m+R^m ))/2]^(1/m) to quantify how the neural response was driven by the contrast in each eye (L and R), where m = 1 represents simple averaging, and as m → ∞ the model shifts towards a max rule, where responses are driven by the eye presented with highest contrast.  Results: Across all visual areas, responses were much closer to a max than a mean model, suggesting that neural responses were primarily driven by the eye presented with highest contrast. Within V1, similar findings have been described using a normalization model (Moradi &amp Heeger, 2009). The magnitude of m increased across the visual hierarchy (V1: m = 1.82; R2 = 0.32; V2: m = 12.94, R2 = 0.28; V3: m = 13.31, R2 = 0.27).  Conclusions: The neural response integrating signals from each eye approaches a simple maximum as the contrast signal propagates from V1 through V3. This is consistent with previous behavioral data showing that visually typical observers tend to report perceiving the maximum contrast presented to each eye  (Meier et al., 2023).</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Knights Templar Eye Foundation, Research to Prevent Blindness, UW Center for Human Neuroscience, Unrestricted grant from Research to Prevent Blindness to UW Department of Ophthalmology</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

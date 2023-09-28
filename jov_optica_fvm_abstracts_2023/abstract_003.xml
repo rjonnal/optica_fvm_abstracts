@@ -1,0 +1,195 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.3</article-id>
+			<article-id pub-id-type="manuscript">Talks_3</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session I: 30 years of normalization in the visual system</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session I: 30 years of normalization in the visual system: Spatiotemporal fluctuations in E/I balance & their impact on perception</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Reynolds</surname>
+						<given-names>John</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Davis</surname>
+						<given-names>Zachary</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Muller</surname>
+						<given-names>Lyle</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Benigno</surname>
+						<given-names>Gabriel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sejnowski</surname>
+						<given-names>Terry</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Martinez-Trujillo</surname>
+						<given-names>Julio</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fletterman</surname>
+						<given-names>Charlee</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Desordes</surname>
+						<given-names>Theo</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Steward</surname>
+						<given-names>Christopher</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>The Salk Institute for Biological Studies</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Salk</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Western University</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>3</fpage>
+						<lpage>3</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The Normalization Model has helped illuminate our understanding of neural computations in a wide variety of contexts.  Here, I will describe our recent efforts to understand how intrinsic fluctuations in the ratio of excitatory to inhibitory conductances play out in space and time, and how these fluctuations impact perception. We find that spontaneous cortical activity is organized into traveling waves that traverse visual cortex several times per second. Recording in Area MT of the common marmoset, we find that these intrinsic traveling waves (iTWs) regulate both the gain of the stimulus-evoked spiking response and the monkey’s perceptual sensitivity. A large-scale spiking network model recapitulates the properties of iTWs measured in vivo and explains the observed fluctuations in response gain as resulting from momentary fluctuations in E/I balance.  The model predicts that iTWs are sparse, in the sense that only a small fraction of the neural population participates in any individual iTW. As a result, iTWs can occur without inducing correlated variability, which we have found, in separate experiments, can impair sensory discrimination. We thus refer to the model as the sparse-wave model of iTWs. Taken together, these findings lead to the conclusion that traveling waves strongly modulate neural and perceptual sensitivity. </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: P30 EY019005/EY/NEI  R01 EY028723/EY/NEI  T32 EY020503/EY/NEI   P30 EY019005/EY/NEI  R01 EY028723/EY/NEI    T32 MH020002/MH/NIMH</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

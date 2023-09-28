@@ -1,0 +1,149 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.10</article-id>
+			<article-id pub-id-type="manuscript">Talks_10</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session I: The perceptual experience of optogenetic vision</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yücel</surname>
+						<given-names>Ezgi Irmak</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mohan</surname>
+						<given-names>Vaishnavi</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Boynton</surname>
+						<given-names>Geoffrey M.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rokem</surname>
+						<given-names>Ariel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fine</surname>
+						<given-names>Ione</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Department of Psychology, University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Psychology, University of Washington, Seattle</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution></institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Department of Psychology, Center for Human Neuroscience, University of Washington, Seattle</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>10</fpage>
+						<lpage>10</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Optogenetic therapy for retinal degenerative diseases aims to elicit light response in remaining retinal cells (bipolar and/or ganglion cells). Animal models suggest that these proteins have lower sensitivity, and slower kinetics compared to neurotypical vision. Here we describe a framework for simulating ‘virtual patients’ to quantify the predicted perceptual experience of optogenetic vision. We simulated the neural responses of rd1 mouse retina expressing 4xBGAG12,460:SNAP-mGluR2 (Holt et al., 2022) and used this simulation to generate virtual patients: sighted participants viewing the visual stimulus filtered through our simulations. We measured the visual performance of these virtual patients (n=6) using temporal contrast sensitivity functions. Virtual patients had a 10x fold loss of sensitivity, which was exacerbated at higher temporal frequencies, corresponding to a loss of Snellen acuity from ~20/40 at low temporal frequencies to ~20/100-20/200 at high temporal frequencies. We predict that the ability to process fast-moving objects may be impaired in optogenetic vision, and patients with uncontrollable nystagmus may be poor candidates for optogenetic treatments with sluggish kinetics. Our virtual patient framework can easily be extended to simulate any optogenetic protein, and thereby provides a way to quantify and compare the expected perceptual performance of different opto-proteins based on in vitro retinal data. </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: NEI</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

@@ -1,0 +1,117 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.55</article-id>
+			<article-id pub-id-type="manuscript">Talks_55</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session I: Digital dual-Purkinje-image eye tracking enables precise determination of visual receptive fields in fixating macaques</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ressmeyer</surname>
+						<given-names>Ryan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yates</surname>
+						<given-names>Jacob</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Horwitz</surname>
+						<given-names>Gregory</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Department of Bioengineering, University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Opthamology, University of California Berkeley</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Department of Physiology and Biophysics, University of Washington</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>55</fpage>
+						<lpage>55</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Understanding the relationship between visual stimuli and neural activity is a fundamental goal in visual neuroscience. However, the study of visual neurophysiology in awake primates is complicated by the constant occurrence of eye movements, even during periods of nominal fixation. To address this challenge, we adapted a recently developed high-resolution digital dual-Purkinje-image (dDPI) eye tracker (Wu et al., 2023) for use with macaque monkeys. In addition to tracking the Purkinje images, we simultaneously estimate the pupil center and size: a first for video eye tracking. We then sought to evaluate the efficacy of dDPI eye tracking for studying visual processing in fixating macaques by recording single neurons from the lateral geniculate nucleus while a spatially-correlated noise stimulus was displayed. Our analyses show that, as a result of properly accounting for eye movements post-hoc, the predictive performance of generalized linear models improves and the estimates center radii contract to values equal to or smaller than those reported in the literature. Notably, correcting for eye movements using the locations of the pupil center and corneal reflection—the standard method in video eye tracking—yielded worse model fits and larger receptive field sizes. This finding implies that the pupil center is an inaccurate reporter of small eye movements, while the Purkinje images may be veridical during fixations.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: The research was supported by NIH grant EY032900 to GDH and an NSF predoctoral fellowship to RKR</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

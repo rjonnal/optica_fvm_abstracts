@@ -1,0 +1,150 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.36</article-id>
+			<article-id pub-id-type="manuscript">Talks_36</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session III</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session III: AAV-mediated gene therapy for PDE6C achromatopsia: Progress and challenges</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Moshiri</surname>
+						<given-names>Ala</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Issa</surname>
+						<given-names>Tawfik</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rogers</surname>
+						<given-names>Jeffrey</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chen</surname>
+						<given-names>Rui</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Thomasy</surname>
+						<given-names>Sara</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Stout</surname>
+						<given-names>Tim</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>UC Davis</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Baylor College of Medicine</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>36</fpage>
+						<lpage>36</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Purpose: To determine the clinical circumstances under which viral mediated gene therapy can rescue cone function in a nonhuman primate model of PDE6C achromatopsia. Methods: Infant rhesus macaques homozygous for the PDE6C R565Q mutation were generated through a breeding program at the California National Primate Research Center. Homozygotes were treated in the right eye with adeno-associated virus (AAV5) carrying rhesus PDE6C under the control of the PR1.7 cone-specific promoter. The left eye was used as a control. Animals were tested by full-field and multifocal electroretinography. A total of 7 animals have been treated. Results: The virus was found to be safe, but with variable inflammatory response. There were no obvious alterations in retinal lamination in treated eyes. The virus was expressed specifically in cone photoreceptors. Pre- and post-treatment systemic steroids led to minimal to moderate inflammatory response. In general, the gene therapy partially restored the cone responses on ERG within one month of injection in infants, but not in the older animals. If restored, the rescued cone responses were sustained and durable for over a year. Chromatic ERG testing showed restoration of amplitudes in all three cone subtypes. Conclusions: AAV-mediated gene therapy partially restored cone function and was relatively durable. Inflammation and age of administration may be important to outcomes. Similar approaches in human patients may warrant investigation.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: NIH NEI U24 EY029904</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

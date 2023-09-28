@@ -1,0 +1,208 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.12</article-id>
+			<article-id pub-id-type="manuscript">Talks_12</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session I: Specific and non-linear effects of glaucoma on optic radiation tissue properties </article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kruper</surname>
+						<given-names>John</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Richie-Halford</surname>
+						<given-names>Adam</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Benson</surname>
+						<given-names>Noah</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Caffarra</surname>
+						<given-names>Sendy</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Owen</surname>
+						<given-names>Julia</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wu</surname>
+						<given-names>Yue</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lee</surname>
+						<given-names>Aaron</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lee</surname>
+						<given-names>Cecilia</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yeatman</surname>
+						<given-names>Jason</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rokem</surname>
+						<given-names>Ariel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Stanford University</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>University of Modena</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>12</fpage>
+						<lpage>12</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Changes in sensory input with aging and disease affect brain tissue properties. To establish the link between glaucoma, the most prevalent cause of irreversible blindness, and changes in major brain connections, we characterized white matter tissue properties in diffusion MRI measurements in a large sample of subjects with glaucoma (N=905; age 49-80) and healthy controls (N=5,292; age 45-80) from the UK Biobank. Confounds due to group differences were mitigated by matching a sub-sample of controls to glaucoma subjects. A convolutional neural network (CNN) accurately classified whether a subject has glaucoma using information from the primary visual connection to cortex (the optic radiations, OR), but not from non-visual brain connections. On the other hand, regularized linear regression could not classify glaucoma, and the CNN did not generalize to classification of age-group or of age-related macular degeneration. This suggests a unique non-linear signature of glaucoma in OR tissue properties.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This project was funded by NSF grant 1934292 (PI: Balazinska), NIH grant R01 AG 060942 (PI: Lee), NEI grant R01 EY033628 (PI: Benson), NIH grant RF1 MH121868 (PI: Rokem), NIH grant R01HD095861 (PI: Yeatman). SC was funded by the “Rita Levi Montalcini” program, granted by the Italian Ministry of University and Research (MUR). Unrestricted and career development award from RPB (Julia Owen, Yue Wu, Cecilia Lee, Aaron Lee), Latham Vision Science Awards (Julia Owen, Yue Wu, Cecilia Lee, Aaron Lee), NEI/NIH K23EY029246 (Aaron Lee) and NIA/NIH U19AG066567 (Julia Owen, Yue Wu, Cecilia Lee, Aaron Lee, Ariel Rokem).</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

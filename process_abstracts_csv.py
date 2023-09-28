@@ -241,7 +241,7 @@ class AuthorGroup:
         # This is where we would implement some fuzzy matching to collapse multiple
         # instances of the same institution into a single instance, to provide consistency
         # among the abstracts.
-        if True:
+        if False:
             self.affiliations = reduce_list(self.affiliations)
         out = ''
         for idx,affiliation in enumerate(self.affiliations):
@@ -287,13 +287,17 @@ class AffiliationFactory:
 
 
 if __name__=='__main__':
-    df = pd.read_csv('abstracts_2022.csv')
+    df = pd.read_csv('abstracts_2023.csv')
+    for col in df.columns:
+        print(col)
     affiliation_factory = AffiliationFactory(df)
 
     output_folder = cfg.output_folder
     os.makedirs(output_folder,exist_ok=True)
     
     for idx,row in df.iterrows():
+        if row['category']=='WITHDRAWN' or row['Day']=='WITHDRAWN':
+            continue
         abstract = Abstract(row,affiliation_factory)
         out_fn = '%s/abstract_%03d.xml'%(output_folder,abstract.number)
         out_string = abstract.xml.strip()

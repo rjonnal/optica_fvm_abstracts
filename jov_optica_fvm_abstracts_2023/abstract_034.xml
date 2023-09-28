@@ -1,0 +1,131 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.34</article-id>
+			<article-id pub-id-type="manuscript">Talks_34</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session V: Binocular vision and interactions</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session V: Binocular vision and interactions: Harnessing interactions within binocular vision to treat amblyopia</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Backus</surname>
+						<given-names>Benjamin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Blaha</surname>
+						<given-names>James</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gupta</surname>
+						<given-names>Manish</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tran</surname>
+						<given-names>Tuan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dornbos</surname>
+						<given-names>Brian</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Vivid Vision Inc</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>34</fpage>
+						<lpage>34</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Inexpensive virtual reality (VR) headsets have enabled at-home therapy for binocular dysfunctions, including amblyopia. Healthy binocular vision is exquisite, which is achieved though interactions among various visual subsystems. As a result, however, binocular vision has multiple points of weakness, so development can go wrong in many different ways. Furthermore, the visual system has many ways it can adapt to dysfunctions to improve vision. It is therefore not surprising that amblyopias are idiosyncratic from one person to the next. Habitual interocular suppression is a typical adaption in amblyopia, and by treating suppression in VR, acuity can be improved by 0.1 to 0.2 logMAR. However, the amblyopic visual system shows complicated patterns of interaction between suppression, acuity, stereopsis, motor vergence, accommodation, and motion perception; and each of those subsystems is itself complex. Thus, to improve acuity and stereopsis in amblyopia, a multifaceted approach would seem more promising. In a VR headset, one can addresses suppression, stereopsis, vergence ability, and even accommodation, simultaneously. I will describe Vivid Vision’s approach to this problem, along with preliminary results from independent researchers.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: None</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

@@ -1,0 +1,92 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.15</article-id>
+			<article-id pub-id-type="manuscript">Talks_15</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session II: Retinal remodeling and regeneration</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session II: Retinal remodeling and regeneration: Developing autologous iPSC-RPE therapy for the treatment of AMD patients</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sharma</surname>
+						<given-names>Ruchi</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bharti</surname>
+						<given-names>Kapil</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>National Eye Institute, Bethesda, Maryland</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>15</fpage>
+						<lpage>15</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Age-related macular degeneration (AMD) is one the leading causes of vision loss in older people in the Western world. The disease is caused by degeneration of the retinal pigment epithelium (RPE) monolayer that supports photoreceptors. We used induced pluripotent stem cells (iPSC) to develop an autologous cell replacement therapy for treating dry AMD patients. Patients&#39; blood cells were reprogrammed into iPSCs and differentiated iPSCs into RPE cells using a protocol developed in our lab. RPE cells were matured on a biodegradable polylactic co-glycolic acid (PLGA) scaffold for five weeks. Quality control assays confirmed the iPSC-RPE patch&#39;s purity, maturity, and functionality. Pre-clinical studies in rats and pigs demonstrated the safety and efficacy of iPSC-RPE-patch. Immune-compromised rats transplanted with a 0.5 mm iPSC-RPE patch showed no signs of tumor formation after nine months, confirming the safety profile. We laser-injured the RPE monolayer in the visual streak of pig eyes and, after 48 hours, transplanted the patch. Optical coherence tomography (OCT) confirmed the integration of the patch. A multi-focal electroretinogram (ERG) showed that the retinal layers&#39; electric response was much higher than the lasered area without the implant. We started a phase I/IIa trial for an autologous iPSC-RPE patch to treat AMD. This ongoing trial will test the safety, feasibility, and integration of the iPSC-RPE patch in 12 AMD patients.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: None</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

@@ -1,0 +1,163 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.16</article-id>
+			<article-id pub-id-type="manuscript">Talks_16</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session II: Retinal remodeling and regeneration</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session II: Retinal remodeling and regeneration: Insights into retinal cell replacement: Optimising photoreceptor and RPE transplantation</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tessmer</surname>
+						<given-names>Karen</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gasparini</surname>
+						<given-names>Sylvia Jane</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hammer</surname>
+						<given-names>Juliane</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Adhikari</surname>
+						<given-names>Trishla</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Schmidtke</surname>
+						<given-names>Klara</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Knöbel</surname>
+						<given-names>Sebastian</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ader</surname>
+						<given-names>Marius</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Center for Regenerative Therapies, TUD Dresden University of Technology</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Miltenyi Biotec B.V. &amp Co. KG, Bergisch Gladbach</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>16</fpage>
+						<lpage>16</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Retinal degenerative diseases, such as age-related macular degeneration and inherited retinal degenerations, are characterized by the dysfunction and ultimately loss of photoreceptors and retinal pigment epithelium (RPE). Retinal cell replacement has emerged as a potential therapeutic strategy. This is enabled by the availability of desired donor cells  differentiated in large numbers from human embryonic or induced pluripotent stem cells. With many differentiation protocols around, detailed comparison of donor cell and host characteristics allowing improved transplantations outcomes are however still sparse. Here, I will present our work on a more detailed assessment of photoreceptor and RPE single cell suspension transplantations. Human photoreceptors incorporate extensively into a cone-degeneration mouse host, interact with host Müller glia and bipolar cells and polarize to form inner and outer segments as well as synapses. Importantly, increased donor-host interactions correlate with improved graft polarization and maturation, with donor cell age greatly influencing this process. Similarly, RPE transplantations into an acute RPE depletion mouse model showed that monolayer formation strongly depends on RPE differentiation times, with further improvement by enrichment of an RPE subpopulation by cell surface markers. Overall, our work highlights the need for careful selection of appropriate donor cells for structural integration into recipient tissue after transplantation.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: DFG, BMBF, FFB</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

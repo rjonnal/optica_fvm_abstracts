@@ -1,0 +1,149 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.77</article-id>
+			<article-id pub-id-type="manuscript">Talks_77</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session II</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session II: Cone spacing and S-cone proportion is sufficient to describe varying S-cone regularity across the human central retina</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Schleufer</surname>
+						<given-names>Sierra</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pandiyan</surname>
+						<given-names>Vimal</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hazelton</surname>
+						<given-names>Bryna</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Coates</surname>
+						<given-names>Daniel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sabesan</surname>
+						<given-names>Ramkumar</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Washington Department of Ophthalmology and Graduate Program in Neuroscience</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>University of Washington Department of Ophthalmology</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>University of Washington eScience Institute and Department of Physics</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>University of Washington Department of Ophthalmology, University of Houston College of Optometry</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>77</fpage>
+						<lpage>77</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The topography of S-cones in the human retina is vital to understand short-wavelength sampling of visual space. In humans S-cones have been reported as randomly arranged within 2° eccentricity and semi-regular more peripherally. A model describing how S-cone regularity varies across the retina is yet to be formulated. Here we describe such a model, dependent on 2 parameters - the average distance between neighboring cones and the proportion of S-cones - that is sufficient to explain S-cone regularity across the central retina. Cones were classified using AO-OCT optoretinography in ROIs distributed across the 4 cardinal meridians in 2 subjects (12 ROIs each) between 1.3 - 12.9°eccentricity. The radius of the S-exclusion zone, the area surrounding S-cones where other S-cones are significantly unlikely to appear, was found to be about twice the average distance between neighboring cones in 19/24 mosaics. We found that the measured regularity of S-cone mosaics increases linearly with the increasing proportion of S cones with eccentricity. Using the average distance between neighboring cones and proportion of S-cones per ROI as variables, we created a model to simulate S-cone mosaics that agree well with the observed topography. These results benefit our understanding of the foundational patterns underpinning spectral topography, and the ability to accurately simulate S-cone topography in computational models of early vision. </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: NIH grants 5T32EY007031-42, U01EY032055, EY029710, P30EY001730.  Burroughs Wellcome Fund Careers at the Scientific Interface. DOD Air Force Office of Scientific Research FA9550-21-1-0230. University of Washington eScience Institute Incubator Program.</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

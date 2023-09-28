@@ -1,0 +1,131 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.39</article-id>
+			<article-id pub-id-type="manuscript">Talks_39</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session III</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session III: Measuring binocular combination of luminance and chromatic stimuli using fMRI</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Welbourne</surname>
+						<given-names>Lauren</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Martin</surname>
+						<given-names>Joel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Segala</surname>
+						<given-names>Federico</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wade</surname>
+						<given-names>Alex</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Baker</surname>
+						<given-names>Daniel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of York</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>39</fpage>
+						<lpage>39</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>There are clear and measurable benefits of using two eyes instead of one (e.g. at detection thresholds, stereopsis). However, at high contrasts, excitation and inhibition between binocular (“Bin”) and monocular (“Mon’) responses are balanced, resulting in ocularity invariance behaviourally, and in the primary visual cortex. Little is known about whether and how signals are combined binocularly in other brain regions, including MT and some subcortical areas. We investigated whether we could measure differences in fMRI BOLD responses in Bin vs Mon across different brain regions, for high contrast luminance and chromatic stimuli. Thirty-six subjects had four functional MRI scans consisting of a block design with five stimulus types (three luminance stimuli, L-M, and S-cone) presented in Bin and Mon. Expanding ring and rotating wedge stimuli scans were also used for retinotopic mapping of the early visual areas. Full brain analyses showed greater overall responses to Bin vs Mon stimuli, centered on the occipital lobe. In individual (retinotopically-defined) ROI analyses, we saw a significant difference in beta weights between Bin and Mon conditions in V1 for luminance and L-M, but the increase in response to Bin stimuli was much lower than would be predicted by strong binocular facilitation (Quaia et al, 2019). In the LGN and MT we saw no significant differences in Bin vs Mon for any condition.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: BBSRC</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

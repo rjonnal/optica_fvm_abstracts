@@ -1,0 +1,92 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.79</article-id>
+			<article-id pub-id-type="manuscript">Talks_79</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session II</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session II: XR-based personalized active aid for color deficient observers</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zaman</surname>
+						<given-names>Nasif</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tavakkoli</surname>
+						<given-names>Alireza</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Nevada, Reno</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>79</fpage>
+						<lpage>79</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>In a previous study, Xu et al. (Optics Express, 2022) investigated the efficacy of active aid in the form of personalized image enhancement to increase color discrimination ability in color-deficient observers (CDO). The study parameterized severity of color deficiency, the wavelength shift of cone spectral fundamentals, and the spectral distribution of display primaries. The first parameter was derived by computing the confusion index of the CDO, employing a modified version of the FM-100 test (ZJU50Hue). The second parameter was determined via evaluation of a wavelength-shifted ZJU50Hue test on color-normal observers (CNO). The three parameters were used to model the gamut mapping between CNO and CDO. In this study, extended reality (XR) based modules were developed to acquire these parameters and consequently tailor the headset display to assist CDOs. We chose to implement the Cambridge color test over the ZJU50Hue test as threshold results along the protan, deutan, and tritan lines are more informative than a single confusion index. Preliminary results on a calibrated Varjo XR-3 headset suggest a high correlation between the standard CCT and our XR-based trivector test. As the calibration, simulation and modeling processes all take place in the same HMD, we intend to model the CNO-CDO gamut mapping into a post-process graphics shader to enhance the camera input of the XR-3 and perform a paper-based Ishihara test for evaluation of real-world color discrimination efficacy.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: FA9550-21-1-0207</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

@@ -1,0 +1,79 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.28</article-id>
+			<article-id pub-id-type="manuscript">Talks_28</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Invited Session IV: Extended reality--applications in vision science and beyond</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Invited Session IV: Extended reality--applications in vision science and beyond: Recent developments in head-mounted eye tracking for the understanding of natural(istic) behavior</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Diaz</surname>
+						<given-names>Gabriel J.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Rochester Institute of Technology</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>28</fpage>
+						<lpage>28</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The scientific investigation of eye movements in natural or simulated and “naturalistic” environments has historically been operating at the limit of what head-worn eye tracking technology is capable of. In this presentation, I will review efforts by myself and collaborators at RIT to push these limits, and to increase the scope of scientific inquiry into natural visual and motor behavior. This talk will end with a brief discussion of emerging methods, most of which are aimed at resolving long standing limitations to video-based eye tracking. Most notably, as a consequence of USB transfer limits and stringent power budgets, video based eye trackers are restricted to either a high spatial resolution of the eye image which improves the spatial accuracy of the final gaze estimate, or a high temporal sampling rate (i.e., a high number of eye frames per second), but not both.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Meta Reality Labs and R15EY031090</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

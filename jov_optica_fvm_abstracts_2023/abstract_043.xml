@@ -1,0 +1,79 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.43</article-id>
+			<article-id pub-id-type="manuscript">Talks_43</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session I: Quantifying, modeling, and extending the scope of the principle of inverse effectiveness to vision</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Billock</surname>
+						<given-names>Vincent A.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Leidos, Inc. at the Naval Aerospace Medical Research Laboratory, NAMRU-D, WPAFB, OH</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>43</fpage>
+						<lpage>43</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>When visual responses are amplified/enhanced by the presence of a second (different) sensory stimulus, weak visual responses are amplified/enhanced more than strong ones.  In multisensory integration this is the crucial Principle of Inverse Effectiveness, but here we show that inverse effectiveness also applies to some key Visual-Visual interactions.  Despite being considered one of the three most important principles in sensory integration, Inverse Effectiveness has not been properly quantified for most interactions.  For example, despite the apparent specificity of its name, there is no published evidence that enhancement drops off in a nice 1/Effectiveness progression, nor are there studies that look for an invariant form or imply a particular mechanism.  Here we address these obvious gaps by comparing data from audio-visual, audio-tactile, binocular and color vision interactions, both for psychophysical data and for neural firing rates.  The results can be predicted from a gated power law amplification (Billock &amp Havig, 2018) found for both psychophysical and neural enhancement data.  The Principle of Inverse Effectiveness (PIE) follows directly from the compressive exponent in the power law, and can be derived from a simulation of excitatory-synaptic-coupled Hodgkin-Huxley spiking neurons.  The similarity of inverse effectiveness in multisensory and visual-visual interactions means that multisensory researchers can have their PIE and vision researchers can eat it too.   </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Funded by a supplement to an Office of Naval Research Multi-University Research Award, #N00014-20-1-2163</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

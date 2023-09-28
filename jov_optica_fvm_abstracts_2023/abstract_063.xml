@@ -1,0 +1,127 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.63</article-id>
+			<article-id pub-id-type="manuscript">Talks_63</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session I: Divided attention in Sign Language Recognition</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Young</surname>
+						<given-names>Dave</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Awad</surname>
+						<given-names>Jasmine F.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fine</surname>
+						<given-names>Ione</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Popovkina</surname>
+						<given-names>Dina V.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Department of Psychology, University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Center for Human Neuroscience, University of Washington</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>63</fpage>
+						<lpage>63</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Previous work suggests that the brain has a limited ability to process multiple visual stimuli during divided attention: for example, people can recognize only one word at a time (White, Palmer, &amp Boynton, Psych Science 2018). Here, we examine whether American Sign Language (ASL) experience affects divided attention for stimuli: do signers &amp non-signers differ in their ability to process two signs at once? In a probe recognition paradigm, participants were presented with two letter signs, one or both of which were pre-cued as relevant (single- and dual-task conditions, respectively), and then responded whether a probe sign matched the cued sign(s). The dual-task deficit is the difference in performance between the single- and dual-task conditions and measures the cost of dividing attention. Preliminary data show that hearing non-signers and signers had a similar dual-task deficit (11.8% ± 2.2%, n = 5 vs. 11.4% ± 1.5%, n = 6), with no significant difference between the groups (t(7.27) = 0.18, p = 0.86). The magnitude of these divided attention effects is consistent with processing limits observed for object judgments (e.g. Popovkina, Palmer, Moore, &amp Boynton, JoV 2021). Thus, these preliminary results suggest that the attentional demands of ASL sign processing are similar in signers and non-signers.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Mary Gates Endowment, Arc of Washington Trust Fund, University of Washington, Special Diversity Fellowship, Bolles Dissertation Funds</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

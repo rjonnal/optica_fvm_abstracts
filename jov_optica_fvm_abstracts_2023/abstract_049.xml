@@ -1,0 +1,92 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.49</article-id>
+			<article-id pub-id-type="manuscript">Talks_49</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session I: How important is it to know your own limitations when making perceptual decisions?</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Geisler</surname>
+						<given-names>Wilson</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Anqi</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of Texas at Austin</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>49</fpage>
+						<lpage>49</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Many models of perceptual performance consist of two components: (1) a representation of the available sensory and memory information, and (2) a Bayes-optimal decision computation. If the model accurately predicts performance, then that finding is often interpreted as evidence for both components of the model. However, it is important and informative to also test heuristic decision rules. Here, we illustrate such analyses for the task of covert visual search, where a target can appear at one of n locations (or be absent) with some prior probability distribution (the “prior map”). The available sensory information can be represented by the signal-to-noise ratio at each retinal location (the “d’ map”) together with the prior map. It can be shown that the Bayes-optimal decision rule is to multiply the response at each location by the d’ at that location, add the log prior for that location, and then pick the location that has the maximum. For a wide range of d’ and prior maps we simulated performance for the optimal and various heuristic decision rules. As expected, varying the d’ and prior maps has a large effect on performance due to the variation in the available sensory information. However, a wide range of simple decision rules perform almost as well as the Bayes-optimal rule. In other words, in the covert search task, our decision processes can be idiosyncratic and almost completely ignorant of the d’ and prior maps and still perform optimally.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: NIH grant EY11747</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

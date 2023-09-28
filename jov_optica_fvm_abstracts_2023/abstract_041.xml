@@ -1,0 +1,130 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.41</article-id>
+			<article-id pub-id-type="manuscript">Talks_41</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session I: Noninvasive neuromodulation of subcortical visual pathways with transcranial focused ultrasound</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ash</surname>
+						<given-names>Ryan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mohammadjavadi</surname>
+						<given-names>Morteza</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Butts Pauly</surname>
+						<given-names>Kim</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Norcia</surname>
+						<given-names>Anthony</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Department of Psychiatry and Behavioral Sciences, Stanford University</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Radiology, Stanford University</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Department of Psychology, Stanford University</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>41</fpage>
+						<lpage>41</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Transcranial ultrasound stimulation (TUS) is an emerging tool to noninvasively modulate neural activity in deep brain areas. In preparation for our first in-human TUS studies, we targeted TUS to the lateral geniculate nucleus (visual thalamus) in a large mammal (sheep).  Full-field light flash stimuli were presented with or without concomitant TUS in randomly interleaved trials. Similar to what has previously observed by Fry et al (Nature 1959) in cats, EEG visual-evoked potentials (VEPs) were reversibly suppressed by TUS to the LGN. No changes in VEPs were observed in sheep who received sham-TUS to a control site in the basal ganglia, ruling out potential transducer auditory-somatosensory confounds. Magnetic resonance acoustic radiation force imaging (MR-ARFI), a technique to measure the ultrasound focus in situ, showed a focal volume of microscopic displacement at the expected target. Excitingly, MR-ARFI predicted the suppressive effect on VEPs in individual subjects, suggesting that MR-ARFI can be used to confirm TUS targeting and estimate neurophysiological impact. We are now translating this paradigm into human, targeting TUS to the LGN while participants perform a contrast detection task with EEG recording of steady-state VEPs. MR-ARFI will be measured to evaluate targeting and estimate TUS dosage in each participant. This work provides the foundation for a dissection of the roles of different subcortical nuclei in different aspects of human vision.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: None</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

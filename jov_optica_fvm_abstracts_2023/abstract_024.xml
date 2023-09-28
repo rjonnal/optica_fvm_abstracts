@@ -1,0 +1,143 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.24</article-id>
+			<article-id pub-id-type="manuscript">Talks_24</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session II</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session II: Binocular combination of the pupil response depends on photoreceptor pathway</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Segala</surname>
+						<given-names>Federico G.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Martin</surname>
+						<given-names>Joel T.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bruno</surname>
+						<given-names>Aurelio</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wade</surname>
+						<given-names>Alex R.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Baker</surname>
+						<given-names>Daniel H.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Department of Psychology, University of York, York, United Kingdom</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>School of Psychology and Vision Sciences, University of Leicester, Leicester, United Kingdom</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>1. Department of Psychology, University of York, York, United Kingdom   2. York Biomedical Research Institute, University of York, York, United Kingdom</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>24</fpage>
+						<lpage>24</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The pupillary light response is driven by three classes of retinal photoreceptor. Cones and rods are involved in the initial constriction of the pupil, whereas melanopsin-containing intrinsically photosensitive Retinal Ganglion Cells (ipRGCs) maintain constriction over longer timescales. Previous work has characterized the contributions of photoreceptor signals to pupil control, but relatively little is known about binocular combination of these signals when simultaneously stimulating the retina in both eyes. We measured changes in pupil size in 48 participants using a binocular eye-tracker, targeting specific photoreceptor classes with a binocular 10-primary light engine and the silent substitution method. We stimulated the periphery of the retina using light flickering at 0.4 and 0.5 Hz. Participants viewed a disc of either achromatic flickering light, or contrast modulations that targeted the ipRGCs, or the opponent colour pathways L-M or S-(L+M). Using a modified virtual reality headset, we presented the stimuli at a range of modulation amplitudes in three different ocular configurations: monocular, binocular, and dichoptic. We obtained clear pupil responses at both the first and the second harmonic frequencies. Suppression levels differed across conditions with the strongest suppression measured for the L-M condition. We account for the results in a single modelling framework where the weight of interocular suppression determines the binocular combination properties.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: Biotechnology and Biological Sciences Research Council grant BB/V007580/1 awarded to DHB and ARW</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

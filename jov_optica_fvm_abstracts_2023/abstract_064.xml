@@ -1,0 +1,92 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.64</article-id>
+			<article-id pub-id-type="manuscript">Talks_64</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session I: Criterion effects in maximum likelihood difference scaling: Similar is not always the opposite of different</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Shi</surname>
+						<given-names>Yangyi</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Eskew</surname>
+						<given-names>Rhea</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Psychology Department, College of Science, Northeastern University</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>64</fpage>
+						<lpage>64</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Maximum Likelihood Difference Scaling (MLDS) is an efficient method of estimating perceptual representations of suprathreshold physical quantities (Maloney &amp Yang, 2003), such as luminance contrast. In MLDS, observers can be instructed to judge which of two stimulus pairs are more similar to one another, or which of the two pairs are more different from one another. If the same physical attributes are used for both the similar and dissimilar tasks, the two criteria should produce the same perceptual scales. We estimated perceptual scales for suprathreshold achromatic square patches. Increments and decrements on the mid-gray background were estimated separately. Observers judged which pair of stimuli were more similar in half of the sessions, and more different in the other half sessions. For most observers, the two tasks produced the same perceptual scales: a decelerating curve for increment contrasts and a cubic curve for decremental contrasts (cf. Whittle, 1992). These scales predicted forced-choice contrast discrimination thresholds for both increments and decrements. However, for a subset of observers, the ‘more different’ judgments produced scales that accelerated with contrast for both increments and decrements; these scale shapes do not predict their discrimination thresholds. Our results suggest that, even with these simple stimuli, observers in an MLDS experiment may attend to different aspects of the stimulus depending on the assigned task.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: NSF: BCS-2239456</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

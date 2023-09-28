@@ -1,0 +1,183 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.45</article-id>
+			<article-id pub-id-type="manuscript">Talks_45</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session I: Binocular facilitation of the BOLD response to melanopsin stimulation in the suprachiasmatic nucleus</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Martin</surname>
+						<given-names>Joel T.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Welbourne</surname>
+						<given-names>Lauren</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Segala</surname>
+						<given-names>Federico G.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Baker</surname>
+						<given-names>Ellie</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bhullar</surname>
+						<given-names>Monique</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Huxley</surname>
+						<given-names>Rowan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wardle</surname>
+						<given-names>Allice</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Baker</surname>
+						<given-names>Daniel H.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wade</surname>
+						<given-names>Alex R.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Department of Psychology, University of York, York, United Kingdom</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>45</fpage>
+						<lpage>45</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>In a recent analysis of archival data, Spitschan and Cajochen (2019) identify what appears to be substantial binocular facilitation of melatonin suppression due to melanopic light stimulation. This putative effect likely originates in the melanopsin-containing intrinsically photosensitive retinal ganglion cells (ipRGCs) which project directly to the suprachiasmatic nucleus (SCN) of the hypothalamus. We asked whether we could measure a direct physiological correlate of this binocular facilitation using a binocular, MRI-compatible, 10-primary spectral stimulation device. We present preliminary findings from a functional magnetic resonance imaging (fMRI) study designed to explore the blood oxygen level dependent (BOLD) response to monocular and binocular melanopic light stimulation. The study used a 30 s on/off design with three ‘ocularity’ conditions (binocular-low, monocular-high, binocular-high) and two classes of targeted photoreceptors (melanopsin and LMS cones). Throughout each scan, subjects (N=18) also responded to brief, cone-directed sinusoidal modulations of varying intensity. We report that binocular vs. monocular melanopsin stimulation induced significant BOLD activation in SCN but that this effect was not seen for cone-directed stimulation. This is consistent with the binocular facilitation effect described by Spitschan and Cajochen (2019) and provides the first direct evidence of melanopsin-driven activation and binocular facilitation in human subcortical nuclei. </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: BBSRC (BB/V007580/1)</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

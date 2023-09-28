@@ -1,0 +1,150 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.26</article-id>
+			<article-id pub-id-type="manuscript">Talks_26</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session II</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session II: Neural correlates of serial processing during divided attention across multipart objects</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Popovkina</surname>
+						<given-names>Dina V.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chang</surname>
+						<given-names>Kelly</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Suarez</surname>
+						<given-names>Lucas M.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Palmer</surname>
+						<given-names>John</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Moore</surname>
+						<given-names>Cathleen M.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Boynton</surname>
+						<given-names>Geoffrey M.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Department of Psychology, University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Psychological and Brain Sciences, University of Iowa</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>26</fpage>
+						<lpage>26</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Judgments of multiple simultaneously presented stimuli produce a variety of divided attention effects. For example, participants can detect colors in two locations as well as in one, but can recognize only one masked word at a time (White, Palmer, &amp Boynton, Psych Science 2018). Here, we ask whether judging objects with interchangeable parts, similar to letters in words, also produces performance deficits consistent with serial processing, and which brain areas subserve this process. In a probe recognition task, participants discriminated abstract objects made of Duplo™ parts. On each trial, two objects were presented, with either one or both objects cued as relevant (single- and dual-task conditions, respectively). The distractor probes were made of the same parts in a different order. The difference in performance between the single- and dual-task conditions was 17±1% (n=13), consistent with the prediction of a serial model and rejecting the fixed-capacity parallel model. This result suggests that there is a visual brain area where information can be processed about only one object at a time. Currently, we are using fMRI to examine activity in object-selective regions of the human lateral occipital cortex. To seek evidence of serial processing, we are assessing how stimulus-related modulation is mediated by selective attention; the area of interest should show a modulation for only the attended stimulus location.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This work was supported in part by grants from the National Eye Institute (F32 EY030320 to D.V.P. and EY12925 to G.M.B. and J.P.). </p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

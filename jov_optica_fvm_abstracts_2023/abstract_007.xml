@@ -1,0 +1,165 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.7</article-id>
+			<article-id pub-id-type="manuscript">Talks_7</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Contributed Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Contributed Session I: Human cone response models for optoretinography with FF-SS-OCT and adaptive optics</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pijewska</surname>
+						<given-names>Ewelina</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Valente</surname>
+						<given-names>Denise</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Vienola</surname>
+						<given-names>Kari V</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Meleppat</surname>
+						<given-names>Ratheesh</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zawadzki</surname>
+						<given-names>Robert J</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jonnal</surname>
+						<given-names>Ravi S</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Dept. of Physics, Universidade Federal de Pernambuco, Recife, PE 50740-540, Brazil</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Institute of Biomedicine, University of Turku, FI-20014 Turku, Finland</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>7</fpage>
+						<lpage>7</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Recent work has shown that human rod and cone outer segments (ROS and COS, respectively)   deform in   response   to   visual   stimuli.   In   phase-based optoretinography   (ORG)   the   phases   of   backscattered   light   from   the inner/outer segment junction (IS/OS) and the COS/ROS tips (COST/ROST), is measured,   which   allows   observation   of   stimulus-evoked,   nanometer-scale   changes   in   the   OS length. In this work, we used a full-field swept-source OCT with AO that allowed up to kHz volume rates.  ORG  responses  were   recorded  in  two  healthy  volunteers,  with  photopigment bleaching levels in the range of 1-60 %, and modeled using an exponential sum.  The proposed harmonic oscillator-based response model allowed us to describe the shape of the cone&#39;s ORG responses by amplitudes of deflection and relaxation times. Our preliminary results show that responses   to   complex   stimuli   were   consistent   with   photopigment   availability,   which   in   the context of the consensus theory that adaptation in cones is mediated by photopigment suggests that the ORG may be a useful way to probe light adaptation in cones. The development of   simple   quantitative   parameters   describing   the   ORG   response   should   benefit   future   clinical applications and help to track the progress of blinding diseases.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: National   Institutes   of   Health   (R01-EY-033532,   R01-EY-031098,   R01-EY-026556, P30-EY-183 012576)</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

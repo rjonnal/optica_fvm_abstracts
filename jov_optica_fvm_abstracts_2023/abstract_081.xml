@@ -1,0 +1,205 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.81</article-id>
+			<article-id pub-id-type="manuscript">Talks_81</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session II</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session II: Investigating photoreceptor function in disease-affected retinas using optoretinography</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Maddipatla</surname>
+						<given-names>Reddikumar</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Langlo</surname>
+						<given-names>Christopher </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Vienola</surname>
+						<given-names>Kari </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bartuzel</surname>
+						<given-names>Maciej </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pijewska</surname>
+						<given-names>Ewelina </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff6"><sup>6</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zawadzki</surname>
+						<given-names>Robert </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff7"><sup>7</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jonnal</surname>
+						<given-names>Ravi </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA.</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Institute of Biomedicine, University of Turku, Fi-20014 Turun, Yliopistoy, Finland.</institution>
+				</aff>
+
+
+				<aff id="aff5">
+					<label><sup>5</sup></label>
+					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA</institution>
+				</aff>
+
+
+				<aff id="aff6">
+					<label><sup>6</sup></label>
+					<institution>Faculty of Physics, Astronomy, and Informatics, Nicolaus Copernicus University in Torun, Grudziądzka 5, 87-100 Torun, Poland.</institution>
+				</aff>
+
+
+				<aff id="aff7">
+					<label><sup>7</sup></label>
+					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA. EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>81</fpage>
+						<lpage>81</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Assessing the functional response of photoreceptors is vital in understanding retinal disease progression. Traditional subjective methods like visual acuity and visual fields, and objective ones like electroretinography, have limitations. An ideal complement to these techniques is optoretinography (ORG), which images the retina and tests its function at once. ORG utilizes the phase of the optical coherence tomography (OCT) signal to quantify nanometer-scale changes, measuring subtle photoreceptor responses to stimuli. Efforts to observe stimulus-evoked responses in human cone photoreceptors began with adaptive optics (AO) and common path interferometry, enabling the resolution and tracking of individual cells. Advances in OCT systems with cellular resolution through AO or digital aberration correction successfully measured ORG responses from single cones and rods. This method tracks phase differences between outer segment tips (COST or ROST) and the inner-outer segment junction (IS/OS) to assess individual cell responses. A novel velocity-based method recently demonstrated the feasibility of measuring ORG signals with clinical-grade OCT systems. In the present work, we implemented this technique on disease-affected human retinas, revealing lower magnitudes of response compared to healthy retinas, and highlighting its potential clinical applications.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: National Institutes of Health (R01-EY-033532, R01-EY-031098, R01-EY-026556, P30-EY-183 012576)</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

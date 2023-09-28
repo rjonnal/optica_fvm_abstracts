@@ -1,0 +1,131 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.68</article-id>
+			<article-id pub-id-type="manuscript">Talks_68</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session II</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session II: SSVEP measurements of color and spatial frequency response in V1</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Carter</surname>
+						<given-names>Alex</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Baker</surname>
+						<given-names>Daniel H.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Morland</surname>
+						<given-names>Antony B.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lawton</surname>
+						<given-names>Abbie J.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wade</surname>
+						<given-names>Alex R.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>University of York</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>68</fpage>
+						<lpage>68</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Intro: Recent work from our group (Segala et al, eLife, 2023) shows that the rules for binocular luminance signal combination depend on spatial frequency (SF). Structured patterns show strong interocular suppression while unstructured inputs (mean field disks) do not. Here, we used SSVEPs to ask if SF dependence is also found in chromatic pathways. Methods: SSVEPs were recorded from 12 subjects using a canonical V1 template (Poncet &amp Ales, 2023). Eyes were targeted using shutter goggles and stimuli were contrast-reversing gratings or disks at 5Hz (left eye) and 7Hz (right eye). Experimental factors were stimulus SF (disk, grating 1cpd), chromaticity (LMS, L-M or S-cone isolating) and ocularity (left, right or both). Results: Monocular conditions generated large responses at 2F. In binocular conditions, all 2F responses showed suppression, and significant intermodulation (IM) terms (sums and differences of the inputs - e.g., 2Hz) were present. The magnitude of both suppression and IM in the binocular condition depended on SF and chromaticity; IM amplitudes were higher for gratings compared to disks in the luminance condition, but higher for disks compared to gratings in the chromatic conditions. Overall we found significant differences in the spectral response signatures across all stimulus combinations. Conclusion: All inputs undergo binocular combination in V1 but the rules governing the combination appear to depend on both chromaticity and SF.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: None</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

@@ -1,0 +1,175 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.60</article-id>
+			<article-id pub-id-type="manuscript">Talks_60</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session I</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session I: Vernier thresholds of a Poisson-noise-limited computational observer with and without fixational eye movements</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wang</surname>
+						<given-names>Mengxin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hexley</surname>
+						<given-names>Allie C.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Houston</surname>
+						<given-names>Alexander J. H.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Cui</surname>
+						<given-names>Jiahe</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Read</surname>
+						<given-names>Daniel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Smithson</surname>
+						<given-names>Hannah E.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Brainard</surname>
+						<given-names>David H.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Department of Experimental Psychology, University of Oxford</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>School of Mathematics, University of Leeds</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Department of Engineering Science, University of Oxford</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Department of Psychology, University of Pennsylvania</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>60</fpage>
+						<lpage>60</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Vernier acuity is a fundamental measure of spatial vision. We modeled how stimulus encoding by the cones limits Vernier acuity. We determined Vernier thresholds for a computational observer that had access to the Poisson-distributed cone photopigment excitations. The observer also had access to the cone mosaic layout and the stimulus possibilities on each trial. We varied stimulus contrast (100%, 50%, 22%, 11% Michelson contrast) and duration (2, 4, 9, 18 stimulus frames; frame duration 8.33 ms) while fixing other stimulus properties (foveal viewing; two achromatic vertical bars; length 6.2 arcmin; width 1 arcmin; vertical gap 0.1 arcmin). When the retinal image is stationary, Vernier thresholds depend jointly on contrast and duration through contrast energy: squared contrast times duration. Introducing fixational drift eye movements impairs performance, when the information about eye path is not accounted for by the computational observer. When the path of fixational drift is made available and used ideally, there is no noticeable difference with the stationary case. The lack of improvement when the path of fixational drift is known exactly may reflect the high-density of foveal cones relative to the optical point spread function and the fact that we did not introduce temporal filtering by the visual system. Our results suggest the possibility of a rich interaction between optics, cone sampling, fixational eye movements, post-receptoral filtering and visual performance.</p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: This work was supported by the Engineering and Physical Sciences Research Council [grant number EP/W023873/1].</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>

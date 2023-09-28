@@ -1,0 +1,124 @@
+<?xml version="1.0"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="Optica Fall Vision Meeting Abstract">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="hwp">jov</journal-id>
+			<journal-id journal-id-type="publisher-id">JOVI</journal-id>
+			<journal-title-group>
+				<journal-title>Journal of Vision</journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1534-7362</issn>
+			<publisher>
+				<publisher-name>Association for Research in Vision and Ophthalmology</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1167/jov.23.13.76</article-id>
+			<article-id pub-id-type="manuscript">Talks_76</article-id>
+			<article-categories>
+				<subj-group subj-group-type="category">
+					<subject>Poster Session II</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Poster Session II: Variation of cone spectral composition in the macula</article-title>
+			</title-group>
+			<contrib-group>
+                          
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pandiyan</surname>
+						<given-names>Vimal Prabhu</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Schleufer</surname>
+						<given-names>Sierra</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bharadwaj</surname>
+						<given-names>Palash</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sabesan</surname>
+						<given-names>Ramkumar</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+
+                          
+				<aff id="aff1">
+					<label><sup>1</sup></label>
+					<institution>Department of Ophthalmology, University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Ophthalmology, University of Washington, Seattle.</institution>
+				</aff>
+
+
+			</contrib-group>
+			<pub-date pub-type="ppub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date pub-type="epub"><month>11</month>
+				<year>2023</year>
+			</pub-date>
+						<volume>23</volume>
+						<issue>13</issue>
+						<fpage>76</fpage>
+						<lpage>76</lpage>
+			<permissions>
+				<license license-type="cc-by-nc-nd" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+					<license-p>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Cone spectral composition is central to the study of color vision and retinal development. There is a lack of information on the spatial distribution of L and M-cones in the macula given that there are no histological methods to separate them. To overcome this gap, cones were spectrally classified using adaptive optics OCT-based optoretinography in human subjects and their variation was described in the macula.  To date, we have classified ~130000 total cones in 9 subjects across 79 regions of interest (ROI), with a maximum of 16 retinal eccentricities per subject spread along the 4 cardinal meridians.  In 2 two subjects, the variation in cone spectral topography in both eyes was compared. The L: M cone ratio decreased in the foveal slope (0.4°- 1°) but remained relatively uniform in the parafovea from 1.5°- 10° eccentricity. The % S-cones and S-cone density were consistent with prior histology (Curcio et al. 1991). No significant differences were observed in the fellow eyes of the same subject or the distribution of cone types across the 4 cardinal meridians. Decreased L: M cone ratio in the foveal slope suggests earlier differentiation of M-cones than L-cones. The stable L: M  cone ratio in the parafovea suggests that the greater fall off in chromatic versus achromatic vision with eccentricity is not explained by cone spectral composition, but is rather attributed to pooling in downstream neurons. </p>
+			</abstract>
+		</article-meta>
+	</front>
+	<back>
+                
+               <fn-group>
+			<fn>
+				<p>Funding: Funding: NIH grants U01EY032055, EY029710, P30EY001730, Burroughs Wellcome Fund Careers at the Scientific Interfaces, DOD Air Force Office of Scientific Research FA9550-21-1-0230, Unrestricted grant from Research to Prevent Blindness</p>
+			</fn>
+		</fn-group>
+
+	</back>
+</article>
