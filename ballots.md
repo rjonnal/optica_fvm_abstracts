@@ -13,7 +13,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Pijewska, Ewelina
 
-Session: Contributed Session I
+Session: **talk session, Fri at 1030**
 
 Email: eapijewska@ucdavis.edu
 
@@ -41,7 +41,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Liu, Teng
 
-Session: Contributed Session I
+Session: **talk session, Fri at 1030**
 
 Email: tengl7@uw.edu
 
@@ -69,7 +69,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Baez, Hector
 
-Session: Contributed Session I
+Session: **talk session, Fri at 1030**
 
 Email: Hbaez@ur.rochester.edu
 
@@ -97,7 +97,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Yücel, Ezgi Irmak
 
-Session: Contributed Session I
+Session: **talk session, Fri at 1030**
 
 Email: yucel@uw.edu
 
@@ -125,7 +125,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: McLean, Iona
 
-Session: Contributed Session I
+Session: **talk session, Fri at 1030**
 
 Email: ionamclean@berkeley.edu
 
@@ -153,7 +153,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Kruper, John
 
-Session: Contributed Session I
+Session: **talk session, Fri at 1030**
 
 Email: jk232@uw.edu
 
@@ -181,7 +181,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Tessmer, Karen
 
-Session: Invited Session II: Retinal remodeling and regeneration
+Session: **talk session, Fri at 1315**
 
 Email: karen.tessmer@tu-dresden.de
 
@@ -209,7 +209,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Vlasits, Anna
 
-Session: Invited Session III: Diversity in chromatic processing across the animal kingdom
+Session: **talk session, Sat at 800**
 
 Email: anna.vlasits@northwestern.edu
 
@@ -237,7 +237,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Wang, Yiyi (Charlotte)
 
-Session: Contributed Session II
+Session: **talk session, Sat at 1015**
 
 Email: yiyiwang@berkeley.edu
 
@@ -265,7 +265,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Hexley, Allie C.
 
-Session: Contributed Session II
+Session: **talk session, Sat at 1015**
 
 Email: allie.hexley@psy.ox.ac.uk
 
@@ -293,7 +293,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Chin, Benjamin M.
 
-Session: Contributed Session II
+Session: **talk session, Sat at 1015**
 
 Email: bechin@berkeley.edu
 
@@ -321,7 +321,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Segala, Federico G.
 
-Session: Contributed Session II
+Session: **talk session, Sat at 1015**
 
 Email: fgs502@york.ac.uk
 
@@ -349,7 +349,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Rodriguez, Carlos
 
-Session: Contributed Session II
+Session: **talk session, Sat at 1015**
 
 Email: carlos.rodriguez@pennmedicine.upenn.edu
 
@@ -377,7 +377,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Popovkina, Dina V.
 
-Session: Contributed Session II
+Session: **talk session, Sat at 1015**
 
 Email: dina4@uw.edu
 
@@ -405,7 +405,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Welbourne, Lauren
 
-Session: Contributed Session III
+Session: **talk session, Sun at 1015**
 
 Email: lauren.welbourne@york.ac.uk
 
@@ -433,7 +433,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Ash, Ryan
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: rytash@stanford.edu
 
@@ -461,7 +461,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Kavcar, Osman B.
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: okavcar@nevada.unr.edu
 
@@ -469,7 +469,7 @@ Institution: Integrative Neuroscience Program, University of Nevada, Reno
 
 Title: Tests of a contrast gain control model of parabolic brightness matching functions
 
-Abstract: The brightness induction produced by a surround annulus on a target disk can be measured by adjusting the luminance of a second disk to match the target in brightness. This produces parabolic brightness matching functions (BMFs) when average perceptual matches are plotted against annulus luminance on a log-log scale. A model developed by Rudd et al. (JOSA A, 2023), in which a contrast gain control operates between the outer and inner edges of the annulus, predicts that a linear relationship should hold between the first-order (k1) and second-order coefficients (k2) of the parabolic BMFs. We previously verified this prediction and discovered that the slope of this linear relationship depends on the contrast polarity of the target with respect to its annulus, but is unaffected by the annulus size or the background luminance. Here, we further tested the model by varying the target disk luminance in two conditions where the target disk was either a decrement or an increment with respect to its annulus and the background was white (highest display luminance). The model predicts that the slope of the k1 vs k2 plots will itself decrease as a linear function of the log luminance of the target disk, and the rate of decrease will equal -1. Our results confirmed the first prediction, but the slope was -0.43 instead of -1. This pattern held both in the decremental and incremental target conditions.
+Abstract: The brightness induction produced by a surround annulus on a target disk can be measured by adjusting the luminance of a second disk to match the target in brightness. This produces parabolic brightness matching functions (BMFs) when average perceptual matches are plotted against annulus luminance on a log-log scale. A model developed by Rudd et al. (JOSA A, 2023), in which a contrast gain control operates between the outer and inner edges of the annulus, predicts that a linear relationship should hold between the first-order (k1) and second-order coefficients (k2) of the parabolic BMFs. We previously verified this prediction and discovered that the slope of this linear relationship depends on the contrast polarity of the target with respect to its annulus, but is unaffected by the annulus size or the background luminance. Here, we further tested the model by varying the target disk luminance in two conditions where the target disk was either a decrement or an increment with respect to its annulus and the background was white (highest display luminance). The model predicts that the slope of the k1 vs k2 plots will itself decrease as a linear function of the log luminance of the target disk, and the rate of decrease will equal -1. Our results confirmed the first prediction, but the slope was -2 instead of -1. This pattern held both in the decremental and incremental target conditions.
 
 Funding: nan
 
@@ -489,7 +489,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Birman, Daniel
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: dbirman@uw.edu
 
@@ -517,7 +517,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Martin, Joel T.
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: joel.martin@york.ac.uk
 
@@ -545,7 +545,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Vincent, Joris
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: joris.vincent@tu-berlin.de
 
@@ -573,7 +573,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Chang, Kelly
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: kchang4@uw.edu
 
@@ -601,7 +601,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Kitakami, Kotaro
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: koo@img.cs.titech.ac.jp
 
@@ -629,7 +629,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Pirog, J.T.
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: jpirog@berkeley.edu
 
@@ -657,7 +657,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Ressmeyer, Ryan
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: ryanress@uw.edu
 
@@ -685,7 +685,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Rodriguez, Raul
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: raul.rodriguez@berkeley.edu
 
@@ -713,7 +713,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Sadeghi, Roksana
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: roksana.s.sadeghi@berkeley.edu
 
@@ -741,7 +741,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Bartuzel, Maciej Marcin
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: mmbartuzel@ucdavis.edu
 
@@ -769,7 +769,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Tyson, Terence
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: terencetyson@berkeley.edu
 
@@ -797,7 +797,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Wang, Mengxin
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: mengxin.wang@psy.ox.ac.uk
 
@@ -825,7 +825,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Wise, Mackenzie V.
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: mackenziewise@nevada.unr.edu
 
@@ -853,7 +853,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Young, Dave
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: dyoun200@gmail.com
 
@@ -881,7 +881,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Shi, Yangyi
 
-Session: Poster Session I
+Session: **poster session, Fri at 1530**
 
 Email: shi.yang@northeastern.edu
 
@@ -909,7 +909,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Ara, Jawshan
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: jawshan@nevada.unr.edu
 
@@ -937,7 +937,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Arthur, Christabel
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: christabela@nevada.unr.edu
 
@@ -965,7 +965,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Bun, Luke
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: lukebun@uw.edu
 
@@ -993,7 +993,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Carter, Alex
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: lc1865@york.ac.uk
 
@@ -1021,7 +1021,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Chen, Qiang
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: cqchen@uw.edu
 
@@ -1049,7 +1049,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Horiuchi, Suzuha
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: suzuhah.study@gmail.com
 
@@ -1077,7 +1077,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Manfred, Joshua
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: guntherk@wabash.edu
 
@@ -1105,7 +1105,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Son, Minwoo
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: son.m.aa@m.titech.ac.jp
 
@@ -1133,7 +1133,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Takanashi, Mizuki
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: takanashi.m.aa@m.titech.ac.jp
 
@@ -1161,7 +1161,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Puska, Mikayla L.
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: mlpuska@uw.edu
 
@@ -1189,7 +1189,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Zaman, Nasif
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: zaman@nevada.unr.edu
 
@@ -1217,7 +1217,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Zou, Tianlun
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: tzou3@ur.rochester.edu
 
@@ -1245,7 +1245,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Maddipatla, Reddikumar
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: rkmaddipatla@ucdavis.edu
 
@@ -1273,7 +1273,7 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 
 Author: Bembry - Colegrove, Briyana
 
-Session: Poster Session II
+Session: **poster session, Sat at 1200**
 
 Email: bbembry@uw.edu
 
