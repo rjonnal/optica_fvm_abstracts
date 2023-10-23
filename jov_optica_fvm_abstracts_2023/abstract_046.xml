@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.46</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.46</article-id>
 			<article-id pub-id-type="manuscript">Talks_46</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -21,14 +21,14 @@
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Combining spatial and quantitative models to account for the relationship between luminance, context and brightness</article-title>
+				<article-title>Poster Session I: Criterion effects in maximum likelihood difference scaling: Similar is not always the opposite of different</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Vincent</surname>
-						<given-names>Joris</given-names>
+						<surname>Shi</surname>
+						<given-names>Yangyi</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Maertens</surname>
-						<given-names>Marianne</given-names>
+						<surname>Eskew</surname>
+						<given-names>Rhea</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -55,19 +55,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Technische Universität Berlin</institution>
+					<institution>Psychology Department, College of Science, Northeastern University</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>46</fpage>
 						<lpage>46</lpage>
 			<permissions>
@@ -76,7 +76,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>The apparent brightness of a target region is determined not only by its local luminance, but also by its surrounding context. This is well demonstrated by the many illusions where some surround context causes two physically identical targets to appear different in brightness (e.g. White&#39;s (1979) illusion). Here we use perceptual scales from Maximum Likelihood Conjoint Measurements to test the predictive power of computational brightness models as a function of surround context and local luminance. While the qualitative relationship between target brightness and surround context (i.e. direction of effect) is captured well by image-computable models of the spatial filtering type (e.g. Blakeslee and McCourt, 1997), these do not predict the quantitative aspects of that relationship (i.e. magnitude of effect). A different class of models (e.g. Whittle, 1992) makes quantitative predictions of brightness as a function of luminance, but requires labeling of target and background (i.e., is not image-computable), thus cannot by itself account for the spatial context. Hence we combine Whittle’s model with spatial mechanisms to account for both spatial context and local luminance. A combined model using multiscale spatial filtering and calculating brightness at every spatial scale is able to provide both a correct qualitative prediction of direction of effect, as well as a quantitative prediction of apparent brightness that can be tested against perceptual scales for different stimuli.</p>
+				<p>Maximum Likelihood Difference Scaling (MLDS) is an efficient method of estimating perceptual representations of suprathreshold physical quantities (Maloney &amp Yang, 2003), such as luminance contrast. In MLDS, observers can be instructed to judge which of two stimulus pairs are more similar to one another, or which of the two pairs are more different from one another. If the same physical attributes are used for both the similar and dissimilar tasks, the two criteria should produce the same perceptual scales. We estimated perceptual scales for suprathreshold achromatic square patches. Increments and decrements on the mid-gray background were estimated separately. Observers judged which pair of stimuli were more similar in half of the sessions, and more different in the other half sessions. For most observers, the two tasks produced the same perceptual scales: a decelerating curve for increment contrasts and a cubic curve for decremental contrasts (cf. Whittle, 1992). These scales predicted forced-choice contrast discrimination thresholds for both increments and decrements. However, for a subset of observers, the ‘more different’ judgments produced scales that accelerated with contrast for both increments and decrements; these scale shapes do not predict their discrimination thresholds. Our results suggest that, even with these simple stimuli, observers in an MLDS experiment may attend to different aspects of the stimulus depending on the assigned task.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -84,7 +84,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: German Research Foundation DFG MA5127/5-1 to M. Maertens</p>
+				<p>Funding: Funding: NSF: BCS-2239456</p>
 			</fn>
 		</fn-group>
 

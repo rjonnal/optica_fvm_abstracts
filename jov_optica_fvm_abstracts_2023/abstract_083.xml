@@ -13,22 +13,74 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.83</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.83</article-id>
 			<article-id pub-id-type="manuscript">Talks_83</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session III</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Development of transparency in the human lens cells</article-title>
+				<article-title>Contributed Session III: Measuring binocular combination of luminance and chromatic stimuli using fMRI</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Clark</surname>
-						<given-names>John</given-names>
+						<surname>Welbourne</surname>
+						<given-names>Lauren</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Martin</surname>
+						<given-names>Joel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Segala</surname>
+						<given-names>Federico</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wade</surname>
+						<given-names>Alex</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Baker</surname>
+						<given-names>Daniel</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -42,19 +94,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of Washington</institution>
+					<institution>University of York</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>83</fpage>
 						<lpage>83</lpage>
 			<permissions>
@@ -63,7 +115,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p> As the neural tube forms in the fifth week of human embryonic development, a few ectodermal cells adjacent to the neural plate in the trilaminar embryo, swell, thicken, and compress their intercellular space to form a minute lens placode.  At this early stage, the embryonic cells in the lens placode resemble neuroectoderm, enriched in cytoskeletal proteins, junctions, membrane channels, and stress response proteins. With continued differentiation, intracellular organelles disappear to decrease light scattering. The expression of high concentrations of crystallin proteins increase the index of refraction, “n”, for optimal optical function. In each cell, the condensed cytoplasmic proteins organize into the short-range order necessary for maximal transmission of light.  Actin, intermediate filaments and microtubules provide a scaffold for the organization of connexins, and aquaporin channels in the membranes supporting a unique microcirculation for the symmetric transport of fluid, ions, and nutrients to the layers of elongating, close-packed, hexagonal cells, the basis for this unique, biological, optical element. The entire optical system is stabilized by molecular and cellular mechanisms designed to protect optical function for a lifetime. Even with the specialized protective mechanisms in lens cells, loss of transparency in cataract formation is one of the most common effects of cellular aging accounting for over 50% of vision impairment worldwide</p>
+				<p>There are clear and measurable benefits of using two eyes instead of one (e.g. at detection thresholds, stereopsis). However, at high contrasts, excitation and inhibition between binocular (“Bin”) and monocular (“Mon’) responses are balanced, resulting in ocularity invariance behaviourally, and in the primary visual cortex. Little is known about whether and how signals are combined binocularly in other brain regions, including MT and some subcortical areas. We investigated whether we could measure differences in fMRI BOLD responses in Bin vs Mon across different brain regions, for high contrast luminance and chromatic stimuli. Thirty-six subjects had four functional MRI scans consisting of a block design with five stimulus types (three luminance stimuli, L-M, and S-cone) presented in Bin and Mon. Expanding ring and rotating wedge stimuli scans were also used for retinotopic mapping of the early visual areas. Full brain analyses showed greater overall responses to Bin vs Mon stimuli, centered on the occipital lobe. In individual (retinotopically-defined) ROI analyses, we saw a significant difference in beta weights between Bin and Mon conditions in V1 for luminance and L-M, but the increase in response to Bin stimuli was much lower than would be predicted by strong binocular facilitation (Quaia et al, 2019). In the LGN and MT we saw no significant differences in Bin vs Mon for any condition.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +123,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: BBSRC</p>
 			</fn>
 		</fn-group>
 

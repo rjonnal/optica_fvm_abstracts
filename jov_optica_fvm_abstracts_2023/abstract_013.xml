@@ -13,48 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.13</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.13</article-id>
 			<article-id pub-id-type="manuscript">Talks_13</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session II: Retinal remodeling and regeneration</subject>
+					<subject>Invited Session III: Diversity in chromatic processing across the animal kingdom</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session II: Retinal remodeling and regeneration: Partial cone loss triggers differential modification of inhibition across retinal pathways </article-title>
+				<article-title>Invited Session III: Diversity in chromatic processing across the animal kingdom: Comparative connectomics reveals noncanonical wiring for color vision in human foveal retina</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Lee</surname>
-						<given-names>Joo Yeun</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Della Santina</surname>
-						<given-names>Luca</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Dunn</surname>
-						<given-names>Felice</given-names>
+						<surname>Kim</surname>
+						<given-names>Yeon Jin</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -68,25 +42,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Ophthalmology, University of California, San Francisco</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>College of Optometry, University of Houston</institution>
+					<institution>University of Washington</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>13</fpage>
 						<lpage>13</lpage>
 			<permissions>
@@ -95,7 +63,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Cone loss up to 40-60% can be undetected by visual acuity or sensitivity metrics. These findings suggest that conventional diagnostics can be insensitive to cone loss below a threshold and/or that visual circuits can be resilient to cone loss up to a threshold. To distinguish between these possibilities, our lab studied the effects of partial cone loss in the mature mouse retina. We induced controlled cone loss by selectively expressing the diphtheria toxin receptor under the cone opsin promoter (cone-DTR). We examined the effects of 50% cone loss on the three of the most sensitive cell types in mouse retina: alpha ON sustained (AON-S), OFF sustained (AOFF-S), and OFF transient (AOFF-T) ganglion cells. With multiple cell types, we can discern between effects common across pathways, i.e., changes to common circuit components, and effects unique to pathways, i.e., changes to circuit components after the pathways diverge to each cell type. In AON-S ganglion cells, partial cone loss triggers inhibition to increase spatiotemporal integration, recover contrast gain, and receive increased synaptic inputs. While OFF pathways also exhibit modified spatiotemporal processing with fewer cones, the extent of functional adjustments was unique between the AOFF-S and AOFF-T. Cone loss caused differential modifications to inhibition in each of these retinal pathways. These findings demonstrate that partial cone loss induced circuitry changes after the divergence of OFF retinal pathways.</p>
+				<p>The Old World macaque monkey and New World common marmoset provide fundamental models for human visual processing, yet the human ancestral lineage diverged from these monkey lineages over 25 Mya. We therefore asked whether fine-scale synaptic wiring in the nervous system is preserved across these three primate families, despite long periods of independent evolution. We applied connectomic electron microscopy to the specialized foveal retina where circuits for highest acuity and color vision reside. Synaptic motifs arising from the cone photoreceptor type sensitive to short (S) wavelengths and associated with “blue–yellow” (S-ON and S-OFF) color-coding circuitry were reconstructed. We found that distinctive circuitry arises from S cones for each of the three species. The S cones contacted neighboring L and M (long- and middle-wavelength sensitive) cones in humans, but such contacts were rare or absent in macaques and marmosets. We discovered a major S-OFF pathway in the human retina and established its absence in marmosets. Further, the S-ON and S-OFF chromatic pathways make excitatory-type synaptic contacts with L and M cone types in humans, but not in macaques or marmosets. Our results predict that early-stage chromatic signals are distinct in the human retina and imply that solving the human connectome at the nanoscale level of synaptic wiring will be critical for fully understanding the neural basis of human color vision.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -103,7 +71,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: R01 EY-029772</p>
+				<p>Funding: Funding: NIH grant EY-028282</p>
 			</fn>
 		</fn-group>
 

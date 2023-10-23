@@ -13,87 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.25</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.25</article-id>
 			<article-id pub-id-type="manuscript">Talks_25</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session II</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session II: Computational modeling of shift in unique yellow for small stimuli</article-title>
+				<article-title>Poster Session I: Quantifying, modeling, and extending the scope of the principle of inverse effectiveness to vision</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Rodriguez</surname>
-						<given-names>Carlos</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Zhang</surname>
-						<given-names>Ling-Qi</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Boehm</surname>
-						<given-names>Alexandra E. </given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Greene</surname>
-						<given-names>Maxwell J. </given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Tuten</surname>
-						<given-names>William S. </given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Brainard</surname>
-						<given-names>David H.</given-names>
+						<surname>Billock</surname>
+						<given-names>Vincent A.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -107,25 +42,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of Pennsylvania</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Herbert Wertheim School of Optometry &amp Vision Science, University of California, Berkeley</institution>
+					<institution>Leidos, Inc. at the Naval Aerospace Medical Research Laboratory, NAMRU-D, WPAFB, OH</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>25</fpage>
 						<lpage>25</lpage>
 			<permissions>
@@ -134,7 +63,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>	Unique yellow (UY) is largely invariant to L:M cone proportion for spatially-extended stimuli in healthy trichromats. However, a recent adaptive-optics-based study by Boehm et al. reveals that when stimulus size is reduced to a few arcmin, color appearance depends on the local L:M proportion in the patch of the retina on which the stimulus was imaged. We aimed to determine if such findings are consistent with a normative account of visual processing. A series of 3.5 and 10 arcmin stimuli were simulated as isoluminant mixtures of 540 and 680 nm primaries. We modeled sensory encoding under adaptive-optics conditions using the open-source software ISETBio, for simulated retinal cone mosaics with varying local L:M proportions. The resultant cone excitations were decoded using a Bayesian image reconstruction algorithm (Zhang et al., 2022). For the 3.5 arcmin stimuli, as local L:M proportion decreased, the 540 nm component of the reconstructions increased relative to the 680 nm component. This is qualitatively consistent with the experimental observations of Boehm et al.  For 10 arcmin stimuli, in contrast, reconstructions were stable across variation in local L:M cone proportion. Notably, reconstructions depend not only on the local L:M cone proportion, but also on the proportion in the immediately surrounding retina, leading to a testable prediction. The computational observations frame the experimental results as a normative consequence of visual processing.</p>
+				<p>When visual responses are amplified/enhanced by the presence of a second (different) sensory stimulus, weak visual responses are amplified/enhanced more than strong ones.  In multisensory integration this is the crucial Principle of Inverse Effectiveness, but here we show that inverse effectiveness also applies to some key Visual-Visual interactions.  Despite being considered one of the three most important principles in sensory integration, Inverse Effectiveness has not been properly quantified for most interactions.  For example, despite the apparent specificity of its name, there is no published evidence that enhancement drops off in a nice 1/Effectiveness progression, nor are there studies that look for an invariant form or imply a particular mechanism.  Here we address these obvious gaps by comparing data from audio-visual, audio-tactile, binocular and color vision interactions, both for psychophysical data and for neural firing rates.  The results can be predicted from a gated power law amplification (Billock &amp Havig, 2018) found for both psychophysical and neural enhancement data.  The Principle of Inverse Effectiveness (PIE) follows directly from the compressive exponent in the power law, and can be derived from a simulation of excitatory-synaptic-coupled Hodgkin-Huxley spiking neurons.  The similarity of inverse effectiveness in multisensory and visual-visual interactions means that multisensory researchers can have their PIE and vision researchers can eat it too.   </p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -142,7 +71,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: The University of Pennsylvania Post-Baccalaureate Research Education Program, grant number R25 GM071745, and a research gift from Meta</p>
+				<p>Funding: Funding: Funded by a supplement to an Office of Naval Research Multi-University Research Award, #N00014-20-1-2163</p>
 			</fn>
 		</fn-group>
 

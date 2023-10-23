@@ -13,25 +13,103 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.14</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.14</article-id>
 			<article-id pub-id-type="manuscript">Talks_14</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session II: Retinal remodeling and regeneration</subject>
+					<subject>Invited Session III: Diversity in chromatic processing across the animal kingdom</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session II: Retinal remodeling and regeneration: Stimulation of functional neural regeneration in adult mouse retina</article-title>
+				<article-title>Invited Session III: Diversity in chromatic processing across the animal kingdom: Color processing in the mouse retina</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Reh</surname>
-						<given-names>Thomas</given-names>
+						<surname>Vlasits</surname>
+						<given-names>Anna</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Korympidou</surname>
+						<given-names>Maria M</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Strauss</surname>
+						<given-names>Sarah</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Schubert</surname>
+						<given-names>Timm</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Franke</surname>
+						<given-names>Katrin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Berens</surname>
+						<given-names>Philipp</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Euler</surname>
+						<given-names>Thomas</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
 
 
 				</contrib>
@@ -42,19 +120,43 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of Washington</institution>
+					<institution>Department of Neurobiology, Northwestern University</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Institute for Ophthalmic Research, University of Tuebingen</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Baylor College of Medicine</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Tuebingen AI Center, Institute for Ophthalmic Research, University of Tuebingen</institution>
+				</aff>
+
+
+				<aff id="aff5">
+					<label><sup>5</sup></label>
+					<institution>Institute for Ophthalmic Research, Werner Reichardt Centre for Integrative Neuroscience, University of Tuebingen</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>14</fpage>
 						<lpage>14</lpage>
 			<permissions>
@@ -63,7 +165,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Neurons are not regenerated in the adult mammalian retina. However, in non-mammalian vertebrates, specialized glial cells (Muller glia, MG) spontaneously generate neural progenitors, which go on to replace neurons after injury. We have recently developed strategies to stimulate regeneration of functional neurons in the adult mouse retina by over-expressing developmental transcription factors, including Ascl1, Atoh1, Islet1 and Pou4f2.  We have found that over-expressing Ascl1 in MG in vivo, followed by injury and TSA, induces regeneration of functional retinal neurons in adult mice. Adding additional TFs, such as Atoh1, substantially increases the efficiency of neurogenesis from the MG, while combining other TFs with Ascl1 can alter the types of neurons that are regenerated after injury.  Together our data show that we can considerably recapitulate  in mice much of the regeneration that occurs naturally in fish. </p>
+				<p>Across species, specialized retinal circuits allow animals to extract visual information from their environments. How retinal circuits extract relevant visual information is a major area of inquiry. In the mouse retina, cone photoreceptors possess a gradient of opsin expression leading to uneven detection of colors across visual space. However, at the output of the retina, ganglion cells&#39; color preferences deviate from this gradient, suggesting that circuits in the retina may alter the color information before sending it to the brain. We explored how circuits in the retina shape chromatic information, focusing on the retina&#39;s interneurons, amacrine cells and bipolar cells. We found that inhibitory amacrine cells rebalance color preferences, leading to diverse color selectivity throughout retinal space. Since amacrine cells vary widely across species, these cells are poised to tune the chromatic information sent to the brain to each species&#39; environmental niche.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +173,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NEI, FFB, Genentech, GVRI, Tenpoint</p>
+				<p>Funding: Funding: German Research Foundation (DFG; BE5601/2-1; SPP 2041; BE5601/4-1,2; EU42/9-1,2), the German Ministry of Education and Research (Bernstein Award 01GQ1601 to PB; BCCN 01GQ1002 to KF), the Medical Faculty/U Tübingen (fortüne to AV), and the Max Planck Society (M.FE.A.KYBE0004 to KF).</p>
 			</fn>
 		</fn-group>
 

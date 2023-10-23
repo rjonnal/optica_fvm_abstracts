@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.43</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.43</article-id>
 			<article-id pub-id-type="manuscript">Talks_43</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -21,17 +21,82 @@
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Quantifying, modeling, and extending the scope of the principle of inverse effectiveness to vision</article-title>
+				<article-title>Poster Session I: Does stimulus image quality affect fixational eye movement characteristics?</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Billock</surname>
-						<given-names>Vincent A.</given-names>
+						<surname>Young</surname>
+						<given-names>Laura K.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hexley</surname>
+						<given-names>Allie C.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Read</surname>
+						<given-names>Jenny C. A.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Smithson</surname>
+						<given-names>Hannah E.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tuten</surname>
+						<given-names>William S.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Roorda</surname>
+						<given-names>Austin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
 
 
 				</contrib>
@@ -42,19 +107,31 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Leidos, Inc. at the Naval Aerospace Medical Research Laboratory, NAMRU-D, WPAFB, OH</institution>
+					<institution>Newcastle University</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>University of Oxford</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>University of California, Berkeley</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>43</fpage>
 						<lpage>43</lpage>
 			<permissions>
@@ -63,7 +140,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>When visual responses are amplified/enhanced by the presence of a second (different) sensory stimulus, weak visual responses are amplified/enhanced more than strong ones.  In multisensory integration this is the crucial Principle of Inverse Effectiveness, but here we show that inverse effectiveness also applies to some key Visual-Visual interactions.  Despite being considered one of the three most important principles in sensory integration, Inverse Effectiveness has not been properly quantified for most interactions.  For example, despite the apparent specificity of its name, there is no published evidence that enhancement drops off in a nice 1/Effectiveness progression, nor are there studies that look for an invariant form or imply a particular mechanism.  Here we address these obvious gaps by comparing data from audio-visual, audio-tactile, binocular and color vision interactions, both for psychophysical data and for neural firing rates.  The results can be predicted from a gated power law amplification (Billock &amp Havig, 2018) found for both psychophysical and neural enhancement data.  The Principle of Inverse Effectiveness (PIE) follows directly from the compressive exponent in the power law, and can be derived from a simulation of excitatory-synaptic-coupled Hodgkin-Huxley spiking neurons.  The similarity of inverse effectiveness in multisensory and visual-visual interactions means that multisensory researchers can have their PIE and vision researchers can eat it too.   </p>
+				<p>Drift has been found to be inversely related to visual acuity (higher diffusion constants for observers with lower visual acuity; Clark et. al, 2022). However, it is not clear if this reflects long-term tuning to ocular characteristics, or a more dynamic adjustment to image quality. To test this, fixational eye movements were measured using an AOSLO and stimuli were presented through the imaging system at 30 Hz. Image quality was altered by simulating aberrations. Five participants completed a tumbling E task under three conditions: no aberration, the participant’s natural aberration, and 0.25 D defocus. A 1.2 arcmin gap width E was presented as a 543 nm increment on the 840 nm imaging light for 750 ms. Conditions were randomly interleaved, and feedback was given on each trial. As expected, performance was highest with no aberration, followed by the observer’s natural aberration and was worst for defocus. However, drift characteristics (bivariate contour ellipse area, BCEA, and diffusion constant) did not vary, suggesting that on a trial-to-trial basis drift was not tuned to stimulus quality. To test whether drift might be tuned over time, two participants repeated the experiment in ordered blocks of trials. There were differences in BCEA between ordered and randomised trials, but these were not consistent between participants. We will present an analysis of the differences found between individuals in terms of the optical aberrations present in their eye.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +148,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: Funded by a supplement to an Office of Naval Research Multi-University Research Award, #N00014-20-1-2163</p>
+				<p>Funding: Funding: This work was supported by a UKRI Future Leaders Fellowship (MR/T042192/1), a Reece Foundation Fellowship in Translational Systems Neuroscience (Newcastle University), an Engineering and Physical Sciences Council grant (EP/W004534/1) and a National Institutes of Health grant (R01EY023591).</p>
 			</fn>
 		</fn-group>
 

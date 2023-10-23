@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.24</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.24</article-id>
 			<article-id pub-id-type="manuscript">Talks_24</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session II</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session II: Binocular combination of the pupil response depends on photoreceptor pathway</article-title>
+				<article-title>Poster Session I: Tests of a contrast gain control model of parabolic brightness matching functions</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Segala</surname>
-						<given-names>Federico G.</given-names>
+						<surname>Kavcar</surname>
+						<given-names>Osman B.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,21 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Martin</surname>
-						<given-names>Joel T.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Bruno</surname>
-						<given-names>Aurelio</given-names>
+						<surname>Rudd</surname>
+						<given-names>Michael E.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -66,8 +53,21 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Wade</surname>
-						<given-names>Alex R.</given-names>
+						<surname>Arthur</surname>
+						<given-names>Christabel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Richardson</surname>
+						<given-names>Alex J.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
@@ -79,8 +79,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Baker</surname>
-						<given-names>Daniel H.</given-names>
+						<surname>Crognale</surname>
+						<given-names>Michael A.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
@@ -94,31 +94,31 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Psychology, University of York, York, United Kingdom</institution>
+					<institution>Integrative Neuroscience Program, University of Nevada, Reno</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>School of Psychology and Vision Sciences, University of Leicester, Leicester, United Kingdom</institution>
+					<institution>Center for Integrative Neuroscience, University of Nevada, Reno</institution>
 				</aff>
 
 
 				<aff id="aff3">
 					<label><sup>3</sup></label>
-					<institution>1. Department of Psychology, University of York, York, United Kingdom   2. York Biomedical Research Institute, University of York, York, United Kingdom</institution>
+					<institution>Department of Psychology, University of Nevada, Reno</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>24</fpage>
 						<lpage>24</lpage>
 			<permissions>
@@ -127,7 +127,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>The pupillary light response is driven by three classes of retinal photoreceptor. Cones and rods are involved in the initial constriction of the pupil, whereas melanopsin-containing intrinsically photosensitive Retinal Ganglion Cells (ipRGCs) maintain constriction over longer timescales. Previous work has characterized the contributions of photoreceptor signals to pupil control, but relatively little is known about binocular combination of these signals when simultaneously stimulating the retina in both eyes. We measured changes in pupil size in 48 participants using a binocular eye-tracker, targeting specific photoreceptor classes with a binocular 10-primary light engine and the silent substitution method. We stimulated the periphery of the retina using light flickering at 0.4 and 0.5 Hz. Participants viewed a disc of either achromatic flickering light, or contrast modulations that targeted the ipRGCs, or the opponent colour pathways L-M or S-(L+M). Using a modified virtual reality headset, we presented the stimuli at a range of modulation amplitudes in three different ocular configurations: monocular, binocular, and dichoptic. We obtained clear pupil responses at both the first and the second harmonic frequencies. Suppression levels differed across conditions with the strongest suppression measured for the L-M condition. We account for the results in a single modelling framework where the weight of interocular suppression determines the binocular combination properties.</p>
+				<p>The brightness induction produced by a surround annulus on a target disk can be measured by adjusting the luminance of a second disk to match the target in brightness. This produces parabolic brightness matching functions (BMFs) when average perceptual matches are plotted against annulus luminance on a log-log scale. A model developed by Rudd et al. (JOSA A, 2023), in which a contrast gain control operates between the outer and inner edges of the annulus, predicts that a linear relationship should hold between the first-order (k1) and second-order coefficients (k2) of the parabolic BMFs. We previously verified this prediction and discovered that the slope of this linear relationship depends on the contrast polarity of the target with respect to its annulus, but is unaffected by the annulus size or the background luminance. Here, we further tested the model by varying the target disk luminance in two conditions where the target disk was either a decrement or an increment with respect to its annulus and the background was white (highest display luminance). The model predicts that the slope of the k1 vs k2 plots will itself decrease as a linear function of the log luminance of the target disk, and the rate of decrease will equal -1. Our results confirmed the first prediction, but the slope was -2 instead of -1. This pattern held both in the decremental and incremental target conditions.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -135,7 +135,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: Biotechnology and Biological Sciences Research Council grant BB/V007580/1 awarded to DHB and ARW</p>
+				<p>Funding: Funding: None</p>
 			</fn>
 		</fn-group>
 

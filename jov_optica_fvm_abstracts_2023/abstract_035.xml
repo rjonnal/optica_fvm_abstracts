@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.35</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.35</article-id>
 			<article-id pub-id-type="manuscript">Talks_35</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session III</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session III: The naming and understanding of color: the Color Communication Game</article-title>
+				<article-title>Poster Session I: Leveraging AI to accelerate scientific discoveries</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Brown</surname>
-						<given-names>Angela M.</given-names>
+						<surname>Oruc</surname>
+						<given-names>Ipek</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,47 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Lindsey</surname>
-						<given-names>Delwin T.</given-names>
+						<surname>Delavari</surname>
+						<given-names>Parsa</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ozturan</surname>
+						<given-names>Gulcenur</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yuan</surname>
+						<given-names>Lei</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yilmaz</surname>
+						<given-names>Ozgur</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -55,19 +94,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Ohio State University</institution>
+					<institution>University of British Columbia</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>35</fpage>
 						<lpage>35</lpage>
 			<permissions>
@@ -76,7 +115,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>When a person views a color sample, they can usually provide a color term for it. But will that color term allow someone else to understand which sample was named? We examined color understanding using a Color Communication Game, in which one person (the “sender”) names 30 color samples as in any color-naming study, then another person (the “receiver”) chooses the sample they think the sender intended to communicate. The receiver cannot always guess the right sample, and no choice strategy will do better than randomly choosing among the samples the receiver called by that term. When 70 English-speaking dyads and 63 Somali-speaking dyads played the game, receivers did not perform randomly. Instead, they systematically chose “focal” samples near the centers of their color term distributions. When the senders’ named samples were compared directly to the receivers’ chosen samples, the systematic distribution of receiver choices revealed color categories, which appeared without any statistical analysis of the players’ terms. Simulation of receiver choices based on senders’ color names showed that both Somali-speaking and English-speaking participants knew more color terms than the ones they used in color-naming. Our Color Communication Game showed that color-naming experiments underestimate color understanding: people understand colors categorically, but they express colors using multiple synonymous color terms that are well-understood by others. </p>
+				<p>We introduce a structured approach that leverages AI to accelerate scientific discoveries. We showcase the efficacy of this technique via a proof-of-concept study identifying markers of sex in retinal images. Our methodology consists of four stages: In Phase 1, CNN development, we train a VGG model to recognize patient sex from retinal images. Phase 2, Inspiration, involves reviewing post-hoc interpretation tools&#39; visualizations to draw observations and formulate exploratory hypotheses regarding the CNN model&#39;s decision process. This yielded 14 testable hypotheses related to potential variances in vasculature and optic disc. In Phase 3, Exploration, we test these hypotheses on an independent dataset, of which nine demonstrated significant differences. In Phase 4, Verification, five out of nine these nine hypotheses are re-tested on a new dataset, verifying five of them: significantly greater length, more nodes and branches of retinal vasculature, a larger area covered by vessels in the superior temporal quadrant, and a darker peri-papillary region in male eyes. Finally, we conducted a psychophysical study and trained a group of ophthalmologists (N=26) to identify these new retinal features for sex classification. Their performance, initially on par with chance and a non-expert group (N=31), significantly improved post-training (p&lt;.001, d=2.63). These outcomes illustrate the potential of our methodology in leveraging AI applications for retinal biomarker discovery.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -84,7 +123,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NSF BCS-1152841 </p>
+				<p>Funding: Funding: NSERC Discovery, NSERC Accelerator.</p>
 			</fn>
 		</fn-group>
 

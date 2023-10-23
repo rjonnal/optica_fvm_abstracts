@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.66</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.66</article-id>
 			<article-id pub-id-type="manuscript">Talks_66</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -21,14 +21,14 @@
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Attentional modulation of the achromatic and chromatic reversal VEP</article-title>
+				<article-title>Poster Session II: Intravitreal gene therapy in primate reaches extrafoveal cones</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Arthur</surname>
-						<given-names>Christabel</given-names>
+						<surname>Bembry - Colegrove</surname>
+						<given-names>Briyana</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,21 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Kavcar</surname>
-						<given-names>Osman B. </given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Wise</surname>
-						<given-names>Mackenzie V.  </given-names>
+						<surname>Giarmarco</surname>
+						<given-names>Michelle</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -66,11 +53,76 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Crognale</surname>
-						<given-names>Michael A. </given-names>
+						<surname>Barborek</surname>
+						<given-names>Rachel</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rowlan</surname>
+						<given-names>Jessica</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kuchenbecker</surname>
+						<given-names>James</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rezeanu</surname>
+						<given-names>Dragos</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Neitz</surname>
+						<given-names>Jay</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Neitz</surname>
+						<given-names>Maureen</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -81,31 +133,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Integrative Neuroscience Program, University of Nevada, Reno</institution>
+					<institution>Department of Ophthalmology, University of Washington</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Cognitive and Brain Sciences Program, University of Nevada, Reno</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>Department of Psychology, University of Nevada, Reno</institution>
+					<institution>University of Washington Department of Ophthalmology</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>66</fpage>
 						<lpage>66</lpage>
 			<permissions>
@@ -114,7 +160,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Previous literature has consistently revealed attentional modulation of the Visual Evoked Potential (VEP) response to achromatic pattern reversal stimuli but little to no attentional modulation of the VEP response to chromatic pattern onsets. Magnetic Resonance Imaging (MRI) research, however, has reported modulation of the responses to both achromatic and chromatic pattern reversal stimuli. Numerous methodological differences including mode of presentation, stimulus contrast, and attentional demand, make comparison of these results difficult. In this study, we report the results of experiments using comparable perceptual contrasts, pattern reversals, and a coextensive and highly-demanding, multiple object tracking (MOT) task. Our findings support prior VEP results indicating that although achromatic VEPs are modulated by attention, chromatic VEPs are more robust to attentional modulation, even for highly demanding distractor tasks. We also found that when compared to a non-attentional condition, the attenuation of the VEP when attending to the MOT task was greater in magnitude than the enhancement of the VEP when attending to the VEP stimulus. This supports prior conclusions, that while avoiding active distraction is likely important, insuring an “attentive state” is not always necessary when recording VEPs. Further experiments are underway to investigate why attentional modulation of chromatic signals in early visual cortex are observed in MRI but not VEP recordings. </p>
+				<p>Intravitreal delivery of gene therapy vectors to the retina carries lower risk of adverse events versus subretinal injections, but efficiently targeting cones is a challenge. We used a new adeno-associated vector (AAV) to deliver genes to primate cone photoreceptors. The vector carries a cassette directing expression of an engineered 493 nm opsin to long- and middle-wavelength (L/M) cones, and was injected into the vitreous of the left eye of an adult macaque. An identical AAV carrying a fusion of the engineered opsin to green fluorescent protein (GFP) was injected into the right eye. Electroretinograms were performed on the left eye before and after injection to measure isolated 493 nm light responses; 5 weeks post-injection, response increased modestly. A central strip of the right eye was prepared for histology with cryosections; we found ~30% of cones in the fovea had been transduced, with a preference toward L/M cones (see https://iovs.arvojournals.org/article.aspx?articleid=2782955). Upon close examination of GFP in the peripheral retina, we were surprised to find extensive expression in cones across the retina. Here, we report patches of expression from the perifovea to the retinal margin which reaches ~10% of cones. Expression patches appeared stochastically, or in regions containing blood vessels or disrupted Muller cells. This demonstrates that extrafoveal expression is attainable using intravitreal injection of gene therapy vectors in an adult primate.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -122,7 +168,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: UW Vision Core grant NIH NEI P30-EY001730, Research to Prevent Blindness</p>
 			</fn>
 		</fn-group>
 

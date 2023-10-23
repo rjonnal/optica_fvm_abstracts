@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.45</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.45</article-id>
 			<article-id pub-id-type="manuscript">Talks_45</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -21,14 +21,14 @@
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Binocular facilitation of the BOLD response to melanopsin stimulation in the suprachiasmatic nucleus</article-title>
+				<article-title>Poster Session I: Divided attention in Sign Language Recognition</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Martin</surname>
-						<given-names>Joel T.</given-names>
+						<surname>Young</surname>
+						<given-names>Dave</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Welbourne</surname>
-						<given-names>Lauren</given-names>
+						<surname>Awad</surname>
+						<given-names>Jasmine F.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -53,11 +53,14 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Segala</surname>
-						<given-names>Federico G.</given-names>
+						<surname>Fine</surname>
+						<given-names>Ione</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -66,73 +69,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Baker</surname>
-						<given-names>Ellie</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Bhullar</surname>
-						<given-names>Monique</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Huxley</surname>
-						<given-names>Rowan</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Wardle</surname>
-						<given-names>Allice</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Baker</surname>
-						<given-names>Daniel H.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Wade</surname>
-						<given-names>Alex R.</given-names>
+						<surname>Popovkina</surname>
+						<given-names>Dina V.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -146,19 +84,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Psychology, University of York, York, United Kingdom</institution>
+					<institution>Department of Psychology, University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Center for Human Neuroscience, University of Washington</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>45</fpage>
 						<lpage>45</lpage>
 			<permissions>
@@ -167,7 +111,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>In a recent analysis of archival data, Spitschan and Cajochen (2019) identify what appears to be substantial binocular facilitation of melatonin suppression due to melanopic light stimulation. This putative effect likely originates in the melanopsin-containing intrinsically photosensitive retinal ganglion cells (ipRGCs) which project directly to the suprachiasmatic nucleus (SCN) of the hypothalamus. We asked whether we could measure a direct physiological correlate of this binocular facilitation using a binocular, MRI-compatible, 10-primary spectral stimulation device. We present preliminary findings from a functional magnetic resonance imaging (fMRI) study designed to explore the blood oxygen level dependent (BOLD) response to monocular and binocular melanopic light stimulation. The study used a 30 s on/off design with three ‘ocularity’ conditions (binocular-low, monocular-high, binocular-high) and two classes of targeted photoreceptors (melanopsin and LMS cones). Throughout each scan, subjects (N=18) also responded to brief, cone-directed sinusoidal modulations of varying intensity. We report that binocular vs. monocular melanopsin stimulation induced significant BOLD activation in SCN but that this effect was not seen for cone-directed stimulation. This is consistent with the binocular facilitation effect described by Spitschan and Cajochen (2019) and provides the first direct evidence of melanopsin-driven activation and binocular facilitation in human subcortical nuclei. </p>
+				<p>Previous work suggests that the brain has a limited ability to process multiple visual stimuli during divided attention: for example, people can recognize only one word at a time (White, Palmer, &amp Boynton, Psych Science 2018). Here, we examine whether American Sign Language (ASL) experience affects divided attention for stimuli: do signers &amp non-signers differ in their ability to process two signs at once? In a probe recognition paradigm, participants were presented with two letter signs, one or both of which were pre-cued as relevant (single- and dual-task conditions, respectively), and then responded whether a probe sign matched the cued sign(s). The dual-task deficit is the difference in performance between the single- and dual-task conditions and measures the cost of dividing attention. Preliminary data show that hearing non-signers and signers had a similar dual-task deficit (11.8% ± 2.2%, n = 5 vs. 11.4% ± 1.5%, n = 6), with no significant difference between the groups (t(7.27) = 0.18, p = 0.86). The magnitude of these divided attention effects is consistent with processing limits observed for object judgments (e.g. Popovkina, Palmer, Moore, &amp Boynton, JoV 2021). Thus, these preliminary results suggest that the attentional demands of ASL sign processing are similar in signers and non-signers.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -175,7 +119,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: BBSRC (BB/V007580/1)</p>
+				<p>Funding: Funding: Mary Gates Endowment, Arc of Washington Trust Fund, University of Washington, Special Diversity Fellowship, Bolles Dissertation Funds</p>
 			</fn>
 		</fn-group>
 

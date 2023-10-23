@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.50</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.50</article-id>
 			<article-id pub-id-type="manuscript">Talks_50</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Perspective-correct rendering for active observers</article-title>
+				<article-title>Poster Session II: SSVEP measurements of color and spatial frequency response in V1</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Guan</surname>
-						<given-names>Phillip</given-names>
+						<surname>Carter</surname>
+						<given-names>Alex</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Penner</surname>
-						<given-names>Eric</given-names>
+						<surname>Baker</surname>
+						<given-names>Daniel H.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -53,8 +53,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Hegland</surname>
-						<given-names>Joel</given-names>
+						<surname>Morland</surname>
+						<given-names>Antony B.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -66,11 +66,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Letham</surname>
-						<given-names>Benjamin</given-names>
+						<surname>Lawton</surname>
+						<given-names>Abbie J.</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -79,8 +79,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Lanman</surname>
-						<given-names>Douglas</given-names>
+						<surname>Wade</surname>
+						<given-names>Alex R.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -94,25 +94,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Meta Reality Labs Research</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Meta</institution>
+					<institution>University of York</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>50</fpage>
 						<lpage>50</lpage>
 			<permissions>
@@ -121,7 +115,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Stereoscopic, head-tracked display systems can show users realistic, world-locked virtual objects and environments (i.e., rendering perspective-correct binocular images with accurate motion parallax). However, discrepancies between the rendering pipeline and physical viewing conditions can lead to perceived instability in the rendered content resulting in reduced immersion and, potentially, visually-induced motion sickness. Precise requirements to achieve perceptually stable world-locked rendering (WLR) are unknown due to the challenge of constructing a wide field of view, distortion-free display with highly accurate head and eyetracking. We present a custom-built system capable of rendering virtual objects over real-world references without perceivable drift under such constraints. This platform is used to study acceptable errors in render camera position for WLR in augmented and virtual reality scenarios, where we find an order of magnitude difference in perceptual sensitivity. We conclude with an analytic model which examines changes to apparent depth and visual direction in response to camera displacement errors, and visual direction is highlighted as a potentially important consideration for WLR alongside depth errors from incorrect disparity.</p>
+				<p>Intro: Recent work from our group (Segala et al, eLife, 2023) shows that the rules for binocular luminance signal combination depend on spatial frequency (SF). Structured patterns show strong interocular suppression while unstructured inputs (mean field disks) do not. Here, we used SSVEPs to ask if SF dependence is also found in chromatic pathways. Methods: SSVEPs were recorded from 12 subjects using a canonical V1 template (Poncet &amp Ales, 2023). Eyes were targeted using shutter goggles and stimuli were contrast-reversing gratings or disks at 5Hz (left eye) and 7Hz (right eye). Experimental factors were stimulus SF (disk, grating 1cpd), chromaticity (LMS, L-M or S-cone isolating) and ocularity (left, right or both). Results: Monocular conditions generated large responses at 2F. In binocular conditions, all 2F responses showed suppression, and significant intermodulation (IM) terms (sums and differences of the inputs - e.g., 2Hz) were present. The magnitude of both suppression and IM in the binocular condition depended on SF and chromaticity; IM amplitudes were higher for gratings compared to disks in the luminance condition, but higher for disks compared to gratings in the chromatic conditions. Overall we found significant differences in the spectral response signatures across all stimulus combinations. Conclusion: All inputs undergo binocular combination in V1 but the rules governing the combination appear to depend on both chromaticity and SF.</p>
 			</abstract>
 		</article-meta>
 	</front>

@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.38</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.38</article-id>
 			<article-id pub-id-type="manuscript">Talks_38</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session III</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session III: The not-so-parallel magno and parvocellular pathways in the primate retina</article-title>
+				<article-title>Poster Session I: Dissociation of torsional eye movements and perception during optokinetic stimulation by visual cues of gravity</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Mazzaferri</surname>
-						<given-names>Marcus</given-names>
+						<surname>Rodriguez</surname>
+						<given-names>Raul</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,125 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Bordt</surname>
-						<given-names>Andrea</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Yang</surname>
-						<given-names>Emma</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Kuchenbecker</surname>
-						<given-names>James</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Lin-Goldstein</surname>
-						<given-names>Arie</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Rieke-Wey</surname>
-						<given-names>Isabelle</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Rieke-Wey</surname>
-						<given-names>Ayden</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Soetedjo</surname>
-						<given-names>Christopher</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Arriola</surname>
-						<given-names>Rafael</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Neitz</surname>
-						<given-names>Maureen</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Neitz</surname>
-						<given-names>Jay</given-names>
+						<surname>Otero-Millan</surname>
+						<given-names>Jorge</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -172,25 +55,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Ophthalmology, University of Washington</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Department of Biosciences, Rice University</institution>
+					<institution>University of California, Herbert Wertheim School of Optometry and Vision Science</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>38</fpage>
 						<lpage>38</lpage>
 			<permissions>
@@ -199,7 +76,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Magnocellular and parvocellular pathways have been described as parallel, originating at the first synapse in the retina. The midget pathway has been depicted as a “private” transmission line from individual cones to the brain, where the retinal image is processed. Indeed, in the primate retina, there are two midget bipolar cells devoted to each cone (Masri et al. 2020 J Neurosci 40:8132), providing two full-resolution representations of the visual image at the bipolar cell terminals. As the major carrier of signals from cones to the inner plexiform layer (IPL), the midget bipolars are positioned to transmit and receive signals from numerous neuron types. Serial block-face scanning electron microscopy (EM) was used to reconstruct ON midget bipolar cells. Outgoing ribbon synapses and incoming conventional synapses were identified using classical EM criteria. Strikingly, each bipolar cell terminal was associated with over 100 postsynaptic interactions. Contrary to the 1:1:1 pathway from cone to midget ganglion cell, each midget bipolar cell made &gt;50 excitatory synapses onto cells other than the one midget ganglion cell it contacted, distributing signals to a dozen or more neurons. This included parasol cells, making midget bipolar signals divergent rather than parallel. Contrary to primarily functioning to transmit signals straight through to the brain, the IPL circuity is well-positioned to do much of the visual image processing before the signals arrive at the cortex.</p>
+				<p>An optokinetic stimulus rotating about the naso-occipital axis drives torsional eye movements and causes a bias in perception of upright measured with a subjective visual vertical (SVV) task. In addition, a static image with tilted visual cues of gravity orientation will induce optostatic torsion and biases SVV. We posit that a visual gravity cue provided by a frame combined with a torsional optokinetic stimulus would increase measured torsion and further bias SVV. We use a VR headset with eye-tracking to place the subject in a virtual room with circles forming either a rectangular room (frame condition) or a tubular room (no-frame condition). We place a fixation point at the center of the room while the subject performs a SVV task. The room either rotates about the naso-occipital axis at 0.05 Hz, 0.1 Hz, or 0.2 Hz, with an amplitude of ±20°, or has a static tilt of 0° or ±30°. Static frame conditions had the expected bias of SVV and optostatic torsion compared to the control no-frame condition. In sinusoidal rotation conditions, for SVV, there was a significant difference in the amplitude of the response between the frame (5.4 ± 2.6°; mean ± std) and no-frame (3.0 ± 1.3°) condition, while there was no significant difference for torsion, frame (0.8 ± 0.6°) and no-frame (0.7 ± 0.6°). Our results indicate that while perception integrates a moving visual cue into its estimation of upright orientation, the ocular motor system is only affected by those cues when they are static.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -207,7 +84,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NIH Grants, Research to Prevent Blindness, Bishop Foundation</p>
+				<p>Funding: Funding: None</p>
 			</fn>
 		</fn-group>
 

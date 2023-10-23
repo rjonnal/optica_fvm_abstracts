@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.42</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.42</article-id>
 			<article-id pub-id-type="manuscript">Talks_42</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -21,14 +21,14 @@
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Tests of a contrast gain control model of parabolic brightness matching functions</article-title>
+				<article-title>Poster Session I: Vernier thresholds of a Poisson-noise-limited computational observer with and without fixational eye movements</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Kavcar</surname>
-						<given-names>Osman B.</given-names>
+						<surname>Wang</surname>
+						<given-names>Mengxin</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,21 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Rudd</surname>
-						<given-names>Michael E.</given-names>
+						<surname>Hexley</surname>
+						<given-names>Allie C.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Houston</surname>
+						<given-names>Alexander J. H.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -53,8 +66,34 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Arthur</surname>
-						<given-names>Christabel</given-names>
+						<surname>Cui</surname>
+						<given-names>Jiahe</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Read</surname>
+						<given-names>Daniel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Smithson</surname>
+						<given-names>Hannah E.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -66,24 +105,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Richardson</surname>
-						<given-names>Alex J.</given-names>
+						<surname>Brainard</surname>
+						<given-names>David H.</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Crognale</surname>
-						<given-names>Michael A.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
 
 
 				</contrib>
@@ -94,31 +120,37 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Integrative Neuroscience Program, University of Nevada, Reno</institution>
+					<institution>Department of Experimental Psychology, University of Oxford</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Center for Integrative Neuroscience, University of Nevada, Reno</institution>
+					<institution>School of Mathematics, University of Leeds</institution>
 				</aff>
 
 
 				<aff id="aff3">
 					<label><sup>3</sup></label>
-					<institution>Department of Psychology, University of Nevada, Reno</institution>
+					<institution>Department of Engineering Science, University of Oxford</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Department of Psychology, University of Pennsylvania</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>42</fpage>
 						<lpage>42</lpage>
 			<permissions>
@@ -127,7 +159,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>The brightness induction produced by a surround annulus on a target disk can be measured by adjusting the luminance of a second disk to match the target in brightness. This produces parabolic brightness matching functions (BMFs) when average perceptual matches are plotted against annulus luminance on a log-log scale. A model developed by Rudd et al. (JOSA A, 2023), in which a contrast gain control operates between the outer and inner edges of the annulus, predicts that a linear relationship should hold between the first-order (k1) and second-order coefficients (k2) of the parabolic BMFs. We previously verified this prediction and discovered that the slope of this linear relationship depends on the contrast polarity of the target with respect to its annulus, but is unaffected by the annulus size or the background luminance. Here, we further tested the model by varying the target disk luminance in two conditions where the target disk was either a decrement or an increment with respect to its annulus and the background was white (highest display luminance). The model predicts that the slope of the k1 vs k2 plots will itself decrease as a linear function of the log luminance of the target disk, and the rate of decrease will equal -1. Our results confirmed the first prediction, but the slope was -0.43 instead of -1. This pattern held both in the decremental and incremental target conditions.</p>
+				<p>Vernier acuity is a fundamental measure of spatial vision. We modeled how stimulus encoding by the cones limits Vernier acuity. We determined Vernier thresholds for a computational observer that had access to the Poisson-distributed cone photopigment excitations. The observer also had access to the cone mosaic layout and the stimulus possibilities on each trial. We varied stimulus contrast (100%, 50%, 22%, 11% Michelson contrast) and duration (2, 4, 9, 18 stimulus frames; frame duration 8.33 ms) while fixing other stimulus properties (foveal viewing; two achromatic vertical bars; length 6.2 arcmin; width 1 arcmin; vertical gap 0.1 arcmin). When the retinal image is stationary, Vernier thresholds depend jointly on contrast and duration through contrast energy: squared contrast times duration. Introducing fixational drift eye movements impairs performance, when the information about eye path is not accounted for by the computational observer. When the path of fixational drift is made available and used ideally, there is no noticeable difference with the stationary case. The lack of improvement when the path of fixational drift is known exactly may reflect the high-density of foveal cones relative to the optical point spread function and the fact that we did not introduce temporal filtering by the visual system. Our results suggest the possibility of a rich interaction between optics, cone sampling, fixational eye movements, post-receptoral filtering and visual performance.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -135,7 +167,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: This work was supported by the Engineering and Physical Sciences Research Council [grant number EP/W023873/1].</p>
 			</fn>
 		</fn-group>
 

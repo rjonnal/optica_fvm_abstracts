@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.74</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.74</article-id>
 			<article-id pub-id-type="manuscript">Talks_74</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Luminance and chromaticity discrimination sensitivities following a sudden decrease in background luminance</article-title>
+				<article-title>Contributed Session II: High-resolution assessment of saccadic landing positions for S-cone-isolating targets</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Son</surname>
-						<given-names>Minwoo</given-names>
+						<surname>Wang</surname>
+						<given-names>Yiyi (Charlotte)</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,34 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Nagai</surname>
-						<given-names>Takehiro</given-names>
+						<surname>Wang</surname>
+						<given-names>Congli</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ng</surname>
+						<given-names>Ren</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tuten</surname>
+						<given-names>William S.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -55,19 +81,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Tokyo Institute of Technology</institution>
+					<institution>Herbert Wertheim School of Optometry and Vision Science, University of California, Berkeley</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Electrical Engineering and Computer Sciences, University of California, Berkeley</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>74</fpage>
 						<lpage>74</lpage>
 			<permissions>
@@ -76,7 +108,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>When we enter a dark place like a tunnel from a bright exterior, our visual sensitivities take some time to adapt to the lower light level. However, there have been few reports about how quickly our sensitivities of luminance and chromaticity discrimination recover in this situation. This study aimed to quantify the time course of discrimination sensitivity for luminance and chromaticity directions after an abrupt decrease in background luminance. In each trial, the background luminance dropped from 100 cd/m² to 1 cd/m². Then, one target and three reference stimuli with different colors were presented under four stimulus onset asynchrony (SOA) conditions. The observer was asked to discriminate the target stimulus from the reference stimuli. The results showed that discrimination sensitivity was lowest right after the background luminance change and gradually improved with SOAs. However, sensitivity recovery differed across color directions, with the most improvement in luminance, followed by S, and negligible change in L-M. There was a statistically significant difference between +S and ±(L-M) sensitivities, indicating that the sensitivity recovery after the sudden background luminance change differed between chromaticity directions. Based on the comparison with previous studies, we speculate that both adaptation and masking may contribute to the temporal change of discrimination sensitivities.</p>
+				<p>The role of S-cone signals in guiding visuomotor behavior is not fully understood. Previously, we used high-resolution retinal tracking during a visual search-and-identification task to show that the preferred retinal locus (PRL) of fixation for S-cone-isolated targets was larger than and offset from the PRL measured with L/M-isolating optotypes (Wang et al, ARVO 2023). Here, we present an analysis of saccadic landing behavior under these conditions. We used an adaptive optics ophthalmoscope to record retinal videos while subjects (N = 6) made small saccades to a tumbling-E stimulus that appeared at random loci within a 3x3 square grid with 0.5° spacing. Subjects reported stimulus orientation via keypress, after which the target moved to a new location. Retinal videos recorded during each experiment were used to extract eye position traces and localize stimuli in retinal coordinates. Saccade PRLs were computed from the post-saccadic retinal landing positions using the ISOA method. The mean (± SEM) saccade PRL areas were 122 ± 8.1 arcmin2 and 525 ± 133 arcmin2 for the L/M- and S-cone conditions, respectively (p&lt;0.01; Wilcoxon rank-sum test). For both conditions, the post-saccadic ISOA size reduced over the course of ~300 ms. The average displacement between the L/M- and S-cone saccade PRL was 7.72 ± 1.24 arcmin, similar to that reported previously for fixation, suggesting the retinal locus directed to a target of interest depends on the visual pathway mediating its detection.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -84,7 +116,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: This work was supported by Lotte Foundation Scholarship</p>
+				<p>Funding: Funding: This work was supported by NEI Bioengineering Research Partnership R01EY023591, NEI 5T35EY007139, American Academy of Optometry Foundation Ezell Fellowship, Hellman Fellowships, Alcon Research Institute Young Investigator Award, and the Air Force Office of Scientific Research under award numbers FA9550-20-1-0195 and FA9550-21-1-0230.</p>
 			</fn>
 		</fn-group>
 

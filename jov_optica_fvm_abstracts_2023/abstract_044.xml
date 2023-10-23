@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.44</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.44</article-id>
 			<article-id pub-id-type="manuscript">Talks_44</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -21,14 +21,14 @@
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Gain, not changes in spatial receptive field properties, improves task performance in a neural network attention model</article-title>
+				<article-title>Poster Session I: Comparison of tripolar and traditional electrodes: Waveform morphology</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Birman</surname>
-						<given-names>Daniel</given-names>
+						<surname>Wise</surname>
+						<given-names>Mackenzie V.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,11 +40,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Fox</surname>
-						<given-names>Kai J</given-names>
+						<surname>Caplovitz</surname>
+						<given-names>Gideon P.</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -53,11 +53,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Gardner</surname>
-						<given-names>Justin L</given-names>
+						<surname>Crognale</surname>
+						<given-names>Michael A. </given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -68,25 +68,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Biological Structure, University of Washington</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Department of Psychology, Stanford University</institution>
+					<institution>University of Nevada, Reno</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>44</fpage>
 						<lpage>44</lpage>
 			<permissions>
@@ -95,7 +89,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Attention allows us to focus sensory processing on behaviorally relevant aspects of the visual world. One potential mechanism of attention is a change in the gain of sensory responses. However, changing gain at early stages could have multiple downstream consequences for visual processing. Which, if any, of these effects can account for the benefits of attention for detection and discrimination? Using a model of primate visual cortex we document how a Gaussian-shaped gain modulation results in changes to spatial tuning properties. Forcing the model to use only these changes failed to produce any benefit in task performance. Instead, we found that gain alone was both necessary and sufficient to explain category detection and discrimination during attention. Our results show how gain can give rise to changes in receptive fields which are not necessary for enhancing task performance.</p>
+				<p>The waveforms of visual evoked potentials (VEPs) recorded by tripolar electrodes are different from those recorded by traditional electrode arrays. Traditional arrays record potentials using both an active and a reference electrode. The location of this reference will affect the waveform amplitude and shape. Conversely, tripolar electrodes measure the surface Laplacian across three concentric rings housed within a single electrode surface. These differences may influence the morphology of evoked responses. We compared these two modalities by recording pattern-reversal VEPs to two sizes of checkerboard. Visual inspection of the VEPs suggest that the signals recorded by the tripolar system have attenuated higher frequencies and increased latency of the major waveform components. Root-mean-square comparison of the two signal types confirm attenuation at the higher frequencies in the tripolar recording. Additionally, there is a cumulative delay present within both the large and small check conditions, such that each subsequent component recorded by the tripolar electrodes is shifted increasingly later in time compared to the same components recoded by the traditional electrodes. Such latency shifts may be indicative of a difference in the physiological sources that are measured by the two EEG systems.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -103,7 +97,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: Washington Research Foundation, NEI T32EY07031,  Research to Prevent Blindness,  Lions Clubs International Foundation,  Hellman Fellows Fund</p>
+				<p>Funding: Funding: None</p>
 			</fn>
 		</fn-group>
 

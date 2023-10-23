@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.19</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.19</article-id>
 			<article-id pub-id-type="manuscript">Talks_19</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session III: Diversity in chromatic processing across the animal kingdom</subject>
+					<subject>Invited Session V: Binocular vision and interactions</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session III: Diversity in chromatic processing across the animal kingdom: Comparative connectomics reveals noncanonical wiring for color vision in human foveal retina</article-title>
+				<article-title>Invited Session V: Binocular vision and interactions: Depth perception in virtual environments: The role of experience</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Kim</surname>
-						<given-names>Yeon Jin</given-names>
+						<surname>Wilcox</surname>
+						<given-names>Laurie</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -42,19 +42,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of Washington</institution>
+					<institution>Centre for Vision Research, York University</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>19</fpage>
 						<lpage>19</lpage>
 			<permissions>
@@ -63,7 +63,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>The Old World macaque monkey and New World common marmoset provide fundamental models for human visual processing, yet the human ancestral lineage diverged from these monkey lineages over 25 Mya. We therefore asked whether fine-scale synaptic wiring in the nervous system is preserved across these three primate families, despite long periods of independent evolution. We applied connectomic electron microscopy to the specialized foveal retina where circuits for highest acuity and color vision reside. Synaptic motifs arising from the cone photoreceptor type sensitive to short (S) wavelengths and associated with “blue–yellow” (S-ON and S-OFF) color-coding circuitry were reconstructed. We found that distinctive circuitry arises from S cones for each of the three species. The S cones contacted neighboring L and M (long- and middle-wavelength sensitive) cones in humans, but such contacts were rare or absent in macaques and marmosets. We discovered a major S-OFF pathway in the human retina and established its absence in marmosets. Further, the S-ON and S-OFF chromatic pathways make excitatory-type synaptic contacts with L and M cone types in humans, but not in macaques or marmosets. Our results predict that early-stage chromatic signals are distinct in the human retina and imply that solving the human connectome at the nanoscale level of synaptic wiring will be critical for fully understanding the neural basis of human color vision.</p>
+				<p>In this presentation I’ll review results of stereoacuity, disparity matching and depth magnitude estimation studies in which comparison of so-called naïve and experienced observers shows substantive differences in performance. I will describe our working theory that the critical difference between these groups is their tolerance to conflicts between stereopsis and other sources of depth information. Further, I will review some recent data that suggest there are some conflicts that even experienced 3D participants cannot disregard.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +71,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NIH grant EY-028282</p>
+				<p>Funding: Funding: Natural Science and Engineering Council of Canada</p>
 			</fn>
 		</fn-group>
 

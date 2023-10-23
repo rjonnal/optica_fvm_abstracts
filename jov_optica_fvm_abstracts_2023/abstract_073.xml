@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.73</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.73</article-id>
 			<article-id pub-id-type="manuscript">Talks_73</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Kandinsky was right: Few do “express bright yellow in the bass notes, or dark lake in the treble”</article-title>
+				<article-title>Contributed Session I: Specific and non-linear effects of glaucoma on optic radiation tissue properties </article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Manfred</surname>
-						<given-names>Joshua</given-names>
+						<surname>Kruper</surname>
+						<given-names>John</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,21 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Strimel</surname>
-						<given-names>Corbin</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Klabunde</surname>
-						<given-names>Cameron</given-names>
+						<surname>Richie-Halford</surname>
+						<given-names>Adam</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -66,8 +53,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Dittmann</surname>
-						<given-names>Neil</given-names>
+						<surname>Benson</surname>
+						<given-names>Noah</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -79,8 +66,86 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Gunther</surname>
-						<given-names>Karen</given-names>
+						<surname>Caffarra</surname>
+						<given-names>Sendy</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Owen</surname>
+						<given-names>Julia</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wu</surname>
+						<given-names>Yue</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lee</surname>
+						<given-names>Aaron</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lee</surname>
+						<given-names>Cecilia</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yeatman</surname>
+						<given-names>Jason</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rokem</surname>
+						<given-names>Ariel</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -94,25 +159,31 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Wabash College</institution>
+					<institution>University of Washington</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Wabash college</institution>
+					<institution>Stanford University</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>University of Modena</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>73</fpage>
 						<lpage>73</lpage>
 			<permissions>
@@ -121,7 +192,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Cross-modal correspondence is a sense of the inherent belongingness between two different senses; in our study these were pitch and color. Our goal was to investigate the confound in previous literature of individual differences in color brightness and pitch loudness. We tested twenty male participants. We determined equal brightness for each participant, across six colors: red, orange, yellow, green, blue, and purple; and equal loudness across seven pitches: 125, 250, 500, 2000, 4000, 8000, and 12,500 Hz. Then participants matched pitch with color in three different conditions: prototypical color hues, gray scale, and isobright colors. Our results indicated that in the prototypical condition, the participants chose yellow for high pitches, and blue and purple for the lowest pitches. In the gray scale condition, they chose white for high pitches and black for low pitches. These findings are consistent with previous research in the literature. However, we found that when controlling for individual differences in brightness, participants still chose yellow with higher pitches. Thus, there appears to be an inherent sense of belongingness between yellow and high pitches, even when controlling for the confounds of individual differences in brightness and loudness.</p>
+				<p>Changes in sensory input with aging and disease affect brain tissue properties. To establish the link between glaucoma, the most prevalent cause of irreversible blindness, and changes in major brain connections, we characterized white matter tissue properties in diffusion MRI measurements in a large sample of subjects with glaucoma (N=905; age 49-80) and healthy controls (N=5,292; age 45-80) from the UK Biobank. Confounds due to group differences were mitigated by matching a sub-sample of controls to glaucoma subjects. A convolutional neural network (CNN) accurately classified whether a subject has glaucoma using information from the primary visual connection to cortex (the optic radiations, OR), but not from non-visual brain connections. On the other hand, regularized linear regression could not classify glaucoma, and the CNN did not generalize to classification of age-group or of age-related macular degeneration. This suggests a unique non-linear signature of glaucoma in OR tissue properties.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -129,7 +200,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: This project was funded by NSF grant 1934292 (PI: Balazinska), NIH grant R01 AG 060942 (PI: Lee), NEI grant R01 EY033628 (PI: Benson), NIH grant RF1 MH121868 (PI: Rokem), NIH grant R01HD095861 (PI: Yeatman). SC was funded by the “Rita Levi Montalcini” program, granted by the Italian Ministry of University and Research (MUR). Unrestricted and career development award from RPB (Julia Owen, Yue Wu, Cecilia Lee, Aaron Lee), Latham Vision Science Awards (Julia Owen, Yue Wu, Cecilia Lee, Aaron Lee), NEI/NIH K23EY029246 (Aaron Lee) and NIA/NIH U19AG066567 (Julia Owen, Yue Wu, Cecilia Lee, Aaron Lee, Ariel Rokem).</p>
 			</fn>
 		</fn-group>
 

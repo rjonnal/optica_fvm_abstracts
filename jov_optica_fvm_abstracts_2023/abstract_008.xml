@@ -13,103 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.8</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.8</article-id>
 			<article-id pub-id-type="manuscript">Talks_8</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session I</subject>
+					<subject>Invited Session II: Retinal remodeling and regeneration</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session I: Correlating cone structure and function in retinitis pigmentosa using coarse-scale optoretinography (CoORG)</article-title>
+				<article-title>Invited Session II: Retinal remodeling and regeneration: Stimulation of functional neural regeneration in adult mouse retina</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Liu</surname>
-						<given-names>Teng</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Pandiyan</surname>
-						<given-names>Vimal Prabhu</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Wendel</surname>
-						<given-names>Benjamin</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Slezak</surname>
-						<given-names>Emily</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Mustafi</surname>
-						<given-names>Debarshi</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Chao</surname>
-						<given-names>Jennifer</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Sabesan</surname>
-						<given-names>Ramkumar</given-names>
+						<surname>Reh</surname>
+						<given-names>Thomas</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -123,25 +42,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Ophthalmology, University of Washington</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Seattle Children’s Hospital</institution>
+					<institution>University of Washington</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>8</fpage>
 						<lpage>8</lpage>
 			<permissions>
@@ -150,7 +63,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Optoretinography (ORG) has the potential to serve as a powerful diagnostic biomarker, owing to its sensitive and objective localization of function and dysfunction. Majority of ORG implementations employ adaptive optics (AO) for imaging activity at a cellular scale. Coarse-scale Optoretinography (CoORG), an ORG paradigm without AO, offers rapid, extended-field recordings and wider applicability in patients with retinal disease, by compromising cellular resolution. This study investigates the feasibility of CoORG in assessing cone dysfunction in patients diagnosed with retinitis pigmentosa (RP). Five RP patients aged 26 – 60 were recruited, alongside age-similar controls. The stimulus for evoking cone activity had a photon density between 15.5x10e6 - 19.7x10e6 photons/μm2, and was centered at 532 ± 5nm. Eight imaging trials per bleach were performed, allowing for 1 min. between successive trials for dark adaptation. The total experimental time for each bleach was 10-20 mins.  In RP, cone function, estimated as the change in optical path length in the outer segment in response to a stimulus, was diminished and generally lower than normal controls. This deficit was observed in areas of seemingly normal outer retinal structure. Contrary to normals, no correlation was observed between outer segment length and cone function in RP. This highlights CoORG&#39;s potential for early, sensitive detection of retinal dysfunction prior to apparent structural degradation.</p>
+				<p>Neurons are not regenerated in the adult mammalian retina. However, in non-mammalian vertebrates, specialized glial cells (Muller glia, MG) spontaneously generate neural progenitors, which go on to replace neurons after injury. We have recently developed strategies to stimulate regeneration of functional neurons in the adult mouse retina by over-expressing developmental transcription factors, including Ascl1, Atoh1, Islet1 and Pou4f2.  We have found that over-expressing Ascl1 in MG in vivo, followed by injury and TSA, induces regeneration of functional retinal neurons in adult mice. Adding additional TFs, such as Atoh1, substantially increases the efficiency of neurogenesis from the MG, while combining other TFs with Ascl1 can alter the types of neurons that are regenerated after injury.  Together our data show that we can considerably recapitulate  in mice much of the regeneration that occurs naturally in fish. </p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -158,7 +71,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NIH grants U01EY032055, EY029710, P30EY001730, Burroughs Wellcome Fund Careers at the Scientific Interfaces,  Foundation for Fighting Blindness, Unrestricted grant from the Research to Prevent Blindness</p>
+				<p>Funding: Funding: NEI, FFB, Genentech, GVRI, Tenpoint</p>
 			</fn>
 		</fn-group>
 

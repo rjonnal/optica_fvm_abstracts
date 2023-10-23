@@ -11,9 +11,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Fri at 1030**
+
 Author: Pijewska, Ewelina
 
-Session: **talk session, Fri at 1030**
+Coauthors: Denise Valente;Kari V Vienola;Ratheesh Meleppat;Robert J Zawadzki;Ravi S Jonnal
 
 Email: eapijewska@ucdavis.edu
 
@@ -39,9 +41,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Fri at 1030**
+
 Author: Liu, Teng
 
-Session: **talk session, Fri at 1030**
+Coauthors: Vimal Prabhu Pandiyan;Benjamin Wendel;Emily Slezak;Debarshi Mustafi;Jennifer Chao;Ramkumar Sabesan
 
 Email: tengl7@uw.edu
 
@@ -67,9 +71,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Fri at 1030**
+
 Author: Baez, Hector
 
-Session: **talk session, Fri at 1030**
+Coauthors: Laporta Jennifer;Walker Amber;Fischer William;Hollar Rachel;Patterson Sara;DiLoreto David;Gullapalli Vamsi;McGregor Juliette
 
 Email: Hbaez@ur.rochester.edu
 
@@ -95,9 +101,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Fri at 1030**
+
 Author: Yücel, Ezgi Irmak
 
-Session: **talk session, Fri at 1030**
+Coauthors: Vaishnavi Mohan;Geoffrey M. Boynton;Ariel Rokem;Ione Fine
 
 Email: yucel@uw.edu
 
@@ -123,9 +131,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Fri at 1030**
+
 Author: McLean, Iona
 
-Session: **talk session, Fri at 1030**
+Coauthors: Esther Sherbak;Loganne Mikkelsen;Ian Erkelens;Robin Sharma;Emily Cooper
 
 Email: ionamclean@berkeley.edu
 
@@ -151,9 +161,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Fri at 1030**
+
 Author: Kruper, John
 
-Session: **talk session, Fri at 1030**
+Coauthors: Adam Richie-Halford;Noah Benson;Sendy Caffarra;Julia Owen;Yue Wu;Aaron Lee;Cecilia Lee;Jason Yeatman;Ariel Rokem
 
 Email: jk232@uw.edu
 
@@ -179,9 +191,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Fri at 1315**
+
 Author: Tessmer, Karen
 
-Session: **talk session, Fri at 1315**
+Coauthors: Sylvia Jane Gasparini;Juliane Hammer;Trishla Adhikari;Klara Schmidtke;Sebastian Knöbel;Marius Ader
 
 Email: karen.tessmer@tu-dresden.de
 
@@ -207,9 +221,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Sat at 800**
+
 Author: Vlasits, Anna
 
-Session: **talk session, Sat at 800**
+Coauthors: Maria M Korympidou;Sarah Strauss;Timm Schubert;Katrin Franke;Philipp Berens;Thomas Euler
 
 Email: anna.vlasits@northwestern.edu
 
@@ -235,9 +251,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Sat at 1015**
+
 Author: Wang, Yiyi (Charlotte)
 
-Session: **talk session, Sat at 1015**
+Coauthors: Congli Wang;Ren Ng;William S. Tuten
 
 Email: yiyiwang@berkeley.edu
 
@@ -263,9 +281,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Sat at 1015**
+
 Author: Hexley, Allie C.
 
-Session: **talk session, Sat at 1015**
+Coauthors: Laura K. Young;David H. Brainard;Austin Roorda;William S. Tuten;Hannah E. Smithson
 
 Email: allie.hexley@psy.ox.ac.uk
 
@@ -291,9 +311,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Sat at 1015**
+
 Author: Chin, Benjamin M.
 
-Session: **talk session, Sat at 1015**
+Coauthors: Martin S. Banks;Derek Nankivil;Austin Roorda;Emily A. Cooper
 
 Email: bechin@berkeley.edu
 
@@ -319,9 +341,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Sat at 1015**
+
 Author: Segala, Federico G.
 
-Session: **talk session, Sat at 1015**
+Coauthors: Joel T. Martin;Aurelio Bruno;Alex R. Wade;Daniel H. Baker
 
 Email: fgs502@york.ac.uk
 
@@ -347,9 +371,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Sat at 1015**
+
 Author: Rodriguez, Carlos
 
-Session: **talk session, Sat at 1015**
+Coauthors: Ling-Qi Zhang;Alexandra E.  Boehm;Maxwell J.  Greene;William S.  Tuten;David H. Brainard
 
 Email: carlos.rodriguez@pennmedicine.upenn.edu
 
@@ -375,9 +401,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Sat at 1015**
+
 Author: Popovkina, Dina V.
 
-Session: **talk session, Sat at 1015**
+Coauthors: Kelly Chang;Lucas M. Suarez;John Palmer;Cathleen M. Moore;Geoffrey M. Boynton
 
 Email: dina4@uw.edu
 
@@ -403,9 +431,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **talk session, Sun at 1015**
+
 Author: Welbourne, Lauren
 
-Session: **talk session, Sun at 1015**
+Coauthors: Joel Martin;Federico Segala;Alex Wade;Daniel Baker
 
 Email: lauren.welbourne@york.ac.uk
 
@@ -431,9 +461,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Ash, Ryan
 
-Session: **poster session, Fri at 1530**
+Coauthors: Morteza Mohammadjavadi;Kim Butts Pauly;Anthony Norcia
 
 Email: rytash@stanford.edu
 
@@ -459,9 +491,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Kavcar, Osman B.
 
-Session: **poster session, Fri at 1530**
+Coauthors: Michael E. Rudd;Christabel Arthur;Alex J. Richardson;Michael A. Crognale
 
 Email: okavcar@nevada.unr.edu
 
@@ -487,9 +521,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Birman, Daniel
 
-Session: **poster session, Fri at 1530**
+Coauthors: Kai J Fox;Justin L Gardner
 
 Email: dbirman@uw.edu
 
@@ -515,9 +551,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Martin, Joel T.
 
-Session: **poster session, Fri at 1530**
+Coauthors: Lauren Welbourne;Federico G. Segala;Ellie Baker;Monique Bhullar;Rowan Huxley;Allice Wardle;Daniel H. Baker;Alex R. Wade
 
 Email: joel.martin@york.ac.uk
 
@@ -543,9 +581,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Vincent, Joris
 
-Session: **poster session, Fri at 1530**
+Coauthors: Marianne Maertens
 
 Email: joris.vincent@tu-berlin.de
 
@@ -571,9 +611,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Chang, Kelly
 
-Session: **poster session, Fri at 1530**
+Coauthors: Xiyan Li;Kimberly  Meier;Kristina Tarczy-Hornoch;Geoffrey M. Boynton;Ione Fine
 
 Email: kchang4@uw.edu
 
@@ -599,9 +641,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Kitakami, Kotaro
 
-Session: **poster session, Fri at 1530**
+Coauthors: Suguru Saito;Keiji Uchikawa
 
 Email: koo@img.cs.titech.ac.jp
 
@@ -627,9 +671,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Pirog, J.T.
 
-Session: **poster session, Fri at 1530**
+Coauthors: Vickie Kuo;William S. Tuten
 
 Email: jpirog@berkeley.edu
 
@@ -655,9 +701,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Ressmeyer, Ryan
 
-Session: **poster session, Fri at 1530**
+Coauthors: Jacob Yates;Gregory Horwitz
 
 Email: ryanress@uw.edu
 
@@ -683,9 +731,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Rodriguez, Raul
 
-Session: **poster session, Fri at 1530**
+Coauthors: Jorge Otero-Millan
 
 Email: raul.rodriguez@berkeley.edu
 
@@ -711,9 +761,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Sadeghi, Roksana
 
-Session: **poster session, Fri at 1530**
+Coauthors: Jorge Otero-Millan
 
 Email: roksana.s.sadeghi@berkeley.edu
 
@@ -739,9 +791,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Bartuzel, Maciej Marcin
 
-Session: **poster session, Fri at 1530**
+Coauthors: Ewelina Pijewska;Krzysztof Dalasinski;Szymon Tamborski;Ravi S Jonnal;Robert J Zawadzki;Maciej Szkulmowski
 
 Email: mmbartuzel@ucdavis.edu
 
@@ -767,9 +821,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Tyson, Terence
 
-Session: **poster session, Fri at 1530**
+Coauthors: Dennis Perez;Tiffany Lau;Jorge Otero-Millan
 
 Email: terencetyson@berkeley.edu
 
@@ -795,9 +851,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Wang, Mengxin
 
-Session: **poster session, Fri at 1530**
+Coauthors: Allie C. Hexley;Alexander J. H. Houston;Jiahe Cui;Daniel Read;Hannah E. Smithson;David H. Brainard
 
 Email: mengxin.wang@psy.ox.ac.uk
 
@@ -823,9 +881,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Wise, Mackenzie V.
 
-Session: **poster session, Fri at 1530**
+Coauthors: Gideon P. Caplovitz;Michael A.  Crognale
 
 Email: mackenziewise@nevada.unr.edu
 
@@ -851,9 +911,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Young, Dave
 
-Session: **poster session, Fri at 1530**
+Coauthors: Jasmine F. Awad;Ione Fine;Dina V. Popovkina
 
 Email: dyoun200@gmail.com
 
@@ -879,9 +941,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Fri at 1530**
+
 Author: Shi, Yangyi
 
-Session: **poster session, Fri at 1530**
+Coauthors: Rhea Eskew
 
 Email: shi.yang@northeastern.edu
 
@@ -907,9 +971,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Ara, Jawshan
 
-Session: **poster session, Sat at 1200**
+Coauthors: Osman Kavcar;Mackenzie V. Wise;Alireza Tavakkoli;Michael A.  Crognale
 
 Email: jawshan@nevada.unr.edu
 
@@ -935,9 +1001,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Arthur, Christabel
 
-Session: **poster session, Sat at 1200**
+Coauthors: Osman B.  Kavcar;Mackenzie V.   Wise;Michael A.  Crognale
 
 Email: christabela@nevada.unr.edu
 
@@ -963,9 +1031,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Bun, Luke
 
-Session: **poster session, Sat at 1200**
+Coauthors: Gregory Horwitz
 
 Email: lukebun@uw.edu
 
@@ -991,9 +1061,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Carter, Alex
 
-Session: **poster session, Sat at 1200**
+Coauthors: Daniel H. Baker;Antony B. Morland;Abbie J. Lawton;Alex R. Wade
 
 Email: lc1865@york.ac.uk
 
@@ -1019,9 +1091,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Chen, Qiang
 
-Session: **poster session, Sat at 1200**
+Coauthors: Norianne T. Ingram;Jacob Baudin;Juan M. Angueyra;Raunak Sinha;Fred Rieke
 
 Email: cqchen@uw.edu
 
@@ -1047,9 +1121,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Horiuchi, Suzuha
 
-Session: **poster session, Sat at 1200**
+Coauthors: Takehiro Nagai
 
 Email: suzuhah.study@gmail.com
 
@@ -1075,9 +1151,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Manfred, Joshua
 
-Session: **poster session, Sat at 1200**
+Coauthors: Corbin Strimel;Cameron Klabunde;Neil Dittmann;Karen Gunther
 
 Email: guntherk@wabash.edu
 
@@ -1103,9 +1181,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Son, Minwoo
 
-Session: **poster session, Sat at 1200**
+Coauthors: Takehiro Nagai
 
 Email: son.m.aa@m.titech.ac.jp
 
@@ -1131,9 +1211,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Takanashi, Mizuki
 
-Session: **poster session, Sat at 1200**
+Coauthors: Takehiro  Nagai
 
 Email: takanashi.m.aa@m.titech.ac.jp
 
@@ -1159,9 +1241,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Puska, Mikayla L.
 
-Session: **poster session, Sat at 1200**
+Coauthors: Michelle M. Giarmarco;Jay Neitz;Maureen Neitz;James A. Kuchenbecker
 
 Email: mlpuska@uw.edu
 
@@ -1187,9 +1271,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Zaman, Nasif
 
-Session: **poster session, Sat at 1200**
+Coauthors: Alireza Tavakkoli
 
 Email: zaman@nevada.unr.edu
 
@@ -1215,9 +1301,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Zou, Tianlun
 
-Session: **poster session, Sat at 1200**
+Coauthors: Sara Aissati;Susana Marcos
 
 Email: tzou3@ur.rochester.edu
 
@@ -1243,9 +1331,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Maddipatla, Reddikumar
 
-Session: **poster session, Sat at 1200**
+Coauthors: Christopher  Langlo;Kari  Vienola;Maciej  Bartuzel;Ewelina  Pijewska;Robert  Zawadzki;Ravi  Jonnal
 
 Email: rkmaddipatla@ucdavis.edu
 
@@ -1271,9 +1361,11 @@ Please use a scale of 1 - 5 where **1 is the highest score** and **5 is the lowe
 **Scorer initials:**
 
 
+Session: **poster session, Sat at 1200**
+
 Author: Bembry - Colegrove, Briyana
 
-Session: **poster session, Sat at 1200**
+Coauthors: Michelle Giarmarco;Rachel Barborek;Jessica Rowlan;James Kuchenbecker;Dragos Rezeanu;Jay Neitz;Maureen Neitz
 
 Email: bbembry@uw.edu
 

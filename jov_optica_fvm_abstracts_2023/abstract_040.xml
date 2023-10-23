@@ -13,22 +13,67 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.40</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.40</article-id>
 			<article-id pub-id-type="manuscript">Talks_40</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session III</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session III: Active vision shapes ocular dominance</article-title>
+				<article-title>Poster Session I: LissEYEjous Tracker - precise fundus tracking device based on ultrafast Lissajous scanning</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Binda</surname>
-						<given-names>Paola</given-names>
+						<surname>Bartuzel</surname>
+						<given-names>Maciej Marcin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pijewska</surname>
+						<given-names>Ewelina</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dalasinski</surname>
+						<given-names>Krzysztof</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tamborski</surname>
+						<given-names>Szymon</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,34 +85,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Steinwurzel</surname>
-						<given-names>Cecilia</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Acquafredda</surname>
-						<given-names>Miriam</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Sandini</surname>
-						<given-names>Giulio</given-names>
+						<surname>Jonnal</surname>
+						<given-names>Ravi S</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -79,8 +98,24 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Morrone</surname>
-						<given-names>Maria Concetta</given-names>
+						<surname>Zawadzki</surname>
+						<given-names>Robert J</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Szkulmowski</surname>
+						<given-names>Maciej</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -94,25 +129,43 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Translational Research and New Technologies in Medicine, University of Pisa</institution>
+					<institution>Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Torun, Poland</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Robotics Brain and Cognitive Sciences, Istituto Italiano di Tecnologia</institution>
+					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Inoko Vision Ltd., Mickiewicza 7/17, 87-100 Torun, Poland</institution>
+				</aff>
+
+
+				<aff id="aff5">
+					<label><sup>5</sup></label>
+					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>40</fpage>
 						<lpage>40</lpage>
 			<permissions>
@@ -121,7 +174,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Ocular dominance is a basic visual property that shows short-term plasticity in adult humans, where 2h of monocular deprivation leads to a homeostatic shift of ocular dominance in favour of the deprived eye. Using an altered reality setting, we found that this homeostatic plasticity can be triggered without depriving one eye of visual input, but merely perturbing the temporal correspondence between voluntary actions and vision in one eye. Participants wore a VR set; its monocular screens were connected with cameras monitoring the front space, which participants used to perform a complex visuomotor task. During a 60 minute period, the input to the dominant eye was delayed by 333 ms, making it useless for visuomotor coordination. Following this, ocular dominance (quantified by binocular rivalry) was systematically shifted in favour of the delayed eye, a similar effect as that produced by monocular contrast-deprivation. The shift was only observed when participants actively engaged in the visuomotor task, not when they passively watched a confederate perform the same task. We interpret these results in the light of parallel fMRI experiments where monocular deprivation is associated with a global system reconfiguration that pivots around a key area for sensorimotor integration, the Pulvinar. Based on our findings, we suggest that active vision is foundational to weighting sensory information, even at the level of simple visual processes as those setting ocular dominance. </p>
+				<p>Retinal eye tracking has emerged as a promising alternative to conventional video-based trackers, offering direct access to retinal coordinates with refined spatial and temporal resolutions. These attributes make them attractive for applications ranging from image stabilization in advanced ophthalmic imaging to identifying biomarkers of neurological or ophthalmic disorders that affect eye motility. Existing retinal tracking method however face challenges related to reliance on reference frames and non-uniform sampling either in space or time. In this work we present a new approach for retinal tracking, which is based on imaging small retinal patches (~1.5—3°) using self-repeating Lissajous scanning patterns. Pattern repetition rates close to 4kHz are achieved with an optical design that employs two MEMS microscanners with closely matching resonant frequencies, working in mutually perpendicular dimensions. Several examples of fundus images acquired with different Lissajous patterns are presented. Based on this, eye trajectories may be extracted. Future works will further investigate tracking resolution and dependence on Lissajous pattern spatial density and repetition rate.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -129,7 +182,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme, grant n. 801715 (PUPILTRAITS) and n. 832813 (GenPercept) and by the Italian Ministry of University and Research under the PRIN2017 programme (grant MISMATCH and 2017SBCPZY) and FARE-2 (grant SMILY). </p>
+				<p>Funding: Funding: National Science Centre, Poland (2023/48/C/ST7/00164); National   Institutes   of   Health   (R01-EY-033532,   R01-EY-031098,   R01-EY-026556, P30-EY-183 012576)</p>
 			</fn>
 		</fn-group>
 

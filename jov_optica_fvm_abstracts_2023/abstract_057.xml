@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.57</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.57</article-id>
 			<article-id pub-id-type="manuscript">Talks_57</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Characteristics and coordination of microsaccades in 6 Dimensions</article-title>
+				<article-title>Poster Session II: Image features involved in translucency enhancement by chromaticity information</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Sadeghi</surname>
-						<given-names>Roksana</given-names>
+						<surname>Takanashi</surname>
+						<given-names>Mizuki</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Otero-Millan</surname>
-						<given-names>Jorge</given-names>
+						<surname>Nagai</surname>
+						<given-names>Takehiro </given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -55,19 +55,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Herbert Wertheim School of Optometry and Vision Science, University of California, Berkeley</institution>
+					<institution>Department of Information and Communications Engineering, Tokyo Institute of Technology</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>57</fpage>
 						<lpage>57</lpage>
 			<permissions>
@@ -76,7 +76,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>The study of microsaccades, the small and rapid eye movements that occur during fixation, has focused on horizontal and vertical movements, while their torsional component remains relatively uncharted territory in vision research. We used video eye tracking to investigate microsaccades binocularly with horizontal and vertical movements tracked by pupil and corneal reflection and torsion by iris pattern. Five participants looked at a central dot for 20 trials of 20 seconds while seated, and their heads rested on a chin rest. For each microsaccade (N=2040), we measured the displacement of the eye along each dimension, and defined version as the average and vergence as the difference between the motion of the left and right eye. The average horizontal vertical and torsional components were 0.7, 0.3, and 0.1 deg for version and 0.1, 0.1, and 0.1 deg for vergence, respectively. Next, we measured the correlation between each component pair. We found that when the eyes moved to the left or right together, they also rotated by 0.3 deg (top towards the same side) for each degree of horizontal movement (R = 0.94, p &lt; 0.01). When the eyes moved up (down), for each degree of vertical movement, they diverged (converged) 0.08 deg horizontally (R = -0.53, p &lt; 0.01) and rotated 0.09 deg outward (inward; R = -0.47, p &lt; 0.01). There was no strong correlation between other combinations. These results show that microsaccades follow similar kinematics at a minute scale as larger saccades.</p>
+				<p>Previous studies have reported that chromaticity information in object images enhances perceived translucency. The aim of this study, was to elucidate how color forms image features that contribute to translucency in psychophysical experiments. The stimuli were computer-graphics images of translucent objects with different spectral scattering coefficients (i.e., hues) and various optical and geometrical parameters. Achromatic images with the same luminance as the chromatic images were also created. Perceived translucency was measured using Thurston’s pairwise comparison, and the effect of chromaticity or translucency was evaluated by comparing translucency in achromatic and chromatic images. The results showed higher perceived translucency for the chromatic object images than the achromatic ones. Subsequently, we analyzed how different image features correlate with the effects of color on translucency using multiple regression analysis. The result indicated that the luminance- chromaticity correlation, which has been proposed as a potential cue for translucency could hardly explain the color effects. Rather, we found that the change in brightness contrast in the diffuse components modulated by the Helmholtz–Kohlrausch (H-K) effect was strongly and negatively correlated with the color effects. These results suggest that some image features, which covary with brightness contrast brightness contrast, contribute to the color effects on translucency.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -84,7 +84,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NEI R00EY027846 and NSF 2107049</p>
+				<p>Funding: Funding: None</p>
 			</fn>
 		</fn-group>
 

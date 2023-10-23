@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.41</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.41</article-id>
 			<article-id pub-id-type="manuscript">Talks_41</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -21,14 +21,30 @@
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Noninvasive neuromodulation of subcortical visual pathways with transcranial focused ultrasound</article-title>
+				<article-title>Poster Session I: Distortion of perceived visual space after eccentric gaze holding</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Ash</surname>
-						<given-names>Ryan</given-names>
+						<surname>Tyson</surname>
+						<given-names>Terence</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Perez</surname>
+						<given-names>Dennis</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,11 +56,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Mohammadjavadi</surname>
-						<given-names>Morteza</given-names>
+						<surname>Lau</surname>
+						<given-names>Tiffany</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -53,23 +69,13 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Butts Pauly</surname>
-						<given-names>Kim</given-names>
+						<surname>Otero-Millan</surname>
+						<given-names>Jorge</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Norcia</surname>
-						<given-names>Anthony</given-names>
-					</name>
-                                        
 					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
 
 
@@ -81,31 +87,31 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Psychiatry and Behavioral Sciences, Stanford University</institution>
+					<institution>Herbert Wertheim School of Optometry and Vision Science, University of California, Berkeley</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Department of Radiology, Stanford University</institution>
+					<institution>Human Systems Integration Division, NASA Ames Research Center</institution>
 				</aff>
 
 
 				<aff id="aff3">
 					<label><sup>3</sup></label>
-					<institution>Department of Psychology, Stanford University</institution>
+					<institution>Department of Neurology, Johns Hopkins University</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>41</fpage>
 						<lpage>41</lpage>
 			<permissions>
@@ -114,7 +120,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Transcranial ultrasound stimulation (TUS) is an emerging tool to noninvasively modulate neural activity in deep brain areas. In preparation for our first in-human TUS studies, we targeted TUS to the lateral geniculate nucleus (visual thalamus) in a large mammal (sheep).  Full-field light flash stimuli were presented with or without concomitant TUS in randomly interleaved trials. Similar to what has previously observed by Fry et al (Nature 1959) in cats, EEG visual-evoked potentials (VEPs) were reversibly suppressed by TUS to the LGN. No changes in VEPs were observed in sheep who received sham-TUS to a control site in the basal ganglia, ruling out potential transducer auditory-somatosensory confounds. Magnetic resonance acoustic radiation force imaging (MR-ARFI), a technique to measure the ultrasound focus in situ, showed a focal volume of microscopic displacement at the expected target. Excitingly, MR-ARFI predicted the suppressive effect on VEPs in individual subjects, suggesting that MR-ARFI can be used to confirm TUS targeting and estimate neurophysiological impact. We are now translating this paradigm into human, targeting TUS to the LGN while participants perform a contrast detection task with EEG recording of steady-state VEPs. MR-ARFI will be measured to evaluate targeting and estimate TUS dosage in each participant. This work provides the foundation for a dissection of the roles of different subcortical nuclei in different aspects of human vision.</p>
+				<p>Previous studies have shown that rebound nystagmus can be a behavioral probe into the adaptive properties of the gaze-holding mechanism, showing that after prolonged eccentric gaze holding and upon return to central gaze the eye tends to drift towards the previously held position. It is not known whether perception of visual space is also affected by similar adaptation mechanisms. The current study seeks to elucidate if eccentric gaze holding changes the perception of space in a relative spatial judgment task. To measure their spatial bias, twelve subjects were asked to report which among two short vertical lines flashed to the left or to the right of the display was closer to a third central line. Perception was assessed after holding eccentric gaze at 40 degrees towards the left or right and compared with control trials without eccentric gaze holding. Subjects showed a significant difference in spatial bias between the leftward and rightward gaze holding conditions (p = 0.04), suggesting that the visual space changes differently with respect to the side where gaze was held. While we did not observe an overall bias (p = 0.327) under no gaze holding we did observe a significant correlation between handedness and spatial bias (r2 = 0.4, p = 0.04). We conclude that gaze holding temporarily distorts the perception of space in a mechanism that may be related to the adaptation of the gaze holding mechanism.</p>
 			</abstract>
 		</article-meta>
 	</front>

@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.78</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.78</article-id>
 			<article-id pub-id-type="manuscript">Talks_78</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Non-degenerating double cone opsin knockout mouse model of blue cone monochromacy</article-title>
+				<article-title>Contributed Session II: Computational modeling of shift in unique yellow for small stimuli</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Puska</surname>
-						<given-names>Mikayla L.</given-names>
+						<surname>Rodriguez</surname>
+						<given-names>Carlos</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Giarmarco</surname>
-						<given-names>Michelle M.</given-names>
+						<surname>Zhang</surname>
+						<given-names>Ling-Qi</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -53,11 +53,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Neitz</surname>
-						<given-names>Jay</given-names>
+						<surname>Boehm</surname>
+						<given-names>Alexandra E. </given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -66,11 +66,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Neitz</surname>
-						<given-names>Maureen</given-names>
+						<surname>Greene</surname>
+						<given-names>Maxwell J. </given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -79,8 +79,21 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Kuchenbecker</surname>
-						<given-names>James A.</given-names>
+						<surname>Tuten</surname>
+						<given-names>William S. </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Brainard</surname>
+						<given-names>David H.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -94,19 +107,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Ophthalmology, University of Washington</institution>
+					<institution>University of Pennsylvania</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Herbert Wertheim School of Optometry &amp Vision Science, University of California, Berkeley</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>78</fpage>
 						<lpage>78</lpage>
 			<permissions>
@@ -115,7 +134,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Ma et al. (2022) performed opsin gene therapy in a mouse model of blue cone monochromacy (BCM). Treatment was only effective for young animals because the retina degenerated, with a significant reduction in the number viable cones by 3 months. Their mouse was created by mating an Opn1mw knockout with a gene trap inserted in intron 2 of the Opn1mw gene, to an Opn1sw knockout with the neomycin resistance gene inserted in intron 3 of the Opn1sw gene. The Opn1mw knockout was reported as having “greatly reduced” M opsin expression, while the Opn1sw knockout was a severely hypomorphic allele. Their double opsin gene knockout (DKO) mouse is not a good model of BCM, which is typically a stationary disorder with no cone degeneration. We evaluated Opn1mw Opn1sw DKO mice for cone degeneration; these mice were created by Regeneron by deleting both genes using genome editing. Eyes of 1 year old DKO animals were processed for cryosections. Sections were immunostained using antibodies against a variety of cone proteins (S and M opsins, arrestin) and markers for retinal degeneration, then confocal imaged. Despite the absence of both cone opsins, cones remain viable and morphologically normal, and the retina shows no signs of degeneration at 1 year. This DKO mouse model will be a valuable tool for developing gene therapies targeting cone opsins, and also for understanding color vision circuitry in the retina.</p>
+				<p>	Unique yellow (UY) is largely invariant to L:M cone proportion for spatially-extended stimuli in healthy trichromats. However, a recent adaptive-optics-based study by Boehm et al. reveals that when stimulus size is reduced to a few arcmin, color appearance depends on the local L:M proportion in the patch of the retina on which the stimulus was imaged. We aimed to determine if such findings are consistent with a normative account of visual processing. A series of 3.5 and 10 arcmin stimuli were simulated as isoluminant mixtures of 540 and 680 nm primaries. We modeled sensory encoding under adaptive-optics conditions using the open-source software ISETBio, for simulated retinal cone mosaics with varying local L:M proportions. The resultant cone excitations were decoded using a Bayesian image reconstruction algorithm (Zhang et al., 2022). For the 3.5 arcmin stimuli, as local L:M proportion decreased, the 540 nm component of the reconstructions increased relative to the 680 nm component. This is qualitatively consistent with the experimental observations of Boehm et al.  For 10 arcmin stimuli, in contrast, reconstructions were stable across variation in local L:M cone proportion. Notably, reconstructions depend not only on the local L:M cone proportion, but also on the proportion in the immediately surrounding retina, leading to a testable prediction. The computational observations frame the experimental results as a normative consequence of visual processing.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -123,7 +142,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: UW Vision Core Grant NIH NEI P30-EY001730, Research to Prevent Blindness</p>
+				<p>Funding: Funding: The University of Pennsylvania Post-Baccalaureate Research Education Program, grant number R25 GM071745, and a research gift from Meta</p>
 			</fn>
 		</fn-group>
 

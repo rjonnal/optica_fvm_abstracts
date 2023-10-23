@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.32</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.32</article-id>
 			<article-id pub-id-type="manuscript">Talks_32</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session V: Binocular vision and interactions</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session V: Binocular vision and interactions: Binocular vision and the control of foot placement during walking in natural terrain</article-title>
+				<article-title>Poster Session I: Perspective-correct rendering for active observers</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Bonnen</surname>
-						<given-names>Kathryn</given-names>
+						<surname>Guan</surname>
+						<given-names>Phillip</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,34 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Matthis</surname>
-						<given-names>Jonathan S</given-names>
+						<surname>Penner</surname>
+						<given-names>Eric</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hegland</surname>
+						<given-names>Joel</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Letham</surname>
+						<given-names>Benjamin</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -53,11 +79,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Hayhoe</surname>
-						<given-names>Mary</given-names>
+						<surname>Lanman</surname>
+						<given-names>Douglas</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -68,31 +94,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Indiana University School of Optometry</institution>
+					<institution>Meta Reality Labs Research</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Northeastern University</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>University of Texas</institution>
+					<institution>Meta</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>32</fpage>
 						<lpage>32</lpage>
 			<permissions>
@@ -101,7 +121,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Coordination between visual and motor processes during walking is critical for the selection of stable footholds when walking in rough terrains.  In our work we collect eye movements and body motion while people walk over complex natural terrains.  We found that gaze strategy was highly sensitive to the complexity of the terrain, with more fixations dedicated to foothold selection as the terrain became more difficult.  Disrupting the binocular vision led to a tendency to focus on closer footholds, suggesting that this loss of information places more pressure on the visuomotor control process.  Furthermore we find a relationship between a person&#39;s stereoacuity and their gaze strategy.  These findings help us understand how vision loss can impact everyday tasks like walking.  </p>
+				<p>Stereoscopic, head-tracked display systems can show users realistic, world-locked virtual objects and environments (i.e., rendering perspective-correct binocular images with accurate motion parallax). However, discrepancies between the rendering pipeline and physical viewing conditions can lead to perceived instability in the rendered content resulting in reduced immersion and, potentially, visually-induced motion sickness. Precise requirements to achieve perceptually stable world-locked rendering (WLR) are unknown due to the challenge of constructing a wide field of view, distortion-free display with highly accurate head and eyetracking. We present a custom-built system capable of rendering virtual objects over real-world references without perceivable drift under such constraints. This platform is used to study acceptable errors in render camera position for WLR in augmented and virtual reality scenarios, where we find an order of magnitude difference in perceptual sensitivity. We conclude with an analytic model which examines changes to apparent depth and visual direction in response to camera displacement errors, and visual direction is highlighted as a potentially important consideration for WLR alongside depth errors from incorrect disparity.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -109,7 +129,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NIH NEI, ARVO/VSS fellowship, Harrington fellowship</p>
+				<p>Funding: Funding: None</p>
 			</fn>
 		</fn-group>
 

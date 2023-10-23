@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.60</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.60</article-id>
 			<article-id pub-id-type="manuscript">Talks_60</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Vernier thresholds of a Poisson-noise-limited computational observer with and without fixational eye movements</article-title>
+				<article-title>Poster Session II: Non-degenerating double cone opsin knockout mouse model of blue cone monochromacy</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Wang</surname>
-						<given-names>Mengxin</given-names>
+						<surname>Puska</surname>
+						<given-names>Mikayla L.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Hexley</surname>
-						<given-names>Allie C.</given-names>
+						<surname>Giarmarco</surname>
+						<given-names>Michelle M.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -53,47 +53,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Houston</surname>
-						<given-names>Alexander J. H.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Cui</surname>
-						<given-names>Jiahe</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Read</surname>
-						<given-names>Daniel</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Smithson</surname>
-						<given-names>Hannah E.</given-names>
+						<surname>Neitz</surname>
+						<given-names>Jay</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -105,11 +66,24 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Brainard</surname>
-						<given-names>David H.</given-names>
+						<surname>Neitz</surname>
+						<given-names>Maureen</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kuchenbecker</surname>
+						<given-names>James A.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -120,37 +94,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Experimental Psychology, University of Oxford</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>School of Mathematics, University of Leeds</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>Department of Engineering Science, University of Oxford</institution>
-				</aff>
-
-
-				<aff id="aff4">
-					<label><sup>4</sup></label>
-					<institution>Department of Psychology, University of Pennsylvania</institution>
+					<institution>Department of Ophthalmology, University of Washington</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>60</fpage>
 						<lpage>60</lpage>
 			<permissions>
@@ -159,7 +115,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Vernier acuity is a fundamental measure of spatial vision. We modeled how stimulus encoding by the cones limits Vernier acuity. We determined Vernier thresholds for a computational observer that had access to the Poisson-distributed cone photopigment excitations. The observer also had access to the cone mosaic layout and the stimulus possibilities on each trial. We varied stimulus contrast (100%, 50%, 22%, 11% Michelson contrast) and duration (2, 4, 9, 18 stimulus frames; frame duration 8.33 ms) while fixing other stimulus properties (foveal viewing; two achromatic vertical bars; length 6.2 arcmin; width 1 arcmin; vertical gap 0.1 arcmin). When the retinal image is stationary, Vernier thresholds depend jointly on contrast and duration through contrast energy: squared contrast times duration. Introducing fixational drift eye movements impairs performance, when the information about eye path is not accounted for by the computational observer. When the path of fixational drift is made available and used ideally, there is no noticeable difference with the stationary case. The lack of improvement when the path of fixational drift is known exactly may reflect the high-density of foveal cones relative to the optical point spread function and the fact that we did not introduce temporal filtering by the visual system. Our results suggest the possibility of a rich interaction between optics, cone sampling, fixational eye movements, post-receptoral filtering and visual performance.</p>
+				<p>Ma et al. (2022) performed opsin gene therapy in a mouse model of blue cone monochromacy (BCM). Treatment was only effective for young animals because the retina degenerated, with a significant reduction in the number viable cones by 3 months. Their mouse was created by mating an Opn1mw knockout with a gene trap inserted in intron 2 of the Opn1mw gene, to an Opn1sw knockout with the neomycin resistance gene inserted in intron 3 of the Opn1sw gene. The Opn1mw knockout was reported as having “greatly reduced” M opsin expression, while the Opn1sw knockout was a severely hypomorphic allele. Their double opsin gene knockout (DKO) mouse is not a good model of BCM, which is typically a stationary disorder with no cone degeneration. We evaluated Opn1mw Opn1sw DKO mice for cone degeneration; these mice were created by Regeneron by deleting both genes using genome editing. Eyes of 1 year old DKO animals were processed for cryosections. Sections were immunostained using antibodies against a variety of cone proteins (S and M opsins, arrestin) and markers for retinal degeneration, then confocal imaged. Despite the absence of both cone opsins, cones remain viable and morphologically normal, and the retina shows no signs of degeneration at 1 year. This DKO mouse model will be a valuable tool for developing gene therapies targeting cone opsins, and also for understanding color vision circuitry in the retina.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -167,7 +123,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: This work was supported by the Engineering and Physical Sciences Research Council [grant number EP/W023873/1].</p>
+				<p>Funding: Funding: UW Vision Core Grant NIH NEI P30-EY001730, Research to Prevent Blindness</p>
 			</fn>
 		</fn-group>
 

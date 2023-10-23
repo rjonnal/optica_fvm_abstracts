@@ -35,8 +35,18 @@ Python script to convert abstract submission CSV file into XML files using JOV t
 
 ## Instructions for generating YIA ballots:
 
+1. Create a CSV file called `sessions.csv` containing four columns: `number`, `day`, `time`, and `type`. This table is meant to connect the keys for the `sessions` dictionary in `config.py` with the day and time of presentations, so that ballots can contain the latter information. It should look like this:
+
+```
+number,day,time,type,
+0,Fri,1700,talk,
+1,Sat,1545,talk,
+2,Fri,815,talk,
+.
+.
+.
+```
+
 1. `python csv_to_yia_ballots.py abstracts_2023_shortened_headers.csv > ballots.md`
 
-2. `pandoc --pdf-engine=xelatex -V geometry:margin=1in -o ballots.pdf ballots.md`
-
-
+2. `pandoc --pdf-engine=xelatex -V geometry:margin=1in -o ballots.pdf ballots.md` (or whatever markdown rendering system you prefer.

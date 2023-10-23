@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.67</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.67</article-id>
 			<article-id pub-id-type="manuscript">Talks_67</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -21,14 +21,14 @@
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Color and luminance processing in V1 complex cells and artificial neural networks</article-title>
+				<article-title>Poster Session II: Can a drug for liver disease be used to treat Age-Related Macular Degeneration?</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Bun</surname>
-						<given-names>Luke</given-names>
+						<surname>Pandey</surname>
+						<given-names>Kriti</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,21 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Horwitz</surname>
-						<given-names>Gregory</given-names>
+						<surname>Hass</surname>
+						<given-names>Daniel T</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lim</surname>
+						<given-names>Rayne R</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -51,29 +64,65 @@
 
 
 
+				<contrib contrib-type="author">
+					<name>
+						<surname>Horton</surname>
+						<given-names>Noah</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chao</surname>
+						<given-names>Jennifer R</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hurley</surname>
+						<given-names>James B</given-names>
+					</name>
+                                        
+				</contrib>
+
+
+
 
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Bioengineering, University of Washington</institution>
+					<institution>Department of Biochemistry, University of Washington</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Department of Physiology and Biophysics, University of Washington</institution>
+					<institution>Department of Ophthalmology, University of Washington</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>67</fpage>
 						<lpage>67</lpage>
 			<permissions>
@@ -82,7 +131,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Object recognition by natural and artificial visual systems benefits from the identification of object boundaries. A useful cue for the detection of object boundaries is the superposition of luminance and color edges. To gain insight into the suitability of this cue for object recognition, we examined convolutional neural network (CNNs) models that had been trained to recognize objects in natural images. Because CNNs are only trained to do a single task, any properties they possess are likely useful for that task. We focused specifically on units in the second convolutional layer invariant to contrast polarity, a useful trait for object boundary detection. Some of these units were tuned for a nonlinear combination of color and luminance, which is broadly consistent with a role in object boundary detection. Others were tuned for luminance alone, but few were tuned for color alone. A literature review reveals that V1 complex cells have a similar distribution of tuning. We speculate that this pattern of sensitivity provides an efficient basis for object recognition, perhaps by mitigating the effects of lighting on luminance contrast polarity. The paucity of contrast polarity-invariant representation of chromaticity alone suggests that it is redundant with other representations. </p>
+				<p>Age-related macular degeneration (AMD) is one of the most common degenerative eye diseases among the older population. One of the primary pathological features of AMD is the accumulation of fatty deposits known as drusen between the retinal pigment epithelium (RPE) and Bruch’s membrane in the eye. Few options exist that can slow AMD-associated retinal degeneration. One may be to enhance the RPE’s ability to oxidize fatty acids to delay or prevent drusen accumulation. Firsocostat is a small molecule that increases fatty acid oxidation in the liver. We determined the ability of Firsocostat to increase fatty acid oxidation and to decrease lipid contents in human induced pluripotent stem cells (iPSC) differentiated into RPE. In iPSC-RPE, firsocostat boosts fatty acid oxidation, remodels lipid profiles, and reduces apolipoprotein release. These data suggest that firsocostat may alleviate a pathological increase in drusen deposits and can help to preserve vision in AMD patients. </p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -90,7 +139,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: This work was supported by EY018849 grants to Gregory D Horwitz and EY07031 to Luke M Bun</p>
+				<p>Funding: Funding: D.T.H is supported by a Brightfocus Foundation Postdoctoral Fellowship (M2022003F). J.B.H is supported by NEI RO1EY06641, RO1EY017863 and R21032597 and Foundation Fighting Blindness TA-NMT-0522-0826-UWA-TRAP.</p>
 			</fn>
 		</fn-group>
 

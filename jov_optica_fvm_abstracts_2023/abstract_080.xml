@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.80</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.80</article-id>
 			<article-id pub-id-type="manuscript">Talks_80</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session III</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: The impact of eye’s longitudinal chromatic aberration on visual acuity and accommodation response</article-title>
+				<article-title>Contributed Session III: The naming and understanding of color: the Color Communication Game</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Zou</surname>
-						<given-names>Tianlun</given-names>
+						<surname>Brown</surname>
+						<given-names>Angela M.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,24 +40,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Aissati</surname>
-						<given-names>Sara</given-names>
+						<surname>Lindsey</surname>
+						<given-names>Delwin T.</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Marcos</surname>
-						<given-names>Susana</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -68,31 +55,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Center for Visual Science, The Institute of Optics, University of Rochester</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Center for Visual Science, Flaum Eye Institute University of Rochester</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>Center for Visual Science, Institute of Optics, Flaum Eye Institute, University of Rochester</institution>
+					<institution>Ohio State University</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>80</fpage>
 						<lpage>80</lpage>
 			<permissions>
@@ -101,7 +76,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Chromatic composition of displays might affect vision and accommodation,possibly influencing myopia development.We investigated differences in visual acuity(VA) and accommodative lag(AccL) for steady accommodative demands (up to 5D,1D steps) with visual stimuli illuminated by monochromatic wavelengths (mono-λ 480,555&amp630nm,3nm bandwidth) and white light (WL).Data was obtained on 3 young emmetrope using an Adaptive Optics system with a supercontinuum laser,a DMD for stimuli,and a optunable lens to change vergence.Best focus for far was set at 555nm.VA was measured using QUEST(tumbling E).AccL was obtained from the peak shift of through-focus Visual Strehl,calculated from HS aberrometry.All subjects showed myopic shifts in blue consistent with longitudinal chromatic aberration.However,the response to wavelength differed across subjects.S#1 showed a sustained VA across distances(average VA standard deviation 0.054,-0.005logMAR),low AccL(slope:0.3 D/D) and systematic SA negative shift (slope:-0.04um/D),similar across mono-λ and WL.S#2 showed a more sustained VA,lower AccL and higher SA change in blue (0.09logMAR std,0.3D/D,-0.02um/D) than in WL(0.14logMAR std,0.52D/D,-0.013um/D).S#3 showed a steeper decrease in VA at near and higher AccL for mono-λ(0.218logMAR std,0.78D/D,on average)than in WL(0.05logMAR std,0.38D/D).Different subjects use chromatic cues in different ways to accommodate,likely affected by the interplay of chromatic blur,depth-of-focus and defocus sign perception.</p>
+				<p>When a person views a color sample, they can usually provide a color term for it. But will that color term allow someone else to understand which sample was named? We examined color understanding using a Color Communication Game, in which one person (the “sender”) names 30 color samples as in any color-naming study, then another person (the “receiver”) chooses the sample they think the sender intended to communicate. The receiver cannot always guess the right sample, and no choice strategy will do better than randomly choosing among the samples the receiver called by that term. When 70 English-speaking dyads and 63 Somali-speaking dyads played the game, receivers did not perform randomly. Instead, they systematically chose “focal” samples near the centers of their color term distributions. When the senders’ named samples were compared directly to the receivers’ chosen samples, the systematic distribution of receiver choices revealed color categories, which appeared without any statistical analysis of the players’ terms. Simulation of receiver choices based on senders’ color names showed that both Somali-speaking and English-speaking participants knew more color terms than the ones they used in color-naming. Our Color Communication Game showed that color-naming experiments underestimate color understanding: people understand colors categorically, but they express colors using multiple synonymous color terms that are well-understood by others. </p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -109,7 +84,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: Funding: P30 Core Grant EY001319-46, Unrestricted Grant Research to Prevent Blindness (Flaum Eye Institute, University of Rochester NY), Meta Reality Labs, National Institutes of Health-NEI R01 EY35009</p>
+				<p>Funding: Funding: NSF BCS-1152841 </p>
 			</fn>
 		</fn-group>
 

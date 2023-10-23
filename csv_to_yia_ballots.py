@@ -20,8 +20,24 @@ input_filename = sys.argv[1]
 
 df = pd.read_csv(input_filename)
 
+yia_df = []
+
 for idx,row in df.iterrows():
     if row['Is the presenting author eligible for the Young Investigator Award?'].find('Yes')>-1:
+
+
+        yia_df.append([row['surname1'],row['given-names1'],row['article-title']])
+        
+        coauthors = []
+        for k in range(2,cfg.max_authors+1):
+            gn = row['given-names%d'%k]
+            sn = row['surname%d'%k]
+            if not pd.isna(gn) and not pd.isna(sn):
+                coauthors.append('%s %s'%(gn,sn))
+
+        coauthor_string = ';'.join(coauthors)
+
+        
         session = row['Session']
         
         print('## Optica Fall Vision Meeting YIA Scoring Sheet')
@@ -35,9 +51,11 @@ for idx,row in df.iterrows():
         print('**Scorer initials:**')
         print()
         print()
+        print('Session: **%s**'%session_dict[session])
+        print()
         print('Author: %s, %s'%(row['surname1'],row['given-names1']))
         print()
-        print('Session: **%s**'%session_dict[session])
+        print('Coauthors: %s'%(';'.join(coauthors)))
         print()
         print('Email: %s'%row['Email Address'])
         print()
@@ -50,3 +68,6 @@ for idx,row in df.iterrows():
         print('Funding: %s'%row['fn-group'])
         print()
         print('\\newpage')
+
+yia_df = pd.DataFrame(yia_df,columns=['surname','given-names','title'])
+yia_df.to_csv('yia_abstracts.csv')

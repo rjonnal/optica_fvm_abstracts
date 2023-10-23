@@ -13,25 +13,51 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.33</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.33</article-id>
 			<article-id pub-id-type="manuscript">Talks_33</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session V: Binocular vision and interactions</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session V: Binocular vision and interactions: The case against probabilistic inference: A deterministic theory of 3D visualprocessing</article-title>
+				<article-title>Poster Session I: Measuring luminance CSFs from the fovea to far peripheries</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Domini</surname>
-						<given-names>Fulvio</given-names>
+						<surname>Kitakami</surname>
+						<given-names>Kotaro</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Saito</surname>
+						<given-names>Suguru</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Uchikawa</surname>
+						<given-names>Keiji</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -42,19 +68,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Brown University</institution>
+					<institution>Tokyo Institute of Technology</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Kanagawa Institute of Technology</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>33</fpage>
 						<lpage>33</lpage>
 			<permissions>
@@ -63,7 +95,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>I will describe a new computational theory of 3D cue integration and introduce a novel theoretical framework to study 3D vision in humans. The proposed computational theory differs from the current mainstream approaches to the problem in two fundamentally different ways.  First, it assumes that 3D mechanisms are deterministic processes that map a given visual stimulus to a unique 3D representation. Second, the proposed theory posits that 3D processing is heuristic, finding correct solutions to the problem only in ideal viewing conditions. The deterministic and heuristic nature of these mechanisms is inconsistent with Bayesian approaches that model brain mechanisms as processes of Bayesian inference aimed at deriving the most accurate and precise representation of 3D structures. These two main features of the proposed theory are implemented in a computational model that allows quantitative predictions of new phenomena. First, it provides an entirely different interpretation of Just Noticeable Differences, a hallmark measure of perceptual uncertainty. Second, it predicts specific perceptual distortions that are at odds with what previous accounts would predict. I will also discuss how the deterministic and heuristic nature of the proposed computational model points towards a re-evaluation of fundamental theoretical assumptions in perception research.</p>
+				<p>We measured luminance contrast thresholds for three subjects in the visual field of the left eye up to 56, 49, 84, and 63 degrees in nasal, superior, temporal, and inferior directions, respectively. The stimulus was a cosine-Gabor of 10 deg diameter. The stimulus size was constant for all eccentricities. The average luminance of the background was 31cd/m2. The stimulus duration was 0.5sec with 0.5sec increasing and decreasing temporal slopes. The thresholds were measured with the psi procedure of two temporal alternative forced choice. The results showed that although at small eccentricities no significant differences in thresholds were found among directions, the differences were prominent at large eccentricities beyond 40 degrees in all frequencies. Most previous peripheral CSFs were based on data measured within certain ranges of eccentricity, and extrapolated outside these ranges. We optimized the parameters of the previous CSFs using the present results within these limited ranges, and confirmed that the previous CSFs fitted the present results. Then, we applied the present results in all eccentricities to the previous CSFs. It was found that the previous CSFs tended to be higher than the present results beyond 60 degrees in temporal and beyond 40 degrees in other directions in all frequencies. This would indicate that the previous CSFs at large eccentricities were not correctly inferred by extrapolation using data measured at small eccentricities.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +103,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: Supported by grants from the National Science Foundation (1827550 and 2120610) and the National Institutes of Health (1R21EY033182-01A1)</p>
+				<p>Funding: Funding: JSPS KAKENHI Grant Number JP18H03247</p>
 			</fn>
 		</fn-group>
 

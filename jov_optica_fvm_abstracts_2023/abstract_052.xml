@@ -13,22 +13,90 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.52</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.52</article-id>
 			<article-id pub-id-type="manuscript">Talks_52</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Diurnal variations in luminance and chromatic contrast sensitivity</article-title>
+				<article-title>Poster Session II: Computational analysis of the effect of cone temporal filtering on detection threshold with and without retinal motion</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Koida</surname>
-						<given-names>Kowa</given-names>
+						<surname>Feng</surname>
+						<given-names>Qiyuan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Ling-Qi</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Braun</surname>
+						<given-names>Alisa</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Cottaris</surname>
+						<given-names>Nicolas P.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tuten</surname>
+						<given-names>William S.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Brainard</surname>
+						<given-names>David H.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -42,19 +110,31 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Toyohashi University of Technology</institution>
+					<institution>Department of Psychology, University of Pennsylvania</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Brain and Cognitive Science, University of Rochester</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Herbert Wertheim School of Optometry &amp Vision Science, University of California, Berkeley</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>52</fpage>
 						<lpage>52</lpage>
 			<permissions>
@@ -63,7 +143,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Sensory motor performance typically peaks in the evening, influenced by observer&#39;s diurnal arousal level. The arousal level is regulated by neurons in the brainstem, which form connections extending throughout the brain but the connection is highly heterogeneous. The dorsal visual pathway and superior colliculus receive a dense projections, while the ventral visual pathway and lateral geniculate nucleus receive fewer. The former primarily deal with stimuli determined by luminance contrast, while the latter handle chromatic information. How such heterogeneous projection in the brain impacts on human visual detection performance has yet to be understood. In this study, we measured the diurnal variation in human contrast sensitivity and investigated whether changes differed between luminance and chromatic stimuli. Result revealed that as the time of day progressed, sensitivity to luminance contrast improved, while sensitivity to color contrast deteriorated.</p>
+				<p>Retinal stimulus motion can increase visual acuity, but recent experimental evidence indicates that for briefly presented stimuli this benefit does not always occur (Braun et al, VSS 2023). To understand this effect, we modeled how the temporally low-pass filtering that occurs within each cone is expected to impact visual performance. We simulated a grating (10 cpd Gabor) detection task in which the stimulus was present for two 15 msec frames. We used the ISETBio software to compute cone excitations and cone photocurrent responses to the stimulus, for different contrasts and retinal positions, and used linear SVM classifiers to estimate computational-observer detection thresholds. We examined three retinal-motion conditions: 1) stimulus stabilized on the retina; 2) stimulus shifted 0.5 cycle orthogonal to grating orientation across the two frames; 3) stimulus shifted 1 cycle. Across all three conditions, detection threshold estimated on the basis of cone excitations varied little. Threshold estimated on the basis of photocurrent, however, was highest for the 0.5 cycle shift, and about the same for the no shift and 1 cycle shift conditions. Qualitatively, this result recapitulates the findings of Braun et al. and suggests that those findings may be understood as a consequence of the initial visual encoding. We note, however, that we analyzed detection rather than acuity; planned work will attempt to bring the computations into more direct contact with the experimental results.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +151,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: KAKENHI (21H05820)</p>
+				<p>Funding: Funding: None</p>
 			</fn>
 		</fn-group>
 

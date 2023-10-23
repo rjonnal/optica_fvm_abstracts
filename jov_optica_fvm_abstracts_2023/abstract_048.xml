@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.48</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.48</article-id>
 			<article-id pub-id-type="manuscript">Talks_48</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Binocular contrast integration: Cortical and behavioral signals reflect different computations</article-title>
+				<article-title>Poster Session II: Attentional modulation of the achromatic and chromatic reversal VEP</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Meier</surname>
-						<given-names>Kimberly</given-names>
+						<surname>Arthur</surname>
+						<given-names>Christabel</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Pettet</surname>
-						<given-names>Mark</given-names>
+						<surname>Kavcar</surname>
+						<given-names>Osman B. </given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -53,21 +53,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Garrison</surname>
-						<given-names>Taylor</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Tarczy-Hornoch</surname>
-						<given-names>Kristina</given-names>
+						<surname>Wise</surname>
+						<given-names>Mackenzie V.  </given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -79,24 +66,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Boynton</surname>
-						<given-names>Geoffrey M.</given-names>
+						<surname>Crognale</surname>
+						<given-names>Michael A. </given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Fine</surname>
-						<given-names>Ione</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
 
 
 				</contrib>
@@ -107,25 +81,31 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Psychology, University of Washington</institution>
+					<institution>Integrative Neuroscience Program, University of Nevada, Reno</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Department of Ophthalmology, University of Washington</institution>
+					<institution>Cognitive and Brain Sciences Program, University of Nevada, Reno</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Department of Psychology, University of Nevada, Reno</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>48</fpage>
 						<lpage>48</lpage>
 			<permissions>
@@ -134,7 +114,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Purpose: Although binocular contrast perception under dichoptic viewing conditions has been extensively characterized behaviorally, little is known about how the signals from each eye are combined in cortex.  Here we compared simultaneously-collected behavioral and EEG measures of dichoptic contrast perception. Methods: Observers (n=16) dichoptically viewed a 2-cpd grating flickering at 7.5 Hz and rotating slowly (1º/s). The contrast of the grating shown to each eye modulated sinusoidally over time at independent rates (1/6 and 1/8 Hz). We recorded EEG activity while observers positioned a joystick lever to report perceived contrast as it changed over time. Analysis: A multiband filter was used to isolate the SSVEP responses to 7.5 Hz signals from electrode Oz (occipital pole), and the standard deviation of this signal provided a measure of neural response amplitude as a function of contrast. Results: A simple model was fit to VEP and behavioral responses, [(L^m+R^m)/2]^(1/m)], which essentially characterized whether responses were better fit by a mean (m≈1) or a max (m&gt;1) model. VEP responses (m = 1.0; MSE = 0.013) were well fit by a mean model, suggesting the EEG signal may have been driven by the input layers of V1. In contrast, behavioral responses (m = 8.8; MSE = 0.011) were well fit by a model that was heavily shifted towards a max model, suggesting a significant non-linear transformation of the contrast signal between the input layers of V1 and conscious perception.</p>
+				<p>Previous literature has consistently revealed attentional modulation of the Visual Evoked Potential (VEP) response to achromatic pattern reversal stimuli but little to no attentional modulation of the VEP response to chromatic pattern onsets. Magnetic Resonance Imaging (MRI) research, however, has reported modulation of the responses to both achromatic and chromatic pattern reversal stimuli. Numerous methodological differences including mode of presentation, stimulus contrast, and attentional demand, make comparison of these results difficult. In this study, we report the results of experiments using comparable perceptual contrasts, pattern reversals, and a coextensive and highly-demanding, multiple object tracking (MOT) task. Our findings support prior VEP results indicating that although achromatic VEPs are modulated by attention, chromatic VEPs are more robust to attentional modulation, even for highly demanding distractor tasks. We also found that when compared to a non-attentional condition, the attenuation of the VEP when attending to the MOT task was greater in magnitude than the enhancement of the VEP when attending to the VEP stimulus. This supports prior conclusions, that while avoiding active distraction is likely important, insuring an “attentive state” is not always necessary when recording VEPs. Further experiments are underway to investigate why attentional modulation of chromatic signals in early visual cortex are observed in MRI but not VEP recordings. </p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -142,7 +122,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: Knights Templar Eye Foundation, Research to Prevent Blindness, Unrestricted grant from Research to Prevent Blindness to UW Department of Ophthalmology</p>
+				<p>Funding: Funding: None</p>
 			</fn>
 		</fn-group>
 

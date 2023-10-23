@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.79</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.79</article-id>
 			<article-id pub-id-type="manuscript">Talks_79</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: XR-based personalized active aid for color deficient observers</article-title>
+				<article-title>Contributed Session II: Neural correlates of serial processing during divided attention across multipart objects</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Zaman</surname>
-						<given-names>Nasif</given-names>
+						<surname>Popovkina</surname>
+						<given-names>Dina V.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,60 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Tavakkoli</surname>
-						<given-names>Alireza</given-names>
+						<surname>Chang</surname>
+						<given-names>Kelly</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Suarez</surname>
+						<given-names>Lucas M.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Palmer</surname>
+						<given-names>John</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Moore</surname>
+						<given-names>Cathleen M.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Boynton</surname>
+						<given-names>Geoffrey M.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -55,19 +107,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of Nevada, Reno</institution>
+					<institution>Department of Psychology, University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Psychological and Brain Sciences, University of Iowa</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>79</fpage>
 						<lpage>79</lpage>
 			<permissions>
@@ -76,7 +134,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>In a previous study, Xu et al. (Optics Express, 2022) investigated the efficacy of active aid in the form of personalized image enhancement to increase color discrimination ability in color-deficient observers (CDO). The study parameterized severity of color deficiency, the wavelength shift of cone spectral fundamentals, and the spectral distribution of display primaries. The first parameter was derived by computing the confusion index of the CDO, employing a modified version of the FM-100 test (ZJU50Hue). The second parameter was determined via evaluation of a wavelength-shifted ZJU50Hue test on color-normal observers (CNO). The three parameters were used to model the gamut mapping between CNO and CDO. In this study, extended reality (XR) based modules were developed to acquire these parameters and consequently tailor the headset display to assist CDOs. We chose to implement the Cambridge color test over the ZJU50Hue test as threshold results along the protan, deutan, and tritan lines are more informative than a single confusion index. Preliminary results on a calibrated Varjo XR-3 headset suggest a high correlation between the standard CCT and our XR-based trivector test. As the calibration, simulation and modeling processes all take place in the same HMD, we intend to model the CNO-CDO gamut mapping into a post-process graphics shader to enhance the camera input of the XR-3 and perform a paper-based Ishihara test for evaluation of real-world color discrimination efficacy.</p>
+				<p>Judgments of multiple simultaneously presented stimuli produce a variety of divided attention effects. For example, participants can detect colors in two locations as well as in one, but can recognize only one masked word at a time (White, Palmer, &amp Boynton, Psych Science 2018). Here, we ask whether judging objects with interchangeable parts, similar to letters in words, also produces performance deficits consistent with serial processing, and which brain areas subserve this process. In a probe recognition task, participants discriminated abstract objects made of Duplo™ parts. On each trial, two objects were presented, with either one or both objects cued as relevant (single- and dual-task conditions, respectively). The distractor probes were made of the same parts in a different order. The difference in performance between the single- and dual-task conditions was 17±1% (n=13), consistent with the prediction of a serial model and rejecting the fixed-capacity parallel model. This result suggests that there is a visual brain area where information can be processed about only one object at a time. Currently, we are using fMRI to examine activity in object-selective regions of the human lateral occipital cortex. To seek evidence of serial processing, we are assessing how stimulus-related modulation is mediated by selective attention; the area of interest should show a modulation for only the attended stimulus location.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -84,7 +142,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: FA9550-21-1-0207</p>
+				<p>Funding: Funding: This work was supported in part by grants from the National Eye Institute (F32 EY030320 to D.V.P. and EY12925 to G.M.B. and J.P.). </p>
 			</fn>
 		</fn-group>
 

@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.17</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.17</article-id>
 			<article-id pub-id-type="manuscript">Talks_17</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session III: Diversity in chromatic processing across the animal kingdom</subject>
+					<subject>Invited Session IV: Extended reality--applications in vision science and beyond</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session III: Diversity in chromatic processing across the animal kingdom: Hue selectivity from recurrent circuitry in Drosophila</article-title>
+				<article-title>Invited Session IV: Extended reality--applications in vision science and beyond: Using a driving simulator to evaluate the effects of vision impairment and assistive technology</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Behnia</surname>
-						<given-names>Rudy</given-names>
+						<surname>Bowers</surname>
+						<given-names>Alex</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -42,19 +42,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Neuroscience, Columbia University, Zuckerman Institute</institution>
+					<institution>Schepens Eye Research Institute of Mass Eye and Ear, Harvard Medical School</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>17</fpage>
 						<lpage>17</lpage>
 			<permissions>
@@ -63,7 +63,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>To perceive color, our brains must transform the wavelengths of light reflected off objects into the derived quantities of brightness, saturation and hue. Neurons responding selectively to hue have been reported in primate cortex, but it is unknown how their narrow tuning in color space is produced by upstream circuit mechanisms. To enable circuit level analysis of color perception, we here report the discovery of neurons in the Drosophila optic lobe with hue selective properties. Using the connectivity graph of the fly brain, we construct a connectomics-constrained circuit model that accounts for this hue selectivity. Unexpectedly, our model predicts that recurrent connections in the circuit are critical for hue selectivity. Experiments using genetic manipulations to perturb recurrence in adult flies confirms this prediction. Our findings reveal the circuit basis for hue selectivity in color vision.</p>
+				<p>Detection of potential hazards is critical to safe driving but is very difficult to evaluate in real-world driving situations because there is no control over if, when or where hazards might appear. Moreover, gaze tracking can be challenging in the varying environmental conditions of real-world driving.  In contrast, driving simulators provide a safe, controlled, repeatable environment in which to study the effects of vision impairment and assistive technologies. Scenarios can be designed to probe specific aspects of the vision loss and can include situations that would be dangerous in the real world. This talk will summarize how we have used driving simulators to evaluate gaze behaviors and driving responses to potential hazards at mid-block locations and at intersections (including gaze tracking across a 180-degree field of view) for drivers with different kinds of visual field loss and for a variety of assistive devices, including optical devices (peripheral prism glasses and bioptic telescopes) and prototype vibro-tactile hazard warning systems. Using linked pedestrian and driving simulators we have attempted to create more realistic pedestrian hazard scenarios and have evaluated the effects of vision impairment on interactions between drivers and human-controlled, interactive pedestrians within the virtual environment.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +71,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: NIH grant R01 EY025677</p>
 			</fn>
 		</fn-group>
 

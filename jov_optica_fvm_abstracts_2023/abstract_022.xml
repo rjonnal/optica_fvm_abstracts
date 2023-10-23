@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.22</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.22</article-id>
 			<article-id pub-id-type="manuscript">Talks_22</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session II</subject>
+					<subject>Invited Session V: Binocular vision and interactions</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session II: The relationship between temporal summation at detection threshold and fixational eye movements</article-title>
+				<article-title>Invited Session V: Binocular vision and interactions: Harnessing interactions within binocular vision to treat amblyopia</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Hexley</surname>
-						<given-names>Allie C.</given-names>
+						<surname>Backus</surname>
+						<given-names>Benjamin</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,11 +40,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Young</surname>
-						<given-names>Laura K.</given-names>
+						<surname>Blaha</surname>
+						<given-names>James</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -53,11 +53,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Brainard</surname>
-						<given-names>David H.</given-names>
+						<surname>Gupta</surname>
+						<given-names>Manish</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -66,11 +66,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Roorda</surname>
-						<given-names>Austin</given-names>
+						<surname>Tran</surname>
+						<given-names>Tuan</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -79,21 +79,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Tuten</surname>
-						<given-names>William S.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Smithson</surname>
-						<given-names>Hannah E.</given-names>
+						<surname>Dornbos</surname>
+						<given-names>Brian</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -107,37 +94,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Experimental Psychology, University of Oxford</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Biosciences Institute, Newcastle University</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>Department of Psychology, University of Pennsylvania</institution>
-				</aff>
-
-
-				<aff id="aff4">
-					<label><sup>4</sup></label>
-					<institution>Department of Optometry, University of California, Berkeley</institution>
+					<institution>Vivid Vision Inc</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>22</fpage>
 						<lpage>22</lpage>
 			<permissions>
@@ -146,7 +115,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>We studied the relationship between the threshold temporal summation of increment pulses and fixational eye-movements. Six participants completed a 2AFC increment detection task. Stimuli were 0.16 x 2.2 arcmin increments of 543 nm light presented via an AOSLO with a 60 Hz frame rate. Stimuli for temporal integration were two single frame presentations with a 16 ms (consecutive frames), 33 ms, 100 ms, or 300 ms inter-stimulus interval (ISI). Data were also collected for increments presented on a single frame. Stimuli were presented in either world-fixed coordinates (natural retinal image motion) or were stabilised on the retina. There were large differences in overall sensitivity across individuals, but the time-course of performance change with ISI was similar across participants. Thresholds for ISI=33 ms were close to performance with two consecutive frames, suggesting complete summation of light energy; whereas thresholds for ISI=300 ms were closer to the single-frame case, suggesting limited summation; and thresholds for ISI=100 ms were intermediate, suggesting residual summation. The effect of ISI on threshold was similar for stabilised stimuli and natural viewing, but there was a small trend towards lower thresholds for stabilised stimuli at short ISI and vice-versa at long ISI. We plan to present our results in the context of an ideal observer calculation that may clarify how the initial visual encoding, including temporal summation within cones, shapes performance.</p>
+				<p>Inexpensive virtual reality (VR) headsets have enabled at-home therapy for binocular dysfunctions, including amblyopia. Healthy binocular vision is exquisite, which is achieved though interactions among various visual subsystems. As a result, however, binocular vision has multiple points of weakness, so development can go wrong in many different ways. Furthermore, the visual system has many ways it can adapt to dysfunctions to improve vision. It is therefore not surprising that amblyopias are idiosyncratic from one person to the next. Habitual interocular suppression is a typical adaption in amblyopia, and by treating suppression in VR, acuity can be improved by 0.1 to 0.2 logMAR. However, the amblyopic visual system shows complicated patterns of interaction between suppression, acuity, stereopsis, motor vergence, accommodation, and motion perception; and each of those subsystems is itself complex. Thus, to improve acuity and stereopsis in amblyopia, a multifaceted approach would seem more promising. In a VR headset, one can addresses suppression, stereopsis, vergence ability, and even accommodation, simultaneously. I will describe Vivid Vision’s approach to this problem, along with preliminary results from independent researchers.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -154,7 +123,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: UKRI/Wellcome Physics of Life; EP/W023873/1; National Institutes of Health R01EY023591; AFOSR FA9550-21-1-0230; Hellman Fellows Program; </p>
+				<p>Funding: Funding: None</p>
 			</fn>
 		</fn-group>
 

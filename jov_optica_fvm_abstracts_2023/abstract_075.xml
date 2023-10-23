@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.75</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.75</article-id>
 			<article-id pub-id-type="manuscript">Talks_75</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Image features involved in translucency enhancement by chromaticity information</article-title>
+				<article-title>Contributed Session II: The relationship between temporal summation at detection threshold and fixational eye movements</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Takanashi</surname>
-						<given-names>Mizuki</given-names>
+						<surname>Hexley</surname>
+						<given-names>Allie C.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,60 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Nagai</surname>
-						<given-names>Takehiro </given-names>
+						<surname>Young</surname>
+						<given-names>Laura K.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Brainard</surname>
+						<given-names>David H.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Roorda</surname>
+						<given-names>Austin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tuten</surname>
+						<given-names>William S.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Smithson</surname>
+						<given-names>Hannah E.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -55,19 +107,37 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Information and Communications Engineering, Tokyo Institute of Technology</institution>
+					<institution>Department of Experimental Psychology, University of Oxford</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Biosciences Institute, Newcastle University</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Department of Psychology, University of Pennsylvania</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Department of Optometry, University of California, Berkeley</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>75</fpage>
 						<lpage>75</lpage>
 			<permissions>
@@ -76,7 +146,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Previous studies have reported that chromaticity information in object images enhances perceived translucency. The aim of this study, was to elucidate how color forms image features that contribute to translucency in psychophysical experiments. The stimuli were computer-graphics images of translucent objects with different spectral scattering coefficients (i.e., hues) and various optical and geometrical parameters. Achromatic images with the same luminance as the chromatic images were also created. Perceived translucency was measured using Thurston’s pairwise comparison, and the effect of chromaticity or translucency was evaluated by comparing translucency in achromatic and chromatic images. The results showed higher perceived translucency for the chromatic object images than the achromatic ones. Subsequently, we analyzed how different image features correlate with the effects of color on translucency using multiple regression analysis. The result indicated that the luminance- chromaticity correlation, which has been proposed as a potential cue for translucency could hardly explain the color effects. Rather, we found that the change in brightness contrast in the diffuse components modulated by the Helmholtz–Kohlrausch (H-K) effect was strongly and negatively correlated with the color effects. These results suggest that some image features, which covary with brightness contrast brightness contrast, contribute to the color effects on translucency.</p>
+				<p>We studied the relationship between the threshold temporal summation of increment pulses and fixational eye-movements. Six participants completed a 2AFC increment detection task. Stimuli were 0.16 x 2.2 arcmin increments of 543 nm light presented via an AOSLO with a 60 Hz frame rate. Stimuli for temporal integration were two single frame presentations with a 16 ms (consecutive frames), 33 ms, 100 ms, or 300 ms inter-stimulus interval (ISI). Data were also collected for increments presented on a single frame. Stimuli were presented in either world-fixed coordinates (natural retinal image motion) or were stabilised on the retina. There were large differences in overall sensitivity across individuals, but the time-course of performance change with ISI was similar across participants. Thresholds for ISI=33 ms were close to performance with two consecutive frames, suggesting complete summation of light energy; whereas thresholds for ISI=300 ms were closer to the single-frame case, suggesting limited summation; and thresholds for ISI=100 ms were intermediate, suggesting residual summation. The effect of ISI on threshold was similar for stabilised stimuli and natural viewing, but there was a small trend towards lower thresholds for stabilised stimuli at short ISI and vice-versa at long ISI. We plan to present our results in the context of an ideal observer calculation that may clarify how the initial visual encoding, including temporal summation within cones, shapes performance.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -84,7 +154,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: UKRI/Wellcome Physics of Life; EP/W023873/1; National Institutes of Health R01EY023591; AFOSR FA9550-21-1-0230; Hellman Fellows Program; </p>
 			</fn>
 		</fn-group>
 

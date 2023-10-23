@@ -13,27 +13,37 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.81</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.81</article-id>
 			<article-id pub-id-type="manuscript">Talks_81</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session III</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Investigating photoreceptor function in disease-affected retinas using optoretinography</article-title>
+				<article-title>Contributed Session III: AAV-mediated gene therapy for PDE6C achromatopsia: Progress and challenges</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Maddipatla</surname>
-						<given-names>Reddikumar</given-names>
+						<surname>Moshiri</surname>
+						<given-names>Ala</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Issa</surname>
+						<given-names>Tawfik</given-names>
+					</name>
+                                        
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
@@ -43,39 +53,10 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Langlo</surname>
-						<given-names>Christopher </given-names>
+						<surname>Rogers</surname>
+						<given-names>Jeffrey</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Vienola</surname>
-						<given-names>Kari </given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Bartuzel</surname>
-						<given-names>Maciej </given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
@@ -85,17 +66,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Pijewska</surname>
-						<given-names>Ewelina </given-names>
+						<surname>Chen</surname>
+						<given-names>Rui</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
-
-
-					<xref ref-type="aff" rid="aff6"><sup>6</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -104,11 +79,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Zawadzki</surname>
-						<given-names>Robert </given-names>
+						<surname>Thomasy</surname>
+						<given-names>Sara</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff7"><sup>7</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -117,11 +92,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Jonnal</surname>
-						<given-names>Ravi </given-names>
+						<surname>Stout</surname>
+						<given-names>Tim</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -132,55 +107,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA</institution>
+					<institution>UC Davis</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA.</institution>
-				</aff>
-
-
-				<aff id="aff4">
-					<label><sup>4</sup></label>
-					<institution>Institute of Biomedicine, University of Turku, Fi-20014 Turun, Yliopistoy, Finland.</institution>
-				</aff>
-
-
-				<aff id="aff5">
-					<label><sup>5</sup></label>
-					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA</institution>
-				</aff>
-
-
-				<aff id="aff6">
-					<label><sup>6</sup></label>
-					<institution>Faculty of Physics, Astronomy, and Informatics, Nicolaus Copernicus University in Torun, Grudziądzka 5, 87-100 Torun, Poland.</institution>
-				</aff>
-
-
-				<aff id="aff7">
-					<label><sup>7</sup></label>
-					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA. EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
+					<institution>Baylor College of Medicine</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>81</fpage>
 						<lpage>81</lpage>
 			<permissions>
@@ -189,7 +134,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Assessing the functional response of photoreceptors is vital in understanding retinal disease progression. Traditional subjective methods like visual acuity and visual fields, and objective ones like electroretinography, have limitations. An ideal complement to these techniques is optoretinography (ORG), which images the retina and tests its function at once. ORG utilizes the phase of the optical coherence tomography (OCT) signal to quantify nanometer-scale changes, measuring subtle photoreceptor responses to stimuli. Efforts to observe stimulus-evoked responses in human cone photoreceptors began with adaptive optics (AO) and common path interferometry, enabling the resolution and tracking of individual cells. Advances in OCT systems with cellular resolution through AO or digital aberration correction successfully measured ORG responses from single cones and rods. This method tracks phase differences between outer segment tips (COST or ROST) and the inner-outer segment junction (IS/OS) to assess individual cell responses. A novel velocity-based method recently demonstrated the feasibility of measuring ORG signals with clinical-grade OCT systems. In the present work, we implemented this technique on disease-affected human retinas, revealing lower magnitudes of response compared to healthy retinas, and highlighting its potential clinical applications.</p>
+				<p>Purpose: To determine the clinical circumstances under which viral mediated gene therapy can rescue cone function in a nonhuman primate model of PDE6C achromatopsia. Methods: Infant rhesus macaques homozygous for the PDE6C R565Q mutation were generated through a breeding program at the California National Primate Research Center. Homozygotes were treated in the right eye with adeno-associated virus (AAV5) carrying rhesus PDE6C under the control of the PR1.7 cone-specific promoter. The left eye was used as a control. Animals were tested by full-field and multifocal electroretinography. A total of 7 animals have been treated. Results: The virus was found to be safe, but with variable inflammatory response. There were no obvious alterations in retinal lamination in treated eyes. The virus was expressed specifically in cone photoreceptors. Pre- and post-treatment systemic steroids led to minimal to moderate inflammatory response. In general, the gene therapy partially restored the cone responses on ERG within one month of injection in infants, but not in the older animals. If restored, the rescued cone responses were sustained and durable for over a year. Chromatic ERG testing showed restoration of amplitudes in all three cone subtypes. Conclusions: AAV-mediated gene therapy partially restored cone function and was relatively durable. Inflammation and age of administration may be important to outcomes. Similar approaches in human patients may warrant investigation.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -197,7 +142,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: National Institutes of Health (R01-EY-033532, R01-EY-031098, R01-EY-026556, P30-EY-183 012576)</p>
+				<p>Funding: Funding: NIH NEI U24 EY029904</p>
 			</fn>
 		</fn-group>
 

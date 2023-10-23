@@ -13,67 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.58</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.58</article-id>
 			<article-id pub-id-type="manuscript">Talks_58</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: LissEYEjous Tracker - precise fundus tracking device based on ultrafast Lissajous scanning</article-title>
+				<article-title>Poster Session II: Variation of cone spectral composition in the macula</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Bartuzel</surname>
-						<given-names>Maciej Marcin</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Pijewska</surname>
-						<given-names>Ewelina</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Dalasinski</surname>
-						<given-names>Krysztof</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Tamborski</surname>
-						<given-names>Szymon</given-names>
+						<surname>Pandiyan</surname>
+						<given-names>Vimal Prabhu</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -85,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Jonnal</surname>
-						<given-names>Ravi S</given-names>
+						<surname>Schleufer</surname>
+						<given-names>Sierra</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -98,14 +53,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Zawadzki</surname>
-						<given-names>Robert J</given-names>
+						<surname>Bharadwaj</surname>
+						<given-names>Palash</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
 
 
 				</contrib>
@@ -114,11 +66,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Szkulmowski</surname>
-						<given-names>Maciej</given-names>
+						<surname>Sabesan</surname>
+						<given-names>Ramkumar</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -129,43 +81,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Torun, Poland</institution>
+					<institution>Department of Ophthalmology, University of Washington</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
-				</aff>
-
-
-				<aff id="aff4">
-					<label><sup>4</sup></label>
-					<institution>Inoko Vision Ltd., Mickiewicza 7/17, 87-100 Torun, Poland</institution>
-				</aff>
-
-
-				<aff id="aff5">
-					<label><sup>5</sup></label>
-					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA</institution>
+					<institution>Department of Ophthalmology, University of Washington, Seattle.</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>58</fpage>
 						<lpage>58</lpage>
 			<permissions>
@@ -174,7 +108,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Retinal eye tracking has emerged as a promising alternative to conventional video-based trackers, offering direct access to retinal coordinates with refined spatial and temporal resolutions. These attributes make them attractive for applications ranging from image stabilization in advanced ophthalmic imaging to identifying biomarkers of neurological or ophthalmic disorders that affect eye motility. Existing retinal tracking method however face challenges related to reliance on reference frames and non-uniform sampling either in space or time. In this work we present a new approach for retinal tracking, which is based on imaging small retinal patches (~1.5—3°) using self-repeating Lissajous scanning patterns. Pattern repetition rates close to 4kHz are achieved with an optical design that employs two MEMS microscanners with closely matching resonant frequencies, working in mutually perpendicular dimensions. Several examples of fundus images acquired with different Lissajous patterns are presented. Based on this, eye trajectories may be extracted. Future works will further investigate tracking resolution and dependence on Lissajous pattern spatial density and repetition rate.</p>
+				<p>Cone spectral composition is central to the study of color vision and retinal development. There is a lack of information on the spatial distribution of L and M-cones in the macula given that there are no histological methods to separate them. To overcome this gap, cones were spectrally classified using adaptive optics OCT-based optoretinography in human subjects and their variation was described in the macula.  To date, we have classified ~130000 total cones in 9 subjects across 79 regions of interest (ROI), with a maximum of 16 retinal eccentricities per subject spread along the 4 cardinal meridians.  In 2 two subjects, the variation in cone spectral topography in both eyes was compared. The L: M cone ratio decreased in the foveal slope (0.4°- 1°) but remained relatively uniform in the parafovea from 1.5°- 10° eccentricity. The % S-cones and S-cone density were consistent with prior histology (Curcio et al. 1991). No significant differences were observed in the fellow eyes of the same subject or the distribution of cone types across the 4 cardinal meridians. Decreased L: M cone ratio in the foveal slope suggests earlier differentiation of M-cones than L-cones. The stable L: M  cone ratio in the parafovea suggests that the greater fall off in chromatic versus achromatic vision with eccentricity is not explained by cone spectral composition, but is rather attributed to pooling in downstream neurons. </p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -182,7 +116,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: National Science Centre, Poland (2023/48/C/ST7/00164); National   Institutes   of   Health   (R01-EY-033532,   R01-EY-031098,   R01-EY-026556, P30-EY-183 012576)</p>
+				<p>Funding: Funding: NIH grants U01EY032055, EY029710, P30EY001730, Burroughs Wellcome Fund Careers at the Scientific Interfaces, DOD Air Force Office of Scientific Research FA9550-21-1-0230, Unrestricted grant from Research to Prevent Blindness</p>
 			</fn>
 		</fn-group>
 

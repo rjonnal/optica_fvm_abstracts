@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.18</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.18</article-id>
 			<article-id pub-id-type="manuscript">Talks_18</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session III: Diversity in chromatic processing across the animal kingdom</subject>
+					<subject>Invited Session IV: Extended reality--applications in vision science and beyond</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session III: Diversity in chromatic processing across the animal kingdom: Color vision in stomatopod crustaceans</article-title>
+				<article-title>Invited Session IV: Extended reality--applications in vision science and beyond: Augmented reality systems for people with low vision</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Cronin</surname>
-						<given-names>Tom</given-names>
+						<surname>Zhao</surname>
+						<given-names>Yuhang</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -42,19 +42,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of Maryland Baltimore County</institution>
+					<institution>Department of Computer Sciences, University of Wisconsin-Madison</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>18</fpage>
 						<lpage>18</lpage>
 			<permissions>
@@ -63,7 +63,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Stomatopod crustaceans, commonly known as mantis shrimp, have perhaps the most unusual color-vision systems of any animals.  The uniqueness is possible because stomatopods have compound eyes.  Here, each unit, or ommatidium, acts as an independent visual detector, with its own corneal lens, internal optics, and set of photoreceptors.  Ommatidia tuned to different wavelengths can be individually placed in the eye to build unusual color systems.  In mantis shrimps, the receptors responsible for color vision are limited to six parallel rows of ommatidia that together form an equatorial belt, called the midband.  Various receptors in these ommatidia are tuned to eight narrow-band spectral channels in the visible spectrum plus up to four additional ultraviolet channels.  Thus, there is a total of twelve different color receptors for color vision.  How these color channels are analyzed in the complex set of optic lobes existing behind the retina is only partly understood.  It appears that stomatopods use both opponent and labelled-line color channels.  Oddly, these animals appear to have limited ability to discriminate between spectral lights, but they have outstanding color constancy.  Color vision, and color processing, in stomatopods is probably unlike that of any other animal group.</p>
+				<p>Low vision is a visual impairment that falls short of blindness but cannot be corrected by eyeglasses or contact lenses. While current low vision aids (e.g., magnifier, CCTV) support basic vision enhancements, such as magnification and contrast enhancement, these enhancements often arbitrarily alter a user&#39;s full field of view without considering the user&#39;s context, such as their visual abilities, tasks, and environmental factors. As a result, these low vision aids are not sufficient or preferred by low vision users in many important tasks. Augmented reality (AR) technology presents a unique opportunity to enhance low vision people’s visual experience by automatically recognizing the surrounding environment and presenting tailored visual augmentations. In this talk, I will talk about how we design and build intelligent AR systems to support low vision people in visual tasks, such as a head-mounted AR system that presents visual cues to orient users’ attention in a visual search task, as well as a projection-based AR system that projects visual highlights on the stair edges to support safe stair navigation. I will conclude my talk by discussing our future research direction on AR for low vision accessibility.</p>
 			</abstract>
 		</article-meta>
 	</front>

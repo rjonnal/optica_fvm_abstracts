@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.51</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.51</article-id>
 			<article-id pub-id-type="manuscript">Talks_51</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Measuring luminance CSFs from the fovea to far peripheries</article-title>
+				<article-title>Poster Session II: Light-adaptation clamp: A tool to predictably manipulate photoreceptor light responses</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Kitakami</surname>
-						<given-names>Kotaro</given-names>
+						<surname>Chen</surname>
+						<given-names>Qiang</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Saito</surname>
-						<given-names>Suguru</given-names>
+						<surname>Ingram</surname>
+						<given-names>Norianne T.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -53,11 +53,50 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Uchikawa</surname>
-						<given-names>Keiji</given-names>
+						<surname>Baudin</surname>
+						<given-names>Jacob</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Angueyra</surname>
+						<given-names>Juan M.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sinha</surname>
+						<given-names>Raunak</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rieke</surname>
+						<given-names>Fred</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -68,25 +107,31 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Tokyo Institute of Technology</institution>
+					<institution>University of Washington</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Kanagawa Institute of Technology</institution>
+					<institution>University of Maryland, College Park</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>University of Wisconsin,  Madison</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>51</fpage>
 						<lpage>51</lpage>
 			<permissions>
@@ -95,7 +140,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>We measured luminance contrast thresholds for three subjects in the visual field of the left eye up to 56, 49, 84, and 63 degrees in nasal, superior, temporal, and inferior directions, respectively. The stimulus was a cosine-Gabor of 10 deg diameter. The stimulus size was constant for all eccentricities. The average luminance of the background was 31cd/m2. The stimulus duration was 0.5sec with 0.5sec increasing and decreasing temporal slopes. The thresholds were measured with the psi procedure of two temporal alternative forced choice. The results showed that although at small eccentricities no significant differences in thresholds were found among directions, the differences were prominent at large eccentricities beyond 40 degrees in all frequencies. Most previous peripheral CSFs were based on data measured within certain ranges of eccentricity, and extrapolated outside these ranges. We optimized the parameters of the previous CSFs using the present results within these limited ranges, and confirmed that the previous CSFs fitted the present results. Then, we applied the present results in all eccentricities to the previous CSFs. It was found that the previous CSFs tended to be higher than the present results beyond 60 degrees in temporal and beyond 40 degrees in other directions in all frequencies. This would indicate that the previous CSFs at large eccentricities were not correctly inferred by extrapolation using data measured at small eccentricities.</p>
+				<p>Computation in neural circuits relies on judicious use of nonlinear circuit components. In many cases, multiple nonlinear components work collectively to control circuit outputs. Separating the contributions of these different components is difficult, and this hampers our understanding of the mechanistic basis of many important computations. Here, we introduce a tool that permits the design of light stimuli that predictably alter rod and cone phototransduction currents - including the compensation for nonlinear properties such as light adaptation. This tool, based on well-established models for the rod and cone phototransduction cascade, permits the separation of nonlinearities in phototransduction from those in downstream circuits. This will allow, for example, direct tests of the role of photoreceptor adaptation in downstream visual signals or in perception.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -103,7 +148,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: JSPS KAKENHI Grant Number JP18H03247</p>
+				<p>Funding: Funding: NIH grant EY028542</p>
 			</fn>
 		</fn-group>
 

@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.9</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.9</article-id>
 			<article-id pub-id-type="manuscript">Talks_9</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session I</subject>
+					<subject>Invited Session II: Retinal remodeling and regeneration</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session I: Inner limiting membrane peel extends vivo calcium imaging of ganglion cells (RGC) beyond the fovea in non-human primate</article-title>
+				<article-title>Invited Session II: Retinal remodeling and regeneration: Developing autologous iPSC-RPE therapy for the treatment of AMD patients</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Baez</surname>
-						<given-names>Hector</given-names>
+						<surname>Sharma</surname>
+						<given-names>Ruchi</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,99 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Jennifer</surname>
-						<given-names>Laporta</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Amber</surname>
-						<given-names>Walker</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>William</surname>
-						<given-names>Fischer</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Rachel</surname>
-						<given-names>Hollar</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Sara</surname>
-						<given-names>Patterson</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>David</surname>
-						<given-names>DiLoreto</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Vamsi</surname>
-						<given-names>Gullapalli</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Juliette</surname>
-						<given-names>McGregor</given-names>
+						<surname>Bharti</surname>
+						<given-names>Kapil</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -146,25 +55,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Center for Visual Science, University of Rochester</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Department of Ophthalmology, University of Rochester Medical Center</institution>
+					<institution>National Eye Institute, Bethesda, Maryland</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>9</fpage>
 						<lpage>9</lpage>
 			<permissions>
@@ -173,7 +76,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Viral expression of the calcium indicator GCaMP in primate RGCs has enabled optical readout of retinal function at a cellular scale in vivo.  To date, functional recording has been limited to transduced RGCs close to the foveal pit.  In this study we evaluate ILM peel as a strategy to expand the area of transduced RGCs and allow functional recording beyond the fovea in the living eye. 4 eyes of 3 immunosuppressed macaca fascicularis received a 9-12° ILM peel centered on the fovea, followed by intravitreal injection of GCaMP8s 4-8 weeks post-peel. A 660nm flickering visual stimulus drove RGC GCaMP responses which were recorded with fluorescence adaptive optics scanning laser ophthalmoscopy. In all eyes GCaMP was expressed throughout the peeled area, representing a mean 8-fold enlargement in the area of expression relative to a control eye with no peel.  Functional responses were obtained from RGCs at max eccentricities of 11.7 o, 8.0 o, 9.7 o, and 13.7 o and could be classified as ON or OFF types up to the edge of the peel. Mean RGC responses in ILM peeled and control eyes of the same animal were comparable at 3.5 o and longitudinal tracking of individual RGCs showed stable responses up to 6 months post-peel. ILM peel substantially expands the region of primate retina accessible for in vivo GCaMP beyond the foveal ring of RGCs. This presents new opportunities for physiological study of the retina and pre-clinical testing of novel therapies in retinal degeneration models.</p>
+				<p>Age-related macular degeneration (AMD) is one the leading causes of vision loss in older people in the Western world. The disease is caused by degeneration of the retinal pigment epithelium (RPE) monolayer that supports photoreceptors. We used induced pluripotent stem cells (iPSC) to develop an autologous cell replacement therapy for treating dry AMD patients. Patients&#39; blood cells were reprogrammed into iPSCs and differentiated iPSCs into RPE cells using a protocol developed in our lab. RPE cells were matured on a biodegradable polylactic co-glycolic acid (PLGA) scaffold for five weeks. Quality control assays confirmed the iPSC-RPE patch&#39;s purity, maturity, and functionality. Pre-clinical studies in rats and pigs demonstrated the safety and efficacy of iPSC-RPE-patch. Immune-compromised rats transplanted with a 0.5 mm iPSC-RPE patch showed no signs of tumor formation after nine months, confirming the safety profile. We laser-injured the RPE monolayer in the visual streak of pig eyes and, after 48 hours, transplanted the patch. Optical coherence tomography (OCT) confirmed the integration of the patch. A multi-focal electroretinogram (ERG) showed that the retinal layers&#39; electric response was much higher than the lasered area without the implant. We started a phase I/IIa trial for an autologous iPSC-RPE patch to treat AMD. This ongoing trial will test the safety, feasibility, and integration of the iPSC-RPE patch in 12 AMD patients.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -181,7 +84,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: Research reported in this publication was supported by the National Eye Institute of the National Institutes of Health under Audacious Goals Initiative funding Award No. York U24 EY033275 Accelerating photoreceptor replacement therapy with in-vivo cellular imaging of retinal function in primate, P30 EY001319 (core) and F32 EY032318 Foveal ganglion cell function in the living eye. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Inst. of Health. This study was supported by an Unrestricted Grant to the University of Rochester Department of Ophthalmology from Research to Prevent Blindness.</p>
+				<p>Funding: Funding: None</p>
 			</fn>
 		</fn-group>
 

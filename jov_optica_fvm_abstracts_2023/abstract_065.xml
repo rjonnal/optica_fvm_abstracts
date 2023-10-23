@@ -13,7 +13,7 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.65</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.65</article-id>
 			<article-id pub-id-type="manuscript">Talks_65</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
@@ -21,69 +21,17 @@
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Alternating orientation of the chromatic pattern VEP improves signal even in the absence of contrast adaptation</article-title>
+				<article-title>Poster Session II: Development of transparency in the human lens cells</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Ara</surname>
-						<given-names>Jawshan</given-names>
+						<surname>Clark</surname>
+						<given-names>John</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Kavcar</surname>
-						<given-names>Osman</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Wise</surname>
-						<given-names>Mackenzie V.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Tavakkoli</surname>
-						<given-names>Alireza</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Crognale</surname>
-						<given-names>Michael A. </given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
 
 
 				</contrib>
@@ -94,43 +42,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Integrative Neuroscience Program, University of Nevada Reno, Nevada, 89557, USA, Department of Psychology, University of Nevada Reno, Nevada, 89557, USA, and, Department of Computer Science, University of Nevada Reno, Nevada, 89557, USA</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Integrative Neuroscience Program, University of Nevada Reno, Nevada, 89557, USA, and, Department of Psychology, University of Nevada Reno, Nevada, 89557, USA</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>Department of Psychology, University of Nevada Reno, Nevada, 89557, USA</institution>
-				</aff>
-
-
-				<aff id="aff4">
-					<label><sup>4</sup></label>
-					<institution>Department of Computer Science, University of Nevada Reno, Nevada, 89557, USA, and Integrative Neuroscience Program, University of Nevada Reno, Nevada, 89557, USA</institution>
-				</aff>
-
-
-				<aff id="aff5">
-					<label><sup>5</sup></label>
-					<institution>Department of Psychology, University of Nevada Reno, Nevada, 89557, USA, and, Integrative Neuroscience Program, University of Nevada Reno, Nevada, 89557, USA</institution>
+					<institution>University of Washington</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>65</fpage>
 						<lpage>65</lpage>
 			<permissions>
@@ -139,7 +63,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>The visual evoked potential (VEP) to chromatic pattern reversal is greatly reduced compared to VEPs to pattern onsets. Chromatic pattern onsets produce large and stereotypical waveforms that reliably differ from standard achromatic pattern reversal VEP waveforms used in clinical applications. Rapid contrast adaptation for sustained chromatic but not transient achromatic mechanisms has been suggested as one explanation for these observations. Here we first examined changes in the magnitude of response during recordings to reversing and onset grating patterns that preferentially modulate the L-M, S, and achromatic pathways. Given the evidence for both chromatic and achromatic orientation-selective mechanisms, we then hypothesized that contrast adaptation may be reduced by changing the orientation of the pattern for each reversal or onset. VEPs were recorded for 60 s with 2 onsets/reversals per second using both fixed and alternating (horizontal/vertical) orientations. FFT amplitudes for 6-second windows did not reveal evidence of adaptation for chromatic or achromatic onsets or reversal patterns over the 60-second recording period. Despite this, alternating pattern orientation increased the signal for all chromatic but not achromatic conditions. Although alternating the orientation for reversals increased the signal, the onset responses were still larger, even for non-alternating orientations. Mechanisms other than contrast adaptation must be invoked to explain the results.</p>
+				<p> As the neural tube forms in the fifth week of human embryonic development, a few ectodermal cells adjacent to the neural plate in the trilaminar embryo, swell, thicken, and compress their intercellular space to form a minute lens placode.  At this early stage, the embryonic cells in the lens placode resemble neuroectoderm, enriched in cytoskeletal proteins, junctions, membrane channels, and stress response proteins. With continued differentiation, intracellular organelles disappear to decrease light scattering. The expression of high concentrations of crystallin proteins increase the index of refraction, “n”, for optimal optical function. In each cell, the condensed cytoplasmic proteins organize into the short-range order necessary for maximal transmission of light.  Actin, intermediate filaments and microtubules provide a scaffold for the organization of connexins, and aquaporin channels in the membranes supporting a unique microcirculation for the symmetric transport of fluid, ions, and nutrients to the layers of elongating, close-packed, hexagonal cells, the basis for this unique, biological, optical element. The entire optical system is stabilized by molecular and cellular mechanisms designed to protect optical function for a lifetime. Even with the specialized protective mechanisms in lens cells, loss of transparency in cataract formation is one of the most common effects of cellular aging accounting for over 50% of vision impairment worldwide</p>
 			</abstract>
 		</article-meta>
 	</front>

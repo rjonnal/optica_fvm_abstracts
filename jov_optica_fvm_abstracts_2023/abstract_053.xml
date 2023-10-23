@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.53</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.53</article-id>
 			<article-id pub-id-type="manuscript">Talks_53</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Leveraging AI to accelerate scientific discoveries</article-title>
+				<article-title>Poster Session II: Spillover effects of color discrimination training on color category boundaries and color appearance</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Oruc</surname>
-						<given-names>Ipek</given-names>
+						<surname>Horiuchi</surname>
+						<given-names>Suzuha</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,47 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Delavari</surname>
-						<given-names>Parsa</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Ozturan</surname>
-						<given-names>Gulcenur</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Yuan</surname>
-						<given-names>Lei</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Yilmaz</surname>
-						<given-names>Ozgur</given-names>
+						<surname>Nagai</surname>
+						<given-names>Takehiro</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -94,19 +55,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of British Columbia</institution>
+					<institution>Tokyo Institute of Technology</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>53</fpage>
 						<lpage>53</lpage>
 			<permissions>
@@ -115,7 +76,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>We introduce a structured approach that leverages AI to accelerate scientific discoveries. We showcase the efficacy of this technique via a proof-of-concept study identifying markers of sex in retinal images. Our methodology consists of four stages: In Phase 1, CNN development, we train a VGG model to recognize patient sex from retinal images. Phase 2, Inspiration, involves reviewing post-hoc interpretation tools&#39; visualizations to draw observations and formulate exploratory hypotheses regarding the CNN model&#39;s decision process. This yielded 14 testable hypotheses related to potential variances in vasculature and optic disc. In Phase 3, Exploration, we test these hypotheses on an independent dataset, of which nine demonstrated significant differences. In Phase 4, Verification, five out of nine these nine hypotheses are re-tested on a new dataset, verifying five of them: significantly greater length, more nodes and branches of retinal vasculature, a larger area covered by vessels in the superior temporal quadrant, and a darker peri-papillary region in male eyes. Finally, we conducted a psychophysical study and trained a group of ophthalmologists (N=26) to identify these new retinal features for sex classification. Their performance, initially on par with chance and a non-expert group (N=31), significantly improved post-training (p&lt;.001, d=2.63). These outcomes illustrate the potential of our methodology in leveraging AI applications for retinal biomarker discovery.</p>
+				<p>Perceptual learning refers to the increase in perceptual sensitivity that results from several days of training on a perceptual task. Although perceptual learning has been shown to be effective in a variety of perceptual tasks, few studies have examined perceptual learning in color perception. In this study, we investigated how color discrimination training at a base color affected various aspects of color perception for entire hues. The training consisted of five days of S color discrimination (300 trials/day) at either the negative or positive L-M base color, depending on the observer groups. Before and after the training, three types of color perception tests (color difference, unique hue, and color category boundary) were conducted for colors with various hues to examine the changes in color perception due to the training. The results showed that the color discrimination thresholds in the training decreased as expected with repeated trials. Interestingly, the training also affected the performance of the three types of tests; the perceived color difference around the training color tended to increase, and some of the unique hues and the color category boundaries shifted significantly toward the training color. These results suggest that only a few days of color discrimination training can spill over to the entire color space and induce distortion of the perceptual color space.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -123,7 +84,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NSERC Discovery, NSERC Accelerator.</p>
+				<p>Funding: Funding: JSPS KAKENHI 21KK0203</p>
 			</fn>
 		</fn-group>
 

@@ -13,100 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.16</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.16</article-id>
 			<article-id pub-id-type="manuscript">Talks_16</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session II: Retinal remodeling and regeneration</subject>
+					<subject>Invited Session IV: Extended reality--applications in vision science and beyond</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session II: Retinal remodeling and regeneration: Insights into retinal cell replacement: Optimising photoreceptor and RPE transplantation</article-title>
+				<article-title>Invited Session IV: Extended reality--applications in vision science and beyond: Recent developments in head-mounted eye tracking for the understanding of natural(istic) behavior</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Tessmer</surname>
-						<given-names>Karen</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Gasparini</surname>
-						<given-names>Sylvia Jane</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Hammer</surname>
-						<given-names>Juliane</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Adhikari</surname>
-						<given-names>Trishla</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Schmidtke</surname>
-						<given-names>Klara</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Knöbel</surname>
-						<given-names>Sebastian</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Ader</surname>
-						<given-names>Marius</given-names>
+						<surname>Diaz</surname>
+						<given-names>Gabriel J.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -120,25 +42,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Center for Regenerative Therapies, TUD Dresden University of Technology</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Miltenyi Biotec B.V. &amp Co. KG, Bergisch Gladbach</institution>
+					<institution>Rochester Institute of Technology</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>16</fpage>
 						<lpage>16</lpage>
 			<permissions>
@@ -147,7 +63,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Retinal degenerative diseases, such as age-related macular degeneration and inherited retinal degenerations, are characterized by the dysfunction and ultimately loss of photoreceptors and retinal pigment epithelium (RPE). Retinal cell replacement has emerged as a potential therapeutic strategy. This is enabled by the availability of desired donor cells  differentiated in large numbers from human embryonic or induced pluripotent stem cells. With many differentiation protocols around, detailed comparison of donor cell and host characteristics allowing improved transplantations outcomes are however still sparse. Here, I will present our work on a more detailed assessment of photoreceptor and RPE single cell suspension transplantations. Human photoreceptors incorporate extensively into a cone-degeneration mouse host, interact with host Müller glia and bipolar cells and polarize to form inner and outer segments as well as synapses. Importantly, increased donor-host interactions correlate with improved graft polarization and maturation, with donor cell age greatly influencing this process. Similarly, RPE transplantations into an acute RPE depletion mouse model showed that monolayer formation strongly depends on RPE differentiation times, with further improvement by enrichment of an RPE subpopulation by cell surface markers. Overall, our work highlights the need for careful selection of appropriate donor cells for structural integration into recipient tissue after transplantation.</p>
+				<p>The scientific investigation of eye movements in natural or simulated and “naturalistic” environments has historically been operating at the limit of what head-worn eye tracking technology is capable of. In this presentation, I will review efforts by myself and collaborators at RIT to push these limits, and to increase the scope of scientific inquiry into natural visual and motor behavior. This talk will end with a brief discussion of emerging methods, most of which are aimed at resolving long standing limitations to video-based eye tracking. Most notably, as a consequence of USB transfer limits and stringent power budgets, video based eye trackers are restricted to either a high spatial resolution of the eye image which improves the spatial accuracy of the final gaze estimate, or a high temporal sampling rate (i.e., a high number of eye frames per second), but not both.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -155,7 +71,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: DFG, BMBF, FFB</p>
+				<p>Funding: Funding: Meta Reality Labs and R15EY031090</p>
 			</fn>
 		</fn-group>
 

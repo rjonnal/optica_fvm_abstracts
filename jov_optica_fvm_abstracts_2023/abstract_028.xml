@@ -13,22 +13,35 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.28</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.28</article-id>
 			<article-id pub-id-type="manuscript">Talks_28</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session IV: Extended reality--applications in vision science and beyond</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session IV: Extended reality--applications in vision science and beyond: Recent developments in head-mounted eye tracking for the understanding of natural(istic) behavior</article-title>
+				<article-title>Poster Session I: Combining spatial and quantitative models to account for the relationship between luminance, context and brightness</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Diaz</surname>
-						<given-names>Gabriel J.</given-names>
+						<surname>Vincent</surname>
+						<given-names>Joris</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Maertens</surname>
+						<given-names>Marianne</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -42,19 +55,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Rochester Institute of Technology</institution>
+					<institution>Technische Universität Berlin</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>28</fpage>
 						<lpage>28</lpage>
 			<permissions>
@@ -63,7 +76,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>The scientific investigation of eye movements in natural or simulated and “naturalistic” environments has historically been operating at the limit of what head-worn eye tracking technology is capable of. In this presentation, I will review efforts by myself and collaborators at RIT to push these limits, and to increase the scope of scientific inquiry into natural visual and motor behavior. This talk will end with a brief discussion of emerging methods, most of which are aimed at resolving long standing limitations to video-based eye tracking. Most notably, as a consequence of USB transfer limits and stringent power budgets, video based eye trackers are restricted to either a high spatial resolution of the eye image which improves the spatial accuracy of the final gaze estimate, or a high temporal sampling rate (i.e., a high number of eye frames per second), but not both.</p>
+				<p>The apparent brightness of a target region is determined not only by its local luminance, but also by its surrounding context. This is well demonstrated by the many illusions where some surround context causes two physically identical targets to appear different in brightness (e.g. White&#39;s (1979) illusion). Here we use perceptual scales from Maximum Likelihood Conjoint Measurements to test the predictive power of computational brightness models as a function of surround context and local luminance. While the qualitative relationship between target brightness and surround context (i.e. direction of effect) is captured well by image-computable models of the spatial filtering type (e.g. Blakeslee and McCourt, 1997), these do not predict the quantitative aspects of that relationship (i.e. magnitude of effect). A different class of models (e.g. Whittle, 1992) makes quantitative predictions of brightness as a function of luminance, but requires labeling of target and background (i.e., is not image-computable), thus cannot by itself account for the spatial context. Hence we combine Whittle’s model with spatial mechanisms to account for both spatial context and local luminance. A combined model using multiscale spatial filtering and calculating brightness at every spatial scale is able to provide both a correct qualitative prediction of direction of effect, as well as a quantitative prediction of apparent brightness that can be tested against perceptual scales for different stimuli.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +84,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: Meta Reality Labs and R15EY031090</p>
+				<p>Funding: Funding: German Research Foundation DFG MA5127/5-1 to M. Maertens</p>
 			</fn>
 		</fn-group>
 

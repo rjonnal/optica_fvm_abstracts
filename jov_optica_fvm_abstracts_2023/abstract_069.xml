@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.69</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.69</article-id>
 			<article-id pub-id-type="manuscript">Talks_69</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Light-adaptation clamp: A tool to predictably manipulate photoreceptor light responses</article-title>
+				<article-title>Contributed Session I: Correlating cone structure and function in retinitis pigmentosa using coarse-scale optoretinography (CoORG)</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Chen</surname>
-						<given-names>Qiang</given-names>
+						<surname>Liu</surname>
+						<given-names>Teng</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Ingram</surname>
-						<given-names>Norianne T.</given-names>
+						<surname>Pandiyan</surname>
+						<given-names>Vimal Prabhu</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -53,8 +53,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Baudin</surname>
-						<given-names>Jacob</given-names>
+						<surname>Wendel</surname>
+						<given-names>Benjamin</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -66,10 +66,26 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Angueyra</surname>
-						<given-names>Juan M.</given-names>
+						<surname>Slezak</surname>
+						<given-names>Emily</given-names>
 					</name>
                                         
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mustafi</surname>
+						<given-names>Debarshi</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
@@ -79,11 +95,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Sinha</surname>
-						<given-names>Raunak</given-names>
+						<surname>Chao</surname>
+						<given-names>Jennifer</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -92,8 +108,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Rieke</surname>
-						<given-names>Fred</given-names>
+						<surname>Sabesan</surname>
+						<given-names>Ramkumar</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -107,31 +123,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of Washington</institution>
+					<institution>Department of Ophthalmology, University of Washington</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>University of Maryland, College Park</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>University of Wisconsin,  Madison</institution>
+					<institution>Seattle Children’s Hospital</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>69</fpage>
 						<lpage>69</lpage>
 			<permissions>
@@ -140,7 +150,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Computation in neural circuits relies on judicious use of nonlinear circuit components. In many cases, multiple nonlinear components work collectively to control circuit outputs. Separating the contributions of these different components is difficult, and this hampers our understanding of the mechanistic basis of many important computations. Here, we introduce a tool that permits the design of light stimuli that predictably alter rod and cone phototransduction currents - including the compensation for nonlinear properties such as light adaptation. This tool, based on well-established models for the rod and cone phototransduction cascade, permits the separation of nonlinearities in phototransduction from those in downstream circuits. This will allow, for example, direct tests of the role of photoreceptor adaptation in downstream visual signals or in perception.</p>
+				<p>Optoretinography (ORG) has the potential to serve as a powerful diagnostic biomarker, owing to its sensitive and objective localization of function and dysfunction. Majority of ORG implementations employ adaptive optics (AO) for imaging activity at a cellular scale. Coarse-scale Optoretinography (CoORG), an ORG paradigm without AO, offers rapid, extended-field recordings and wider applicability in patients with retinal disease, by compromising cellular resolution. This study investigates the feasibility of CoORG in assessing cone dysfunction in patients diagnosed with retinitis pigmentosa (RP). Five RP patients aged 26 – 60 were recruited, alongside age-similar controls. The stimulus for evoking cone activity had a photon density between 15.5x10e6 - 19.7x10e6 photons/μm2, and was centered at 532 ± 5nm. Eight imaging trials per bleach were performed, allowing for 1 min. between successive trials for dark adaptation. The total experimental time for each bleach was 10-20 mins.  In RP, cone function, estimated as the change in optical path length in the outer segment in response to a stimulus, was diminished and generally lower than normal controls. This deficit was observed in areas of seemingly normal outer retinal structure. Contrary to normals, no correlation was observed between outer segment length and cone function in RP. This highlights CoORG&#39;s potential for early, sensitive detection of retinal dysfunction prior to apparent structural degradation.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -148,7 +158,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NIH grant EY028542</p>
+				<p>Funding: Funding: NIH grants U01EY032055, EY029710, P30EY001730, Burroughs Wellcome Fund Careers at the Scientific Interfaces,  Foundation for Fighting Blindness, Unrestricted grant from the Research to Prevent Blindness</p>
 			</fn>
 		</fn-group>
 

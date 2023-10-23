@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.49</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.49</article-id>
 			<article-id pub-id-type="manuscript">Talks_49</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: How important is it to know your own limitations when making perceptual decisions?</article-title>
+				<article-title>Poster Session II: Color and luminance processing in V1 complex cells and artificial neural networks</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Geisler</surname>
-						<given-names>Wilson</given-names>
+						<surname>Bun</surname>
+						<given-names>Luke</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,11 +40,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Zhang</surname>
-						<given-names>Anqi</given-names>
+						<surname>Horwitz</surname>
+						<given-names>Gregory</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -55,19 +55,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of Texas at Austin</institution>
+					<institution>Department of Bioengineering, University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Physiology and Biophysics, University of Washington</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>49</fpage>
 						<lpage>49</lpage>
 			<permissions>
@@ -76,7 +82,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Many models of perceptual performance consist of two components: (1) a representation of the available sensory and memory information, and (2) a Bayes-optimal decision computation. If the model accurately predicts performance, then that finding is often interpreted as evidence for both components of the model. However, it is important and informative to also test heuristic decision rules. Here, we illustrate such analyses for the task of covert visual search, where a target can appear at one of n locations (or be absent) with some prior probability distribution (the “prior map”). The available sensory information can be represented by the signal-to-noise ratio at each retinal location (the “d’ map”) together with the prior map. It can be shown that the Bayes-optimal decision rule is to multiply the response at each location by the d’ at that location, add the log prior for that location, and then pick the location that has the maximum. For a wide range of d’ and prior maps we simulated performance for the optimal and various heuristic decision rules. As expected, varying the d’ and prior maps has a large effect on performance due to the variation in the available sensory information. However, a wide range of simple decision rules perform almost as well as the Bayes-optimal rule. In other words, in the covert search task, our decision processes can be idiosyncratic and almost completely ignorant of the d’ and prior maps and still perform optimally.</p>
+				<p>Object recognition by natural and artificial visual systems benefits from the identification of object boundaries. A useful cue for the detection of object boundaries is the superposition of luminance and color edges. To gain insight into the suitability of this cue for object recognition, we examined convolutional neural network (CNNs) models that had been trained to recognize objects in natural images. Because CNNs are only trained to do a single task, any properties they possess are likely useful for that task. We focused specifically on units in the second convolutional layer invariant to contrast polarity, a useful trait for object boundary detection. Some of these units were tuned for a nonlinear combination of color and luminance, which is broadly consistent with a role in object boundary detection. Others were tuned for luminance alone, but few were tuned for color alone. A literature review reveals that V1 complex cells have a similar distribution of tuning. We speculate that this pattern of sensitivity provides an efficient basis for object recognition, perhaps by mitigating the effects of lighting on luminance contrast polarity. The paucity of contrast polarity-invariant representation of chromaticity alone suggests that it is redundant with other representations. </p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -84,7 +90,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NIH grant EY11747</p>
+				<p>Funding: Funding: This work was supported by EY018849 grants to Gregory D Horwitz and EY07031 to Luke M Bun</p>
 			</fn>
 		</fn-group>
 

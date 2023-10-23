@@ -13,22 +13,64 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.68</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.68</article-id>
 			<article-id pub-id-type="manuscript">Talks_68</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: SSVEP measurements of color and spatial frequency response in V1</article-title>
+				<article-title>Contributed Session I: Human cone response models for optoretinography with FF-SS-OCT and adaptive optics</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Carter</surname>
-						<given-names>Alex</given-names>
+						<surname>Pijewska</surname>
+						<given-names>Ewelina</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Valente</surname>
+						<given-names>Denise</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Vienola</surname>
+						<given-names>Kari V</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Meleppat</surname>
+						<given-names>Ratheesh</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +82,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Baker</surname>
-						<given-names>Daniel H.</given-names>
+						<surname>Zawadzki</surname>
+						<given-names>Robert J</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -53,34 +95,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Morland</surname>
-						<given-names>Antony B.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Lawton</surname>
-						<given-names>Abbie J.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Wade</surname>
-						<given-names>Alex R.</given-names>
+						<surname>Jonnal</surname>
+						<given-names>Ravi S</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -94,19 +110,37 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of York</institution>
+					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Dept. of Physics, Universidade Federal de Pernambuco, Recife, PE 50740-540, Brazil</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Institute of Biomedicine, University of Turku, FI-20014 Turku, Finland</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>68</fpage>
 						<lpage>68</lpage>
 			<permissions>
@@ -115,7 +149,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Intro: Recent work from our group (Segala et al, eLife, 2023) shows that the rules for binocular luminance signal combination depend on spatial frequency (SF). Structured patterns show strong interocular suppression while unstructured inputs (mean field disks) do not. Here, we used SSVEPs to ask if SF dependence is also found in chromatic pathways. Methods: SSVEPs were recorded from 12 subjects using a canonical V1 template (Poncet &amp Ales, 2023). Eyes were targeted using shutter goggles and stimuli were contrast-reversing gratings or disks at 5Hz (left eye) and 7Hz (right eye). Experimental factors were stimulus SF (disk, grating 1cpd), chromaticity (LMS, L-M or S-cone isolating) and ocularity (left, right or both). Results: Monocular conditions generated large responses at 2F. In binocular conditions, all 2F responses showed suppression, and significant intermodulation (IM) terms (sums and differences of the inputs - e.g., 2Hz) were present. The magnitude of both suppression and IM in the binocular condition depended on SF and chromaticity; IM amplitudes were higher for gratings compared to disks in the luminance condition, but higher for disks compared to gratings in the chromatic conditions. Overall we found significant differences in the spectral response signatures across all stimulus combinations. Conclusion: All inputs undergo binocular combination in V1 but the rules governing the combination appear to depend on both chromaticity and SF.</p>
+				<p>Recent work has shown that human rod and cone outer segments (ROS and COS, respectively)   deform in   response   to   visual   stimuli.   In   phase-based optoretinography   (ORG)   the   phases   of   backscattered   light   from   the inner/outer segment junction (IS/OS) and the COS/ROS tips (COST/ROST), is measured,   which   allows   observation   of   stimulus-evoked,   nanometer-scale   changes   in   the   OS length. In this work, we used a full-field swept-source OCT with AO that allowed up to kHz volume rates.  ORG  responses  were   recorded  in  two  healthy  volunteers,  with  photopigment bleaching levels in the range of 1-60 %, and modeled using an exponential sum.  The proposed harmonic oscillator-based response model allowed us to describe the shape of the cone&#39;s ORG responses by amplitudes of deflection and relaxation times. Our preliminary results show that responses   to   complex   stimuli   were   consistent   with   photopigment   availability,   which   in   the context of the consensus theory that adaptation in cones is mediated by photopigment suggests that the ORG may be a useful way to probe light adaptation in cones. The development of   simple   quantitative   parameters   describing   the   ORG   response   should   benefit   future   clinical applications and help to track the progress of blinding diseases.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -123,7 +157,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: National   Institutes   of   Health   (R01-EY-033532,   R01-EY-031098,   R01-EY-026556, P30-EY-183 012576)</p>
 			</fn>
 		</fn-group>
 

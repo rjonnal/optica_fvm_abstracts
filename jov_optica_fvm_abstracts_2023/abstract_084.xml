@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.84</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.84</article-id>
 			<article-id pub-id-type="manuscript">Talks_84</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session III</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Intravitreal gene therapy in primate reaches extrafoveal cones</article-title>
+				<article-title>Contributed Session III: Active vision shapes ocular dominance</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Bembry - Colegrove</surname>
-						<given-names>Briyana</given-names>
+						<surname>Binda</surname>
+						<given-names>Paola</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,34 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Giarmarco</surname>
-						<given-names>Michelle</given-names>
+						<surname>Steinwurzel</surname>
+						<given-names>Cecilia</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Acquafredda</surname>
+						<given-names>Miriam</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sandini</surname>
+						<given-names>Giulio</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -53,76 +79,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Barborek</surname>
-						<given-names>Rachel</given-names>
+						<surname>Morrone</surname>
+						<given-names>Maria Concetta</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Rowlan</surname>
-						<given-names>Jessica</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Kuchenbecker</surname>
-						<given-names>James</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Rezeanu</surname>
-						<given-names>Dragos</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Neitz</surname>
-						<given-names>Jay</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Neitz</surname>
-						<given-names>Maureen</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -133,25 +94,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Ophthalmology, University of Washington</institution>
+					<institution>Department of Translational Research and New Technologies in Medicine, University of Pisa</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>University of Washington Department of Ophthalmology</institution>
+					<institution>Robotics Brain and Cognitive Sciences, Istituto Italiano di Tecnologia</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>84</fpage>
 						<lpage>84</lpage>
 			<permissions>
@@ -160,7 +121,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Intravitreal delivery of gene therapy vectors to the retina carries lower risk of adverse events versus subretinal injections, but efficiently targeting cones is a challenge. We used a new adeno-associated vector (AAV) to deliver genes to primate cone photoreceptors. The vector carries a cassette directing expression of an engineered 493 nm opsin to long- and middle-wavelength (L/M) cones, and was injected into the vitreous of the left eye of an adult macaque. An identical AAV carrying a fusion of the engineered opsin to green fluorescent protein (GFP) was injected into the right eye. Electroretinograms were performed on the left eye before and after injection to measure isolated 493 nm light responses; 5 weeks post-injection, response increased modestly. A central strip of the right eye was prepared for histology with cryosections; we found ~30% of cones in the fovea had been transduced, with a preference toward L/M cones (see https://iovs.arvojournals.org/article.aspx?articleid=2782955). Upon close examination of GFP in the peripheral retina, we were surprised to find extensive expression in cones across the retina. Here, we report patches of expression from the perifovea to the retinal margin which reaches ~10% of cones. Expression patches appeared stochastically, or in regions containing blood vessels or disrupted Muller cells. This demonstrates that extrafoveal expression is attainable using intravitreal injection of gene therapy vectors in an adult primate.</p>
+				<p>Ocular dominance is a basic visual property that shows short-term plasticity in adult humans, where 2h of monocular deprivation leads to a homeostatic shift of ocular dominance in favour of the deprived eye. Using an altered reality setting, we found that this homeostatic plasticity can be triggered without depriving one eye of visual input, but merely perturbing the temporal correspondence between voluntary actions and vision in one eye. Participants wore a VR set; its monocular screens were connected with cameras monitoring the front space, which participants used to perform a complex visuomotor task. During a 60 minute period, the input to the dominant eye was delayed by 333 ms, making it useless for visuomotor coordination. Following this, ocular dominance (quantified by binocular rivalry) was systematically shifted in favour of the delayed eye, a similar effect as that produced by monocular contrast-deprivation. The shift was only observed when participants actively engaged in the visuomotor task, not when they passively watched a confederate perform the same task. We interpret these results in the light of parallel fMRI experiments where monocular deprivation is associated with a global system reconfiguration that pivots around a key area for sensorimotor integration, the Pulvinar. Based on our findings, we suggest that active vision is foundational to weighting sensory information, even at the level of simple visual processes as those setting ocular dominance. </p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -168,7 +129,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: UW Vision Core grant NIH NEI P30-EY001730, Research to Prevent Blindness</p>
+				<p>Funding: Funding: This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme, grant n. 801715 (PUPILTRAITS) and n. 832813 (GenPercept) and by the Italian Ministry of University and Research under the PRIN2017 programme (grant MISMATCH and 2017SBCPZY) and FARE-2 (grant SMILY). </p>
 			</fn>
 		</fn-group>
 

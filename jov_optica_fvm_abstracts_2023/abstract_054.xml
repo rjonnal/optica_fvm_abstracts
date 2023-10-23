@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.54</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.54</article-id>
 			<article-id pub-id-type="manuscript">Talks_54</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Effect of flicker adaptation on perception of small spots presented with AOSLO</article-title>
+				<article-title>Poster Session II: Constrained color-sorting and the evolution of color terms</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Pirog</surname>
-						<given-names>J.T.</given-names>
+						<surname>Lindsey</surname>
+						<given-names>Delwin</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,24 +40,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Kuo</surname>
-						<given-names>Vickie</given-names>
+						<surname>Brown</surname>
+						<given-names>Angela M.</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Tuten</surname>
-						<given-names>William S.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -68,19 +55,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Herbert Werthiem School of Optometry and Vision Science, University of California Berkeley</institution>
+					<institution>Ohio State University</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>The Ohio State University</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>54</fpage>
 						<lpage>54</lpage>
 			<permissions>
@@ -89,7 +82,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Previous work suggests the detection of small spots is mediated by a mixture of chromatic and achromatic mechanisms. We tested whether exposure to spatially-uniform chromatic or luminance flicker affected detection thresholds for 543 nm increments delivered through an AOSLO. Heterochromatic flicker photometry was used to determine isoluminant settings for the red and green primaries of a DLP display; this isoluminant red-green mixture provided the 2.1° background upon which 23 arcmin (N=4) or 3 arcmin (N=2) stimuli were presented for 100ms. The projector background was modulated to produce isoluminant chromatic flicker or isochromatic luminance flicker at 3.75 or 30 Hz. The time-averaged luminance and chromaticity for all adaptation conditions were equivalent. For each condition, data collection was preceded by 2 minutes of preadaptation, followed by alternating windows of stimulus delivery (1 sec, steady background) and top-up adaptation (3 sec). Thresholds for all flicker conditions were compared to data obtained on a static background. For 23 arcmin spots, we found reduced sensitivity in the 3.75 Hz chromatic and luminance flicker conditions, but no adaptation effect was observed for 3 arcmin flashes or for 30 Hz flicker of either type. Our data suggest that raster-scanned, AO-corrected stimuli are susceptible to flicker adaptation, but that proximity to a flickering edge may be an important factor governing the effects of contrast adaptation on small spot detection.</p>
+				<p>Constrained color-sorting—the partition of a color palette into sequential numbers, n, of categories or “piles,” n = {2, 3, …, N}—has been used to examine universal vs. culture-dependent processes that underlie color-term evolution. Here we use sorting to test two hypotheses related to these ideas. 1) If the constrained color sorts (CCSs) depend solely on universal processes that guide color-term evolution, then CCSs should be relatively insensitive to the exact composition of the color palette. 2) Otherwise, CCSs should at least be “optimal” (as measured by well-formedness: Regier et al., 2007). We report three studies, each using a different palette, where English speakers sorted the color samples into 2 … 6 piles; one study also included Somali speakers. All palettes included good examples of the Basic Color Categories (BCCs), but they differed in how hue, saturation, and lightness covaried. Results showed that pile-sorts reflected psychologically salient features of colors, which were mostly linked to BCCs. However, 1) the unfolding of sort-categories with increasing n differed greatly across palettes, and the order in which the sort-categories appeared always deviated from predictions based on classical theories of color term evolution; 2) pile-sorts were not optimal. Taken together, our results reveal strong dependence of CCSs on pre-existing lexical categories but only weak dependence on universal pre-linguistic representations of color related to color-term evolution.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -97,7 +90,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: National Institutes of Health: R01EY023591, T35EY007139-30; Air Force Office of Scientific Research: FA9550-21-1-0230, FA9550-20-1-0195; Hellman Fellows Program; Alcon Research Institute</p>
+				<p>Funding: Funding: National Science Foundation BCS-1152841 to DTL</p>
 			</fn>
 		</fn-group>
 

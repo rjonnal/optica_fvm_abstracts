@@ -13,22 +13,126 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.27</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.27</article-id>
 			<article-id pub-id-type="manuscript">Talks_27</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session IV: Extended reality--applications in vision science and beyond</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session IV: Extended reality--applications in vision science and beyond: Improving augmented reality through perceptual science</article-title>
+				<article-title>Poster Session I: Binocular facilitation of the BOLD response to melanopsin stimulation in the suprachiasmatic nucleus</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Cooper</surname>
-						<given-names>Emily</given-names>
+						<surname>Martin</surname>
+						<given-names>Joel T.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Welbourne</surname>
+						<given-names>Lauren</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Segala</surname>
+						<given-names>Federico G.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Baker</surname>
+						<given-names>Ellie</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bhullar</surname>
+						<given-names>Monique</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Huxley</surname>
+						<given-names>Rowan</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wardle</surname>
+						<given-names>Allice</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Baker</surname>
+						<given-names>Daniel H.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Wade</surname>
+						<given-names>Alex R.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -42,19 +146,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of California, Berkeley</institution>
+					<institution>Department of Psychology, University of York, York, United Kingdom</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>27</fpage>
 						<lpage>27</lpage>
 			<permissions>
@@ -63,7 +167,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Augmented reality (AR) systems make it possible to present visual stimuli that intermix and interact with people’s view of the natural world. But building an AR system that merges stimuli with our natural visual experience is hard. AR systems often suffer from technical and visual limitations, such as small eyeboxes, limited brightness, and narrow visual field coverage. An integral part of AR system development, therefore, is perceptual research that improves our understanding of when and why these limitations matter. I will describe a suite of perceptual studies designed to provide guidance for engineers on the visibility and appearance of wearable optical see-through AR displays. Our results highlight the idiosyncrasies of how our visual system integrates information from the two eyes, the multifaceted nature of perceptual phenomena in AR, and the trade-offs that are currently necessary to create an AR system that is both wearable and compelling. </p>
+				<p>In a recent analysis of archival data, Spitschan and Cajochen (2019) identify what appears to be substantial binocular facilitation of melatonin suppression due to melanopic light stimulation. This putative effect likely originates in the melanopsin-containing intrinsically photosensitive retinal ganglion cells (ipRGCs) which project directly to the suprachiasmatic nucleus (SCN) of the hypothalamus. We asked whether we could measure a direct physiological correlate of this binocular facilitation using a binocular, MRI-compatible, 10-primary spectral stimulation device. We present preliminary findings from a functional magnetic resonance imaging (fMRI) study designed to explore the blood oxygen level dependent (BOLD) response to monocular and binocular melanopic light stimulation. The study used a 30 s on/off design with three ‘ocularity’ conditions (binocular-low, monocular-high, binocular-high) and two classes of targeted photoreceptors (melanopsin and LMS cones). Throughout each scan, subjects (N=18) also responded to brief, cone-directed sinusoidal modulations of varying intensity. We report that binocular vs. monocular melanopsin stimulation induced significant BOLD activation in SCN but that this effect was not seen for cone-directed stimulation. This is consistent with the binocular facilitation effect described by Spitschan and Cajochen (2019) and provides the first direct evidence of melanopsin-driven activation and binocular facilitation in human subcortical nuclei. </p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +175,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: BBSRC (BB/V007580/1)</p>
 			</fn>
 		</fn-group>
 

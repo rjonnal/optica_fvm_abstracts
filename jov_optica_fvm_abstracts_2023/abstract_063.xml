@@ -13,48 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.63</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.63</article-id>
 			<article-id pub-id-type="manuscript">Talks_63</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Divided attention in Sign Language Recognition</article-title>
+				<article-title>Poster Session II: Investigating photoreceptor function in disease-affected retinas using optoretinography</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Young</surname>
-						<given-names>Dave</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Awad</surname>
-						<given-names>Jasmine F.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Fine</surname>
-						<given-names>Ione</given-names>
+						<surname>Maddipatla</surname>
+						<given-names>Reddikumar</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -69,8 +43,82 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Popovkina</surname>
-						<given-names>Dina V.</given-names>
+						<surname>Langlo</surname>
+						<given-names>Christopher </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Vienola</surname>
+						<given-names>Kari </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bartuzel</surname>
+						<given-names>Maciej </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pijewska</surname>
+						<given-names>Ewelina </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
+
+
+					<xref ref-type="aff" rid="aff6"><sup>6</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zawadzki</surname>
+						<given-names>Robert </given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff7"><sup>7</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jonnal</surname>
+						<given-names>Ravi </given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -84,25 +132,55 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Psychology, University of Washington</institution>
+					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Center for Human Neuroscience, University of Washington</institution>
+					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA.</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>Institute of Biomedicine, University of Turku, Fi-20014 Turun, Yliopistoy, Finland.</institution>
+				</aff>
+
+
+				<aff id="aff5">
+					<label><sup>5</sup></label>
+					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA</institution>
+				</aff>
+
+
+				<aff id="aff6">
+					<label><sup>6</sup></label>
+					<institution>Faculty of Physics, Astronomy, and Informatics, Nicolaus Copernicus University in Torun, Grudziądzka 5, 87-100 Torun, Poland.</institution>
+				</aff>
+
+
+				<aff id="aff7">
+					<label><sup>7</sup></label>
+					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA. EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>63</fpage>
 						<lpage>63</lpage>
 			<permissions>
@@ -111,7 +189,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Previous work suggests that the brain has a limited ability to process multiple visual stimuli during divided attention: for example, people can recognize only one word at a time (White, Palmer, &amp Boynton, Psych Science 2018). Here, we examine whether American Sign Language (ASL) experience affects divided attention for stimuli: do signers &amp non-signers differ in their ability to process two signs at once? In a probe recognition paradigm, participants were presented with two letter signs, one or both of which were pre-cued as relevant (single- and dual-task conditions, respectively), and then responded whether a probe sign matched the cued sign(s). The dual-task deficit is the difference in performance between the single- and dual-task conditions and measures the cost of dividing attention. Preliminary data show that hearing non-signers and signers had a similar dual-task deficit (11.8% ± 2.2%, n = 5 vs. 11.4% ± 1.5%, n = 6), with no significant difference between the groups (t(7.27) = 0.18, p = 0.86). The magnitude of these divided attention effects is consistent with processing limits observed for object judgments (e.g. Popovkina, Palmer, Moore, &amp Boynton, JoV 2021). Thus, these preliminary results suggest that the attentional demands of ASL sign processing are similar in signers and non-signers.</p>
+				<p>Assessing the functional response of photoreceptors is vital in understanding retinal disease progression. Traditional subjective methods like visual acuity and visual fields, and objective ones like electroretinography, have limitations. An ideal complement to these techniques is optoretinography (ORG), which images the retina and tests its function at once. ORG utilizes the phase of the optical coherence tomography (OCT) signal to quantify nanometer-scale changes, measuring subtle photoreceptor responses to stimuli. Efforts to observe stimulus-evoked responses in human cone photoreceptors began with adaptive optics (AO) and common path interferometry, enabling the resolution and tracking of individual cells. Advances in OCT systems with cellular resolution through AO or digital aberration correction successfully measured ORG responses from single cones and rods. This method tracks phase differences between outer segment tips (COST or ROST) and the inner-outer segment junction (IS/OS) to assess individual cell responses. A novel velocity-based method recently demonstrated the feasibility of measuring ORG signals with clinical-grade OCT systems. In the present work, we implemented this technique on disease-affected human retinas, revealing lower magnitudes of response compared to healthy retinas, and highlighting its potential clinical applications.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -119,7 +197,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: Mary Gates Endowment, Arc of Washington Trust Fund, University of Washington, Special Diversity Fellowship, Bolles Dissertation Funds</p>
+				<p>Funding: Funding: National Institutes of Health (R01-EY-033532, R01-EY-031098, R01-EY-026556, P30-EY-183 012576)</p>
 			</fn>
 		</fn-group>
 

@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.26</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.26</article-id>
 			<article-id pub-id-type="manuscript">Talks_26</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session II</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session II: Neural correlates of serial processing during divided attention across multipart objects</article-title>
+				<article-title>Poster Session I: Gain, not changes in spatial receptive field properties, improves task performance in a neural network attention model</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Popovkina</surname>
-						<given-names>Dina V.</given-names>
+						<surname>Birman</surname>
+						<given-names>Daniel</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,47 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Chang</surname>
-						<given-names>Kelly</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Suarez</surname>
-						<given-names>Lucas M.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Palmer</surname>
-						<given-names>John</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Moore</surname>
-						<given-names>Cathleen M.</given-names>
+						<surname>Fox</surname>
+						<given-names>Kai J</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -92,11 +53,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Boynton</surname>
-						<given-names>Geoffrey M.</given-names>
+						<surname>Gardner</surname>
+						<given-names>Justin L</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -107,25 +68,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Psychology, University of Washington</institution>
+					<institution>Department of Biological Structure, University of Washington</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Department of Psychological and Brain Sciences, University of Iowa</institution>
+					<institution>Department of Psychology, Stanford University</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>26</fpage>
 						<lpage>26</lpage>
 			<permissions>
@@ -134,7 +95,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Judgments of multiple simultaneously presented stimuli produce a variety of divided attention effects. For example, participants can detect colors in two locations as well as in one, but can recognize only one masked word at a time (White, Palmer, &amp Boynton, Psych Science 2018). Here, we ask whether judging objects with interchangeable parts, similar to letters in words, also produces performance deficits consistent with serial processing, and which brain areas subserve this process. In a probe recognition task, participants discriminated abstract objects made of Duplo™ parts. On each trial, two objects were presented, with either one or both objects cued as relevant (single- and dual-task conditions, respectively). The distractor probes were made of the same parts in a different order. The difference in performance between the single- and dual-task conditions was 17±1% (n=13), consistent with the prediction of a serial model and rejecting the fixed-capacity parallel model. This result suggests that there is a visual brain area where information can be processed about only one object at a time. Currently, we are using fMRI to examine activity in object-selective regions of the human lateral occipital cortex. To seek evidence of serial processing, we are assessing how stimulus-related modulation is mediated by selective attention; the area of interest should show a modulation for only the attended stimulus location.</p>
+				<p>Attention allows us to focus sensory processing on behaviorally relevant aspects of the visual world. One potential mechanism of attention is a change in the gain of sensory responses. However, changing gain at early stages could have multiple downstream consequences for visual processing. Which, if any, of these effects can account for the benefits of attention for detection and discrimination? Using a model of primate visual cortex we document how a Gaussian-shaped gain modulation results in changes to spatial tuning properties. Forcing the model to use only these changes failed to produce any benefit in task performance. Instead, we found that gain alone was both necessary and sufficient to explain category detection and discrimination during attention. Our results show how gain can give rise to changes in receptive fields which are not necessary for enhancing task performance.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -142,7 +103,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: This work was supported in part by grants from the National Eye Institute (F32 EY030320 to D.V.P. and EY12925 to G.M.B. and J.P.). </p>
+				<p>Funding: Funding: Washington Research Foundation, NEI T32EY07031,  Research to Prevent Blindness,  Lions Clubs International Foundation,  Hellman Fellows Fund</p>
 			</fn>
 		</fn-group>
 

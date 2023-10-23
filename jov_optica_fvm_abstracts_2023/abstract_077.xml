@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.77</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.77</article-id>
 			<article-id pub-id-type="manuscript">Talks_77</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Cone spacing and S-cone proportion is sufficient to describe varying S-cone regularity across the human central retina</article-title>
+				<article-title>Contributed Session II: Binocular combination of the pupil response depends on photoreceptor pathway</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Schleufer</surname>
-						<given-names>Sierra</given-names>
+						<surname>Segala</surname>
+						<given-names>Federico G.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,21 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Pandiyan</surname>
-						<given-names>Vimal</given-names>
+						<surname>Martin</surname>
+						<given-names>Joel T.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bruno</surname>
+						<given-names>Aurelio</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -53,8 +66,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Hazelton</surname>
-						<given-names>Bryna</given-names>
+						<surname>Wade</surname>
+						<given-names>Alex R.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
@@ -66,24 +79,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Coates</surname>
-						<given-names>Daniel</given-names>
+						<surname>Baker</surname>
+						<given-names>Daniel H.</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Sabesan</surname>
-						<given-names>Ramkumar</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
 
 
 				</contrib>
@@ -94,37 +94,31 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of Washington Department of Ophthalmology and Graduate Program in Neuroscience</institution>
+					<institution>Department of Psychology, University of York, York, United Kingdom</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>University of Washington Department of Ophthalmology</institution>
+					<institution>School of Psychology and Vision Sciences, University of Leicester, Leicester, United Kingdom</institution>
 				</aff>
 
 
 				<aff id="aff3">
 					<label><sup>3</sup></label>
-					<institution>University of Washington eScience Institute and Department of Physics</institution>
-				</aff>
-
-
-				<aff id="aff4">
-					<label><sup>4</sup></label>
-					<institution>University of Washington Department of Ophthalmology, University of Houston College of Optometry</institution>
+					<institution>1. Department of Psychology, University of York, York, United Kingdom   2. York Biomedical Research Institute, University of York, York, United Kingdom</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>77</fpage>
 						<lpage>77</lpage>
 			<permissions>
@@ -133,7 +127,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>The topography of S-cones in the human retina is vital to understand short-wavelength sampling of visual space. In humans S-cones have been reported as randomly arranged within 2° eccentricity and semi-regular more peripherally. A model describing how S-cone regularity varies across the retina is yet to be formulated. Here we describe such a model, dependent on 2 parameters - the average distance between neighboring cones and the proportion of S-cones - that is sufficient to explain S-cone regularity across the central retina. Cones were classified using AO-OCT optoretinography in ROIs distributed across the 4 cardinal meridians in 2 subjects (12 ROIs each) between 1.3 - 12.9°eccentricity. The radius of the S-exclusion zone, the area surrounding S-cones where other S-cones are significantly unlikely to appear, was found to be about twice the average distance between neighboring cones in 19/24 mosaics. We found that the measured regularity of S-cone mosaics increases linearly with the increasing proportion of S cones with eccentricity. Using the average distance between neighboring cones and proportion of S-cones per ROI as variables, we created a model to simulate S-cone mosaics that agree well with the observed topography. These results benefit our understanding of the foundational patterns underpinning spectral topography, and the ability to accurately simulate S-cone topography in computational models of early vision. </p>
+				<p>The pupillary light response is driven by three classes of retinal photoreceptor. Cones and rods are involved in the initial constriction of the pupil, whereas melanopsin-containing intrinsically photosensitive Retinal Ganglion Cells (ipRGCs) maintain constriction over longer timescales. Previous work has characterized the contributions of photoreceptor signals to pupil control, but relatively little is known about binocular combination of these signals when simultaneously stimulating the retina in both eyes. We measured changes in pupil size in 48 participants using a binocular eye-tracker, targeting specific photoreceptor classes with a binocular 10-primary light engine and the silent substitution method. We stimulated the periphery of the retina using light flickering at 0.4 and 0.5 Hz. Participants viewed a disc of either achromatic flickering light, or contrast modulations that targeted the ipRGCs, or the opponent colour pathways L-M or S-(L+M). Using a modified virtual reality headset, we presented the stimuli at a range of modulation amplitudes in three different ocular configurations: monocular, binocular, and dichoptic. We obtained clear pupil responses at both the first and the second harmonic frequencies. Suppression levels differed across conditions with the strongest suppression measured for the L-M condition. We account for the results in a single modelling framework where the weight of interocular suppression determines the binocular combination properties.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -141,7 +135,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NIH grants 5T32EY007031-42, U01EY032055, EY029710, P30EY001730.  Burroughs Wellcome Fund Careers at the Scientific Interface. DOD Air Force Office of Scientific Research FA9550-21-1-0230. University of Washington eScience Institute Incubator Program.</p>
+				<p>Funding: Funding: Biotechnology and Biological Sciences Research Council grant BB/V007580/1 awarded to DHB and ARW</p>
 			</fn>
 		</fn-group>
 

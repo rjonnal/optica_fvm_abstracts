@@ -13,22 +13,35 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.31</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.31</article-id>
 			<article-id pub-id-type="manuscript">Talks_31</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session V: Binocular vision and interactions</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session V: Binocular vision and interactions: Depth perception in virtual environments: The role of experience</article-title>
+				<article-title>Poster Session I: How important is it to know your own limitations when making perceptual decisions?</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Wilcox</surname>
-						<given-names>Laurie</given-names>
+						<surname>Geisler</surname>
+						<given-names>Wilson</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Anqi</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -42,19 +55,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Centre for Vision Research, York University</institution>
+					<institution>University of Texas at Austin</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>31</fpage>
 						<lpage>31</lpage>
 			<permissions>
@@ -63,7 +76,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>In this presentation I’ll review results of stereoacuity, disparity matching and depth magnitude estimation studies in which comparison of so-called naïve and experienced observers shows substantive differences in performance. I will describe our working theory that the critical difference between these groups is their tolerance to conflicts between stereopsis and other sources of depth information. Further, I will review some recent data that suggest there are some conflicts that even experienced 3D participants cannot disregard.</p>
+				<p>Many models of perceptual performance consist of two components: (1) a representation of the available sensory and memory information, and (2) a Bayes-optimal decision computation. If the model accurately predicts performance, then that finding is often interpreted as evidence for both components of the model. However, it is important and informative to also test heuristic decision rules. Here, we illustrate such analyses for the task of covert visual search, where a target can appear at one of n locations (or be absent) with some prior probability distribution (the “prior map”). The available sensory information can be represented by the signal-to-noise ratio at each retinal location (the “d’ map”) together with the prior map. It can be shown that the Bayes-optimal decision rule is to multiply the response at each location by the d’ at that location, add the log prior for that location, and then pick the location that has the maximum. For a wide range of d’ and prior maps we simulated performance for the optimal and various heuristic decision rules. As expected, varying the d’ and prior maps has a large effect on performance due to the variation in the available sensory information. However, a wide range of simple decision rules perform almost as well as the Bayes-optimal rule. In other words, in the covert search task, our decision processes can be idiosyncratic and almost completely ignorant of the d’ and prior maps and still perform optimally.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +84,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: Natural Science and Engineering Council of Canada</p>
+				<p>Funding: Funding: NIH grant EY11747</p>
 			</fn>
 		</fn-group>
 

@@ -13,139 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.12</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.12</article-id>
 			<article-id pub-id-type="manuscript">Talks_12</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session I</subject>
+					<subject>Invited Session III: Diversity in chromatic processing across the animal kingdom</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session I: Specific and non-linear effects of glaucoma on optic radiation tissue properties </article-title>
+				<article-title>Invited Session III: Diversity in chromatic processing across the animal kingdom: Color vision in stomatopod crustaceans</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Kruper</surname>
-						<given-names>John</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Richie-Halford</surname>
-						<given-names>Adam</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Benson</surname>
-						<given-names>Noah</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Caffarra</surname>
-						<given-names>Sendy</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Owen</surname>
-						<given-names>Julia</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Wu</surname>
-						<given-names>Yue</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Lee</surname>
-						<given-names>Aaron</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Lee</surname>
-						<given-names>Cecilia</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Yeatman</surname>
-						<given-names>Jason</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Rokem</surname>
-						<given-names>Ariel</given-names>
+						<surname>Cronin</surname>
+						<given-names>Tom</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -159,31 +42,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of Washington</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>Stanford University</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>University of Modena</institution>
+					<institution>University of Maryland Baltimore County</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>12</fpage>
 						<lpage>12</lpage>
 			<permissions>
@@ -192,7 +63,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Changes in sensory input with aging and disease affect brain tissue properties. To establish the link between glaucoma, the most prevalent cause of irreversible blindness, and changes in major brain connections, we characterized white matter tissue properties in diffusion MRI measurements in a large sample of subjects with glaucoma (N=905; age 49-80) and healthy controls (N=5,292; age 45-80) from the UK Biobank. Confounds due to group differences were mitigated by matching a sub-sample of controls to glaucoma subjects. A convolutional neural network (CNN) accurately classified whether a subject has glaucoma using information from the primary visual connection to cortex (the optic radiations, OR), but not from non-visual brain connections. On the other hand, regularized linear regression could not classify glaucoma, and the CNN did not generalize to classification of age-group or of age-related macular degeneration. This suggests a unique non-linear signature of glaucoma in OR tissue properties.</p>
+				<p>Stomatopod crustaceans, commonly known as mantis shrimp, have perhaps the most unusual color-vision systems of any animals.  The uniqueness is possible because stomatopods have compound eyes.  Here, each unit, or ommatidium, acts as an independent visual detector, with its own corneal lens, internal optics, and set of photoreceptors.  Ommatidia tuned to different wavelengths can be individually placed in the eye to build unusual color systems.  In mantis shrimps, the receptors responsible for color vision are limited to six parallel rows of ommatidia that together form an equatorial belt, called the midband.  Various receptors in these ommatidia are tuned to eight narrow-band spectral channels in the visible spectrum plus up to four additional ultraviolet channels.  Thus, there is a total of twelve different color receptors for color vision.  How these color channels are analyzed in the complex set of optic lobes existing behind the retina is only partly understood.  It appears that stomatopods use both opponent and labelled-line color channels.  Oddly, these animals appear to have limited ability to discriminate between spectral lights, but they have outstanding color constancy.  Color vision, and color processing, in stomatopods is probably unlike that of any other animal group.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -200,7 +71,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: This project was funded by NSF grant 1934292 (PI: Balazinska), NIH grant R01 AG 060942 (PI: Lee), NEI grant R01 EY033628 (PI: Benson), NIH grant RF1 MH121868 (PI: Rokem), NIH grant R01HD095861 (PI: Yeatman). SC was funded by the “Rita Levi Montalcini” program, granted by the Italian Ministry of University and Research (MUR). Unrestricted and career development award from RPB (Julia Owen, Yue Wu, Cecilia Lee, Aaron Lee), Latham Vision Science Awards (Julia Owen, Yue Wu, Cecilia Lee, Aaron Lee), NEI/NIH K23EY029246 (Aaron Lee) and NIA/NIH U19AG066567 (Julia Owen, Yue Wu, Cecilia Lee, Aaron Lee, Ariel Rokem).</p>
+				<p>Funding: Funding: None</p>
 			</fn>
 		</fn-group>
 

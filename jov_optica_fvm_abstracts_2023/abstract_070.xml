@@ -13,27 +13,102 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.70</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.70</article-id>
 			<article-id pub-id-type="manuscript">Talks_70</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Computational analysis of the effect of cone temporal filtering on detection threshold with and without retinal motion</article-title>
+				<article-title>Contributed Session I: Inner limiting membrane peel extends vivo calcium imaging of ganglion cells (RGC) beyond the fovea in non-human primate</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Feng</surname>
-						<given-names>Qiyuan</given-names>
+						<surname>Baez</surname>
+						<given-names>Hector</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jennifer</surname>
+						<given-names>Laporta</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Amber</surname>
+						<given-names>Walker</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>William</surname>
+						<given-names>Fischer</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rachel</surname>
+						<given-names>Hollar</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sara</surname>
+						<given-names>Patterson</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>David</surname>
+						<given-names>DiLoreto</given-names>
+					</name>
+                                        
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
@@ -43,11 +118,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Zhang</surname>
-						<given-names>Ling-Qi</given-names>
+						<surname>Vamsi</surname>
+						<given-names>Gullapalli</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
 				</contrib>
@@ -56,47 +131,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Braun</surname>
-						<given-names>Alisa</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Cottaris</surname>
-						<given-names>Nicolas P.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Tuten</surname>
-						<given-names>William S.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Brainard</surname>
-						<given-names>David H.</given-names>
+						<surname>Juliette</surname>
+						<given-names>McGregor</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -110,31 +146,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Psychology, University of Pennsylvania</institution>
+					<institution>Center for Visual Science, University of Rochester</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Department of Brain and Cognitive Science, University of Rochester</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>Herbert Wertheim School of Optometry &amp Vision Science, University of California, Berkeley</institution>
+					<institution>Department of Ophthalmology, University of Rochester Medical Center</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>70</fpage>
 						<lpage>70</lpage>
 			<permissions>
@@ -143,7 +173,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Retinal stimulus motion can increase visual acuity, but recent experimental evidence indicates that for briefly presented stimuli this benefit does not always occur (Braun et al, VSS 2023). To understand this effect, we modeled how the temporally low-pass filtering that occurs within each cone is expected to impact visual performance. We simulated a grating (10 cpd Gabor) detection task in which the stimulus was present for two 15 msec frames. We used the ISETBio software to compute cone excitations and cone photocurrent responses to the stimulus, for different contrasts and retinal positions, and used linear SVM classifiers to estimate computational-observer detection thresholds. We examined three retinal-motion conditions: 1) stimulus stabilized on the retina; 2) stimulus shifted 0.5 cycle orthogonal to grating orientation across the two frames; 3) stimulus shifted 1 cycle. Across all three conditions, detection threshold estimated on the basis of cone excitations varied little. Threshold estimated on the basis of photocurrent, however, was highest for the 0.5 cycle shift, and about the same for the no shift and 1 cycle shift conditions. Qualitatively, this result recapitulates the findings of Braun et al. and suggests that those findings may be understood as a consequence of the initial visual encoding. We note, however, that we analyzed detection rather than acuity; planned work will attempt to bring the computations into more direct contact with the experimental results.</p>
+				<p>Viral expression of the calcium indicator GCaMP in primate RGCs has enabled optical readout of retinal function at a cellular scale in vivo.  To date, functional recording has been limited to transduced RGCs close to the foveal pit.  In this study we evaluate ILM peel as a strategy to expand the area of transduced RGCs and allow functional recording beyond the fovea in the living eye. 4 eyes of 3 immunosuppressed macaca fascicularis received a 9-12° ILM peel centered on the fovea, followed by intravitreal injection of GCaMP8s 4-8 weeks post-peel. A 660nm flickering visual stimulus drove RGC GCaMP responses which were recorded with fluorescence adaptive optics scanning laser ophthalmoscopy. In all eyes GCaMP was expressed throughout the peeled area, representing a mean 8-fold enlargement in the area of expression relative to a control eye with no peel.  Functional responses were obtained from RGCs at max eccentricities of 11.7 o, 8.0 o, 9.7 o, and 13.7 o and could be classified as ON or OFF types up to the edge of the peel. Mean RGC responses in ILM peeled and control eyes of the same animal were comparable at 3.5 o and longitudinal tracking of individual RGCs showed stable responses up to 6 months post-peel. ILM peel substantially expands the region of primate retina accessible for in vivo GCaMP beyond the foveal ring of RGCs. This presents new opportunities for physiological study of the retina and pre-clinical testing of novel therapies in retinal degeneration models.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -151,7 +181,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: Research reported in this publication was supported by the National Eye Institute of the National Institutes of Health under Audacious Goals Initiative funding Award No. York U24 EY033275 Accelerating photoreceptor replacement therapy with in-vivo cellular imaging of retinal function in primate, P30 EY001319 (core) and F32 EY032318 Foveal ganglion cell function in the living eye. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Inst. of Health. This study was supported by an Unrestricted Grant to the University of Rochester Department of Ophthalmology from Research to Prevent Blindness.</p>
 			</fn>
 		</fn-group>
 

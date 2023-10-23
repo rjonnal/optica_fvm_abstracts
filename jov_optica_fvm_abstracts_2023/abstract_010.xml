@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.10</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.10</article-id>
 			<article-id pub-id-type="manuscript">Talks_10</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session I</subject>
+					<subject>Invited Session II: Retinal remodeling and regeneration</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session I: The perceptual experience of optogenetic vision</article-title>
+				<article-title>Invited Session II: Retinal remodeling and regeneration: Insights into retinal cell replacement: Optimising photoreceptor and RPE transplantation</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Yücel</surname>
-						<given-names>Ezgi Irmak</given-names>
+						<surname>Tessmer</surname>
+						<given-names>Karen</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,60 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Mohan</surname>
-						<given-names>Vaishnavi</given-names>
+						<surname>Gasparini</surname>
+						<given-names>Sylvia Jane</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hammer</surname>
+						<given-names>Juliane</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Adhikari</surname>
+						<given-names>Trishla</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Schmidtke</surname>
+						<given-names>Klara</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Knöbel</surname>
+						<given-names>Sebastian</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -53,37 +105,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Boynton</surname>
-						<given-names>Geoffrey M.</given-names>
+						<surname>Ader</surname>
+						<given-names>Marius</given-names>
 					</name>
                                         
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Rokem</surname>
-						<given-names>Ariel</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Fine</surname>
-						<given-names>Ione</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
 				</contrib>
@@ -94,37 +120,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Psychology, University of Washington</institution>
+					<institution>Center for Regenerative Therapies, TUD Dresden University of Technology</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Department of Psychology, University of Washington, Seattle</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution></institution>
-				</aff>
-
-
-				<aff id="aff4">
-					<label><sup>4</sup></label>
-					<institution>Department of Psychology, Center for Human Neuroscience, University of Washington, Seattle</institution>
+					<institution>Miltenyi Biotec B.V. &amp Co. KG, Bergisch Gladbach</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>10</fpage>
 						<lpage>10</lpage>
 			<permissions>
@@ -133,7 +147,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Optogenetic therapy for retinal degenerative diseases aims to elicit light response in remaining retinal cells (bipolar and/or ganglion cells). Animal models suggest that these proteins have lower sensitivity, and slower kinetics compared to neurotypical vision. Here we describe a framework for simulating ‘virtual patients’ to quantify the predicted perceptual experience of optogenetic vision. We simulated the neural responses of rd1 mouse retina expressing 4xBGAG12,460:SNAP-mGluR2 (Holt et al., 2022) and used this simulation to generate virtual patients: sighted participants viewing the visual stimulus filtered through our simulations. We measured the visual performance of these virtual patients (n=6) using temporal contrast sensitivity functions. Virtual patients had a 10x fold loss of sensitivity, which was exacerbated at higher temporal frequencies, corresponding to a loss of Snellen acuity from ~20/40 at low temporal frequencies to ~20/100-20/200 at high temporal frequencies. We predict that the ability to process fast-moving objects may be impaired in optogenetic vision, and patients with uncontrollable nystagmus may be poor candidates for optogenetic treatments with sluggish kinetics. Our virtual patient framework can easily be extended to simulate any optogenetic protein, and thereby provides a way to quantify and compare the expected perceptual performance of different opto-proteins based on in vitro retinal data. </p>
+				<p>Retinal degenerative diseases, such as age-related macular degeneration and inherited retinal degenerations, are characterized by the dysfunction and ultimately loss of photoreceptors and retinal pigment epithelium (RPE). Retinal cell replacement has emerged as a potential therapeutic strategy. This is enabled by the availability of desired donor cells  differentiated in large numbers from human embryonic or induced pluripotent stem cells. With many differentiation protocols around, detailed comparison of donor cell and host characteristics allowing improved transplantations outcomes are however still sparse. Here, I will present our work on a more detailed assessment of photoreceptor and RPE single cell suspension transplantations. Human photoreceptors incorporate extensively into a cone-degeneration mouse host, interact with host Müller glia and bipolar cells and polarize to form inner and outer segments as well as synapses. Importantly, increased donor-host interactions correlate with improved graft polarization and maturation, with donor cell age greatly influencing this process. Similarly, RPE transplantations into an acute RPE depletion mouse model showed that monolayer formation strongly depends on RPE differentiation times, with further improvement by enrichment of an RPE subpopulation by cell surface markers. Overall, our work highlights the need for careful selection of appropriate donor cells for structural integration into recipient tissue after transplantation.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -141,7 +155,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NEI</p>
+				<p>Funding: Funding: DFG, BMBF, FFB</p>
 			</fn>
 		</fn-group>
 

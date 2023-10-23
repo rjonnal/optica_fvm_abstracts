@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.61</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.61</article-id>
 			<article-id pub-id-type="manuscript">Talks_61</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session I</subject>
+					<subject>Poster Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session I: Does stimulus image quality affect fixational eye movement characteristics?</article-title>
+				<article-title>Poster Session II: XR-based personalized active aid for color deficient observers</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Young</surname>
-						<given-names>Laura K.</given-names>
+						<surname>Zaman</surname>
+						<given-names>Nasif</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,63 +40,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Hexley</surname>
-						<given-names>Allie C.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Read</surname>
-						<given-names>Jenny C. A.</given-names>
+						<surname>Tavakkoli</surname>
+						<given-names>Alireza</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Smithson</surname>
-						<given-names>Hannah E.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Tuten</surname>
-						<given-names>William S.</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Roorda</surname>
-						<given-names>Austin</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
 
 
 				</contrib>
@@ -107,31 +55,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Newcastle University</institution>
-				</aff>
-
-
-				<aff id="aff2">
-					<label><sup>2</sup></label>
-					<institution>University of Oxford</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>University of California, Berkeley</institution>
+					<institution>University of Nevada, Reno</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>61</fpage>
 						<lpage>61</lpage>
 			<permissions>
@@ -140,7 +76,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Drift has been found to be inversely related to visual acuity (higher diffusion constants for observers with lower visual acuity; Clark et. al, 2022). However, it is not clear if this reflects long-term tuning to ocular characteristics, or a more dynamic adjustment to image quality. To test this, fixational eye movements were measured using an AOSLO and stimuli were presented through the imaging system at 30 Hz. Image quality was altered by simulating aberrations. Five participants completed a tumbling E task under three conditions: no aberration, the participant’s natural aberration, and 0.25 D defocus. A 1.2 arcmin gap width E was presented as a 543 nm increment on the 840 nm imaging light for 750 ms. Conditions were randomly interleaved, and feedback was given on each trial. As expected, performance was highest with no aberration, followed by the observer’s natural aberration and was worst for defocus. However, drift characteristics (bivariate contour ellipse area, BCEA, and diffusion constant) did not vary, suggesting that on a trial-to-trial basis drift was not tuned to stimulus quality. To test whether drift might be tuned over time, two participants repeated the experiment in ordered blocks of trials. There were differences in BCEA between ordered and randomised trials, but these were not consistent between participants. We will present an analysis of the differences found between individuals in terms of the optical aberrations present in their eye.</p>
+				<p>In a previous study, Xu et al. (Optics Express, 2022) investigated the efficacy of active aid in the form of personalized image enhancement to increase color discrimination ability in color-deficient observers (CDO). The study parameterized severity of color deficiency, the wavelength shift of cone spectral fundamentals, and the spectral distribution of display primaries. The first parameter was derived by computing the confusion index of the CDO, employing a modified version of the FM-100 test (ZJU50Hue). The second parameter was determined via evaluation of a wavelength-shifted ZJU50Hue test on color-normal observers (CNO). The three parameters were used to model the gamut mapping between CNO and CDO. In this study, extended reality (XR) based modules were developed to acquire these parameters and consequently tailor the headset display to assist CDOs. We chose to implement the Cambridge color test over the ZJU50Hue test as threshold results along the protan, deutan, and tritan lines are more informative than a single confusion index. Preliminary results on a calibrated Varjo XR-3 headset suggest a high correlation between the standard CCT and our XR-based trivector test. As the calibration, simulation and modeling processes all take place in the same HMD, we intend to model the CNO-CDO gamut mapping into a post-process graphics shader to enhance the camera input of the XR-3 and perform a paper-based Ishihara test for evaluation of real-world color discrimination efficacy.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -148,7 +84,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: This work was supported by a UKRI Future Leaders Fellowship (MR/T042192/1), a Reece Foundation Fellowship in Translational Systems Neuroscience (Newcastle University), an Engineering and Physical Sciences Council grant (EP/W004534/1) and a National Institutes of Health grant (R01EY023591).</p>
+				<p>Funding: Funding: FA9550-21-1-0207</p>
 			</fn>
 		</fn-group>
 

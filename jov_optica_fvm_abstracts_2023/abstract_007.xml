@@ -13,27 +13,37 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.7</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.7</article-id>
 			<article-id pub-id-type="manuscript">Talks_7</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session I</subject>
+					<subject>Invited Session II: Retinal remodeling and regeneration</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session I: Human cone response models for optoretinography with FF-SS-OCT and adaptive optics</article-title>
+				<article-title>Invited Session II: Retinal remodeling and regeneration: Partial cone loss triggers differential modification of inhibition across retinal pathways </article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Pijewska</surname>
-						<given-names>Ewelina</given-names>
+						<surname>Lee</surname>
+						<given-names>Joo Yeun</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
 
 
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Della Santina</surname>
+						<given-names>Luca</given-names>
+					</name>
+                                        
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
 
 
@@ -43,60 +53,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Valente</surname>
-						<given-names>Denise</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Vienola</surname>
-						<given-names>Kari V</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Meleppat</surname>
-						<given-names>Ratheesh</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Zawadzki</surname>
-						<given-names>Robert J</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Jonnal</surname>
-						<given-names>Ravi S</given-names>
+						<surname>Dunn</surname>
+						<given-names>Felice</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -110,37 +68,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Center for Human Ophthalmic Imaging Research (CHOIR), UC Davis Eye Center, Sacramento, CA 95817, USA</institution>
+					<institution>Department of Ophthalmology, University of California, San Francisco</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>EyePOD Imaging Lab, Dept. of Cell Biology and Human Anatomy, UC Davis, Davis, CA 95616, USA.</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>Dept. of Physics, Universidade Federal de Pernambuco, Recife, PE 50740-540, Brazil</institution>
-				</aff>
-
-
-				<aff id="aff4">
-					<label><sup>4</sup></label>
-					<institution>Institute of Biomedicine, University of Turku, FI-20014 Turku, Finland</institution>
+					<institution>College of Optometry, University of Houston</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>7</fpage>
 						<lpage>7</lpage>
 			<permissions>
@@ -149,7 +95,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Recent work has shown that human rod and cone outer segments (ROS and COS, respectively)   deform in   response   to   visual   stimuli.   In   phase-based optoretinography   (ORG)   the   phases   of   backscattered   light   from   the inner/outer segment junction (IS/OS) and the COS/ROS tips (COST/ROST), is measured,   which   allows   observation   of   stimulus-evoked,   nanometer-scale   changes   in   the   OS length. In this work, we used a full-field swept-source OCT with AO that allowed up to kHz volume rates.  ORG  responses  were   recorded  in  two  healthy  volunteers,  with  photopigment bleaching levels in the range of 1-60 %, and modeled using an exponential sum.  The proposed harmonic oscillator-based response model allowed us to describe the shape of the cone&#39;s ORG responses by amplitudes of deflection and relaxation times. Our preliminary results show that responses   to   complex   stimuli   were   consistent   with   photopigment   availability,   which   in   the context of the consensus theory that adaptation in cones is mediated by photopigment suggests that the ORG may be a useful way to probe light adaptation in cones. The development of   simple   quantitative   parameters   describing   the   ORG   response   should   benefit   future   clinical applications and help to track the progress of blinding diseases.</p>
+				<p>Cone loss up to 40-60% can be undetected by visual acuity or sensitivity metrics. These findings suggest that conventional diagnostics can be insensitive to cone loss below a threshold and/or that visual circuits can be resilient to cone loss up to a threshold. To distinguish between these possibilities, our lab studied the effects of partial cone loss in the mature mouse retina. We induced controlled cone loss by selectively expressing the diphtheria toxin receptor under the cone opsin promoter (cone-DTR). We examined the effects of 50% cone loss on the three of the most sensitive cell types in mouse retina: alpha ON sustained (AON-S), OFF sustained (AOFF-S), and OFF transient (AOFF-T) ganglion cells. With multiple cell types, we can discern between effects common across pathways, i.e., changes to common circuit components, and effects unique to pathways, i.e., changes to circuit components after the pathways diverge to each cell type. In AON-S ganglion cells, partial cone loss triggers inhibition to increase spatiotemporal integration, recover contrast gain, and receive increased synaptic inputs. While OFF pathways also exhibit modified spatiotemporal processing with fewer cones, the extent of functional adjustments was unique between the AOFF-S and AOFF-T. Cone loss caused differential modifications to inhibition in each of these retinal pathways. These findings demonstrate that partial cone loss induced circuitry changes after the divergence of OFF retinal pathways.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -157,7 +103,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: National   Institutes   of   Health   (R01-EY-033532,   R01-EY-031098,   R01-EY-026556, P30-EY-183 012576)</p>
+				<p>Funding: Funding: R01 EY-029772</p>
 			</fn>
 		</fn-group>
 

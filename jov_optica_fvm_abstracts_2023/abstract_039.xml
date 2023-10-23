@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.39</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.39</article-id>
 			<article-id pub-id-type="manuscript">Talks_39</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Contributed Session III</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Contributed Session III: Measuring binocular combination of luminance and chromatic stimuli using fMRI</article-title>
+				<article-title>Poster Session I: Characteristics and coordination of microsaccades in 6 Dimensions</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Welbourne</surname>
-						<given-names>Lauren</given-names>
+						<surname>Sadeghi</surname>
+						<given-names>Roksana</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,47 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Martin</surname>
-						<given-names>Joel</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Segala</surname>
-						<given-names>Federico</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Wade</surname>
-						<given-names>Alex</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Baker</surname>
-						<given-names>Daniel</given-names>
+						<surname>Otero-Millan</surname>
+						<given-names>Jorge</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -94,19 +55,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University of York</institution>
+					<institution>Herbert Wertheim School of Optometry and Vision Science, University of California, Berkeley</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>39</fpage>
 						<lpage>39</lpage>
 			<permissions>
@@ -115,7 +76,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>There are clear and measurable benefits of using two eyes instead of one (e.g. at detection thresholds, stereopsis). However, at high contrasts, excitation and inhibition between binocular (“Bin”) and monocular (“Mon’) responses are balanced, resulting in ocularity invariance behaviourally, and in the primary visual cortex. Little is known about whether and how signals are combined binocularly in other brain regions, including MT and some subcortical areas. We investigated whether we could measure differences in fMRI BOLD responses in Bin vs Mon across different brain regions, for high contrast luminance and chromatic stimuli. Thirty-six subjects had four functional MRI scans consisting of a block design with five stimulus types (three luminance stimuli, L-M, and S-cone) presented in Bin and Mon. Expanding ring and rotating wedge stimuli scans were also used for retinotopic mapping of the early visual areas. Full brain analyses showed greater overall responses to Bin vs Mon stimuli, centered on the occipital lobe. In individual (retinotopically-defined) ROI analyses, we saw a significant difference in beta weights between Bin and Mon conditions in V1 for luminance and L-M, but the increase in response to Bin stimuli was much lower than would be predicted by strong binocular facilitation (Quaia et al, 2019). In the LGN and MT we saw no significant differences in Bin vs Mon for any condition.</p>
+				<p>The study of microsaccades, the small and rapid eye movements that occur during fixation, has focused on horizontal and vertical movements, while their torsional component remains relatively uncharted territory in vision research. We used video eye tracking to investigate microsaccades binocularly with horizontal and vertical movements tracked by pupil and corneal reflection and torsion by iris pattern. Five participants looked at a central dot for 20 trials of 20 seconds while seated, and their heads rested on a chin rest. For each microsaccade (N=2040), we measured the displacement of the eye along each dimension, and defined version as the average and vergence as the difference between the motion of the left and right eye. The average horizontal vertical and torsional components were 0.7, 0.3, and 0.1 deg for version and 0.1, 0.1, and 0.1 deg for vergence, respectively. Next, we measured the correlation between each component pair. We found that when the eyes moved to the left or right together, they also rotated by 0.3 deg (top towards the same side) for each degree of horizontal movement (R = 0.94, p &lt; 0.01). When the eyes moved up (down), for each degree of vertical movement, they diverged (converged) 0.08 deg horizontally (R = -0.53, p &lt; 0.01) and rotated 0.09 deg outward (inward; R = -0.47, p &lt; 0.01). There was no strong correlation between other combinations. These results show that microsaccades follow similar kinematics at a minute scale as larger saccades.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -123,7 +84,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: BBSRC</p>
+				<p>Funding: Funding: NEI R00EY027846 and NSF 2107049</p>
 			</fn>
 		</fn-group>
 

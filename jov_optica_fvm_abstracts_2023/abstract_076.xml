@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.76</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.76</article-id>
 			<article-id pub-id-type="manuscript">Talks_76</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session II</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Variation of cone spectral composition in the macula</article-title>
+				<article-title>Contributed Session II: Bringing color into focus: Dynamic accommodation responses to polychromatic stimuli</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Pandiyan</surname>
-						<given-names>Vimal Prabhu</given-names>
+						<surname>Chin</surname>
+						<given-names>Benjamin M.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Schleufer</surname>
-						<given-names>Sierra</given-names>
+						<surname>Banks</surname>
+						<given-names>Martin S.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -53,8 +53,21 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Bharadwaj</surname>
-						<given-names>Palash</given-names>
+						<surname>Nankivil</surname>
+						<given-names>Derek</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Roorda</surname>
+						<given-names>Austin</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -66,8 +79,8 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Sabesan</surname>
-						<given-names>Ramkumar</given-names>
+						<surname>Cooper</surname>
+						<given-names>Emily A.</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -81,25 +94,31 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Ophthalmology, University of Washington</institution>
+					<institution>Herbert Wertheim School of Optometry and Vision Science, University of California, Berkeley</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Department of Ophthalmology, University of Washington, Seattle.</institution>
+					<institution>1. Herbert Wertheim School of Optometry and Vision Science, University of California at Berkeley 2. Helen Wills Neuroscience Institute, University of California at Berkeley</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Johnson &amp Johnson Vision Care, Research &amp Development</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>76</fpage>
 						<lpage>76</lpage>
 			<permissions>
@@ -108,7 +127,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Cone spectral composition is central to the study of color vision and retinal development. There is a lack of information on the spatial distribution of L and M-cones in the macula given that there are no histological methods to separate them. To overcome this gap, cones were spectrally classified using adaptive optics OCT-based optoretinography in human subjects and their variation was described in the macula.  To date, we have classified ~130000 total cones in 9 subjects across 79 regions of interest (ROI), with a maximum of 16 retinal eccentricities per subject spread along the 4 cardinal meridians.  In 2 two subjects, the variation in cone spectral topography in both eyes was compared. The L: M cone ratio decreased in the foveal slope (0.4°- 1°) but remained relatively uniform in the parafovea from 1.5°- 10° eccentricity. The % S-cones and S-cone density were consistent with prior histology (Curcio et al. 1991). No significant differences were observed in the fellow eyes of the same subject or the distribution of cone types across the 4 cardinal meridians. Decreased L: M cone ratio in the foveal slope suggests earlier differentiation of M-cones than L-cones. The stable L: M  cone ratio in the parafovea suggests that the greater fall off in chromatic versus achromatic vision with eccentricity is not explained by cone spectral composition, but is rather attributed to pooling in downstream neurons. </p>
+				<p>As humans look around the environment, the crystalline lens inside the eye changes optical power to bring retinal images into focus. This visuomotor response is called accommodation. For a given accommodative state, light at only one wavelength can be in focus because the eye contains significant chromatic aberration. We examined how the visual system weights different wavelengths for focusing polychromatic stimuli, especially those with peaks at more than one wavelength. With an autorefractor, we continuously measured human accommodative responses (at 30 Hz) to stimuli comprising various mixtures of short- and long-wavelength content. In a series of trials, seven human observers viewed a three-letter word stimulus spanning 1.5° (24 arcmins per letter) against a black background on an AMOLED display for seven seconds. The optical distance of the screen was varied using a focus-adjustable lens. Halfway through the trial, the stimulus underwent a step change in optical distance (±0.75, 1.00, or 1.50 diopters). Simultaneously, the color of the stimulus changed. Accommodative responses for each subject were analyzed with nested descriptive models, including a color-free model, a weighted-averaging model, and a color-switching model. The results show that stimulus color significantly influences the dynamic accommodative response, and that long wavelengths influence the response more than short wavelengths, even when their luminance is the same. </p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -116,7 +135,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: NIH grants U01EY032055, EY029710, P30EY001730, Burroughs Wellcome Fund Careers at the Scientific Interfaces, DOD Air Force Office of Scientific Research FA9550-21-1-0230, Unrestricted grant from Research to Prevent Blindness</p>
+				<p>Funding: Funding: National Science Foundation (Award #2041726)</p>
 			</fn>
 		</fn-group>
 

@@ -13,74 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.34</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.34</article-id>
 			<article-id pub-id-type="manuscript">Talks_34</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session V: Binocular vision and interactions</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session V: Binocular vision and interactions: Harnessing interactions within binocular vision to treat amblyopia</article-title>
+				<article-title>Poster Session I: Diurnal variations in luminance and chromatic contrast sensitivity</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Backus</surname>
-						<given-names>Benjamin</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Blaha</surname>
-						<given-names>James</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Gupta</surname>
-						<given-names>Manish</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Tran</surname>
-						<given-names>Tuan</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Dornbos</surname>
-						<given-names>Brian</given-names>
+						<surname>Koida</surname>
+						<given-names>Kowa</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -94,19 +42,19 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Vivid Vision Inc</institution>
+					<institution>Toyohashi University of Technology</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>34</fpage>
 						<lpage>34</lpage>
 			<permissions>
@@ -115,7 +63,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Inexpensive virtual reality (VR) headsets have enabled at-home therapy for binocular dysfunctions, including amblyopia. Healthy binocular vision is exquisite, which is achieved though interactions among various visual subsystems. As a result, however, binocular vision has multiple points of weakness, so development can go wrong in many different ways. Furthermore, the visual system has many ways it can adapt to dysfunctions to improve vision. It is therefore not surprising that amblyopias are idiosyncratic from one person to the next. Habitual interocular suppression is a typical adaption in amblyopia, and by treating suppression in VR, acuity can be improved by 0.1 to 0.2 logMAR. However, the amblyopic visual system shows complicated patterns of interaction between suppression, acuity, stereopsis, motor vergence, accommodation, and motion perception; and each of those subsystems is itself complex. Thus, to improve acuity and stereopsis in amblyopia, a multifaceted approach would seem more promising. In a VR headset, one can addresses suppression, stereopsis, vergence ability, and even accommodation, simultaneously. I will describe Vivid Vision’s approach to this problem, along with preliminary results from independent researchers.</p>
+				<p>Sensory motor performance typically peaks in the evening, influenced by observer&#39;s diurnal arousal level. The arousal level is regulated by neurons in the brainstem, which form connections extending throughout the brain but the connection is highly heterogeneous. The dorsal visual pathway and superior colliculus receive a dense projections, while the ventral visual pathway and lateral geniculate nucleus receive fewer. The former primarily deal with stimuli determined by luminance contrast, while the latter handle chromatic information. How such heterogeneous projection in the brain impacts on human visual detection performance has yet to be understood. In this study, we measured the diurnal variation in human contrast sensitivity and investigated whether changes differed between luminance and chromatic stimuli. Result revealed that as the time of day progressed, sensitivity to luminance contrast improved, while sensitivity to color contrast deteriorated.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -123,7 +71,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: KAKENHI (21H05820)</p>
 			</fn>
 		</fn-group>
 

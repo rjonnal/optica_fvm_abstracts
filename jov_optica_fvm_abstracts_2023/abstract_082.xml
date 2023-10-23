@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.82</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.82</article-id>
 			<article-id pub-id-type="manuscript">Talks_82</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session III</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Understanding scattering in high-resolution retinal imaging</article-title>
+				<article-title>Contributed Session III: The limits of resolution in the S-cone pathway</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Vohnsen</surname>
-						<given-names>Brian</given-names>
+						<surname>Bharadwaj</surname>
+						<given-names>Palash</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,8 +40,34 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Qaysi</surname>
-						<given-names>Salihah</given-names>
+						<surname>Slezak</surname>
+						<given-names>Emily</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pandiyan</surname>
+						<given-names>Vimal Prabhu</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Coates</surname>
+						<given-names>Daniel</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
@@ -53,37 +79,11 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Chanady Babu</surname>
-						<given-names>Aishwarya </given-names>
+						<surname>Sabesan</surname>
+						<given-names>Ramkumar</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Choi</surname>
-						<given-names>Stacey</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-
-
-				</contrib>
-
-
-
-				<contrib contrib-type="author">
-					<name>
-						<surname>Doble</surname>
-						<given-names>Nathan</given-names>
-					</name>
-                                        
-					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
 
 
 				</contrib>
@@ -94,31 +94,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>University College Dublin</institution>
+					<institution>Department of Ophthalmology, University of Washington</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>Jazan University</institution>
-				</aff>
-
-
-				<aff id="aff3">
-					<label><sup>3</sup></label>
-					<institution>Ohio State University</institution>
+					<institution>College of Optometry, University of Houston</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>82</fpage>
 						<lpage>82</lpage>
 			<permissions>
@@ -127,7 +121,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>In conventional fundus images the contrast relates to scattering and absorption of light. Here, we report on modeling of high-resolution retinal imaging to understand the role of mitochondria light scattering in the ellipsoid of photoreceptors. We evaluate the directionality appearance of the photoreceptors, and its relation to drusen appearance in age-related macular degeneration (AMD). The refractive index contrast of the mitochondria collectively resembles that of micron-sized reflectors. Obliqueness of the scattering results in vignetting by the pupil that impacts on the brightness of the photoreceptors. Our hypothesis is that in early-stage AMD, drusen will perturb the photoreceptor alignment and thus cause oblique scattering and reduced brightness on the slope of the drusen in high-resolution retinal images. We model how this affects the observable photoreceptor mosaic both in the healthy eye and in eyes with AMD. The results confirm that the annular dark ring around drusen is likely caused by oblique scattering. We use a model eye to test the hypothesis with a reflective mask emulating the photoreceptor mosaic  An SLM is used for amplitude modulation in the pupil and differential imaging allows for capturing off-axis images with an appearance like that of phase contrast images. Further refinement of the model eye may be a valuable way to test new imaging modalities prior to their implementation in the real eye.</p>
+				<p>The resolution of the S-cone pathway is first constrained by the density and arrangement of S-cones in the photoreceptor mosaic. Prior work comparing S-cone isolating visual acuity (sVA) to histological estimates of S-cone density has led to mixed conclusions, likely due to inter-individual differences in the S-cone sub-mosaic. We examined sVA in subjects with spectrally classified cone mosaics to test how the grain of the S-cone sub-mosaic limits resolution. Three observers whose cones were previously classified via adaptive optics (AO)-OCT based optoretinography participated in an sVA task at eccentricities ranging from 1.3° to 12.9° spread along all four cardinal meridians. Observers adapted to yellow light [CIE (0.45, 0.51); 200 cd/m2] for two minutes.Then, acuity was measured using a Tumbling ‘E’ task that showed blue [CIE (0.16, 0.044); 0.66 cd/m2) letters on the same yellow background, with an S-cone contrast of 0.93 (L/M-cone contrasts &lt;0.01). Simultaneously recorded high-resolution AOSLO videos helped guide stimulus delivery to the spectrally classified retinal area. Measured sVAs were worse than predicted by the calculated S-cone Nyquist limit at all eccentricities, suggesting pooling of information from S-cones. Moreover, this pooling increased with eccentricity. While sVA does not follow the S-cone Nyquist limit, it is in good concordance with the Nyquist limit corresponding to known estimates of the sampling density of small bistratified retinal ganglion cells.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -135,7 +129,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: NIH grants U01EY032055, EY029710, P30EY001730; Burroughs Wellcome Fund Careers at the Scientific Interfaces; DOD Air Force Office of Scientific Research FA9550-21-1-0230; Unrestricted grant from the Research to Prevent Blindness</p>
 			</fn>
 		</fn-group>
 

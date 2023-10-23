@@ -13,22 +13,22 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.72</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.72</article-id>
 			<article-id pub-id-type="manuscript">Talks_72</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Poster Session II</subject>
+					<subject>Contributed Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Poster Session II: Constrained color-sorting and the evolution of color terms</article-title>
+				<article-title>Contributed Session I: The effects of monocular and binocular retinal image minification on eyestrain </article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Lindsey</surname>
-						<given-names>Delwin</given-names>
+						<surname>McLean</surname>
+						<given-names>Iona</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -40,11 +40,63 @@
 
 				<contrib contrib-type="author">
 					<name>
-						<surname>Brown</surname>
-						<given-names>Angela M.</given-names>
+						<surname>Sherbak</surname>
+						<given-names>Esther</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mikkelsen</surname>
+						<given-names>Loganne</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Erkelens</surname>
+						<given-names>Ian</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sharma</surname>
+						<given-names>Robin</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Cooper</surname>
+						<given-names>Emily</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
 
 
 				</contrib>
@@ -55,25 +107,37 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Ohio State University</institution>
+					<institution>Herbert Wertheim School of Optometry and Vision Science, University of California, Berkeley</institution>
 				</aff>
 
 
 				<aff id="aff2">
 					<label><sup>2</sup></label>
-					<institution>The Ohio State University</institution>
+					<institution>Herbert Wertheim School of Optometry and Vision Science</institution>
+				</aff>
+
+
+				<aff id="aff3">
+					<label><sup>3</sup></label>
+					<institution>Meta Reality Labs</institution>
+				</aff>
+
+
+				<aff id="aff4">
+					<label><sup>4</sup></label>
+					<institution>(1) Herbert Wertheim School of Optometry and Vision Science (2) Helen Wills Neuroscience Institute</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>72</fpage>
 						<lpage>72</lpage>
 			<permissions>
@@ -82,7 +146,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Constrained color-sorting—the partition of a color palette into sequential numbers, n, of categories or “piles,” n = {2, 3, …, N}—has been used to examine universal vs. culture-dependent processes that underlie color-term evolution. Here we use sorting to test two hypotheses related to these ideas. 1) If the constrained color sorts (CCSs) depend solely on universal processes that guide color-term evolution, then CCSs should be relatively insensitive to the exact composition of the color palette. 2) Otherwise, CCSs should at least be “optimal” (as measured by well-formedness: Regier et al., 2007). We report three studies, each using a different palette, where English speakers sorted the color samples into 2 … 6 piles; one study also included Somali speakers. All palettes included good examples of the Basic Color Categories (BCCs), but they differed in how hue, saturation, and lightness covaried. Results showed that pile-sorts reflected psychologically salient features of colors, which were mostly linked to BCCs. However, 1) the unfolding of sort-categories with increasing n differed greatly across palettes, and the order in which the sort-categories appeared always deviated from predictions based on classical theories of color term evolution; 2) pile-sorts were not optimal. Taken together, our results reveal strong dependence of CCSs on pre-existing lexical categories but only weak dependence on universal pre-linguistic representations of color related to color-term evolution.</p>
+				<p>While corrective spectacles have been worn for centuries, relatively little is known about the physical and perceptual effects associated with their optical distortions. Retinal image minification, for example, is caused by myopic spectacle correction and may also occur in near-eye displays. Previous work suggests that different amounts of minification (or magnification) between the eyes can produce perceptual distortions and oculomotor discomfort, but the extent to which these effects are problematic is unknown. In our first study, forty observers wore minifying spectacles of 2% or 4% in both eyes (binocular), just one eye (monocular), or neither eye (control). After performing a task that incorporated reading, interacting with objects, and visual search, participants reported their symptoms. Overall, participants found monocular minification to be slightly more uncomfortable than the binocular counterpart. Monocular minification produced greater eyestrain and self-reported difficulty interacting with objects. In a second study, we investigated how these two symptoms change after one hour of adaptation to monocular 4% lenses. We found that both symptoms worsened during adaptation. Interestly, the difficulty interacting with objects declined soon after the lenses were removed, while eyestrain persisted. Taken together, these studies indicate specific types of discomfort during natural tasks that may be reduced through improving optical lens designs in the future.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -90,7 +154,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: National Science Foundation BCS-1152841 to DTL</p>
+				<p>Funding: Funding: Funded by the National Science Foundation (Award #2041726) and Meta Reality Labs.</p>
 			</fn>
 		</fn-group>
 

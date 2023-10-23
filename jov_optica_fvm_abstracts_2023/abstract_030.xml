@@ -13,22 +13,87 @@
 			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">10.1167/jov.23.13.30</article-id>
+			<article-id pub-id-type="doi">10.1167/jov.23.15.30</article-id>
 			<article-id pub-id-type="manuscript">Talks_30</article-id>
 			<article-categories>
 				<subj-group subj-group-type="category">
-					<subject>Invited Session IV: Extended reality--applications in vision science and beyond</subject>
+					<subject>Poster Session I</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Invited Session IV: Extended reality--applications in vision science and beyond: Augmented reality systems for people with low vision</article-title>
+				<article-title>Poster Session I: Binocular contrast integration: Cortical and behavioral signals reflect different computations</article-title>
 			</title-group>
 			<contrib-group>
                           
 				<contrib contrib-type="author">
 					<name>
-						<surname>Zhao</surname>
-						<given-names>Yuhang</given-names>
+						<surname>Meier</surname>
+						<given-names>Kimberly</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pettet</surname>
+						<given-names>Mark</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Garrison</surname>
+						<given-names>Taylor</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Tarczy-Hornoch</surname>
+						<given-names>Kristina</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Boynton</surname>
+						<given-names>Geoffrey M.</given-names>
+					</name>
+                                        
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+
+
+				</contrib>
+
+
+
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fine</surname>
+						<given-names>Ione</given-names>
 					</name>
                                         
 					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
@@ -42,19 +107,25 @@
                           
 				<aff id="aff1">
 					<label><sup>1</sup></label>
-					<institution>Department of Computer Sciences, University of Wisconsin-Madison</institution>
+					<institution>Department of Psychology, University of Washington</institution>
+				</aff>
+
+
+				<aff id="aff2">
+					<label><sup>2</sup></label>
+					<institution>Department of Ophthalmology, University of Washington</institution>
 				</aff>
 
 
 			</contrib-group>
-			<pub-date pub-type="ppub"><month>11</month>
+			<pub-date pub-type="ppub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
-			<pub-date pub-type="epub"><month>11</month>
+			<pub-date pub-type="epub"><month>12</month>
 				<year>2023</year>
 			</pub-date>
 						<volume>23</volume>
-						<issue>13</issue>
+						<issue>15</issue>
 						<fpage>30</fpage>
 						<lpage>30</lpage>
 			<permissions>
@@ -63,7 +134,7 @@
 				</license>
 			</permissions>
 			<abstract>
-				<p>Low vision is a visual impairment that falls short of blindness but cannot be corrected by eyeglasses or contact lenses. While current low vision aids (e.g., magnifier, CCTV) support basic vision enhancements, such as magnification and contrast enhancement, these enhancements often arbitrarily alter a user&#39;s full field of view without considering the user&#39;s context, such as their visual abilities, tasks, and environmental factors. As a result, these low vision aids are not sufficient or preferred by low vision users in many important tasks. Augmented reality (AR) technology presents a unique opportunity to enhance low vision people’s visual experience by automatically recognizing the surrounding environment and presenting tailored visual augmentations. In this talk, I will talk about how we design and build intelligent AR systems to support low vision people in visual tasks, such as a head-mounted AR system that presents visual cues to orient users’ attention in a visual search task, as well as a projection-based AR system that projects visual highlights on the stair edges to support safe stair navigation. I will conclude my talk by discussing our future research direction on AR for low vision accessibility.</p>
+				<p>Purpose: Although binocular contrast perception under dichoptic viewing conditions has been extensively characterized behaviorally, little is known about how the signals from each eye are combined in cortex.  Here we compared simultaneously-collected behavioral and EEG measures of dichoptic contrast perception. Methods: Observers (n=16) dichoptically viewed a 2-cpd grating flickering at 7.5 Hz and rotating slowly (1º/s). The contrast of the grating shown to each eye modulated sinusoidally over time at independent rates (1/6 and 1/8 Hz). We recorded EEG activity while observers positioned a joystick lever to report perceived contrast as it changed over time. Analysis: A multiband filter was used to isolate the SSVEP responses to 7.5 Hz signals from electrode Oz (occipital pole), and the standard deviation of this signal provided a measure of neural response amplitude as a function of contrast. Results: A simple model was fit to VEP and behavioral responses, [(L^m+R^m)/2]^(1/m)], which essentially characterized whether responses were better fit by a mean (m≈1) or a max (m&gt;1) model. VEP responses (m = 1.0; MSE = 0.013) were well fit by a mean model, suggesting the EEG signal may have been driven by the input layers of V1. In contrast, behavioral responses (m = 8.8; MSE = 0.011) were well fit by a model that was heavily shifted towards a max model, suggesting a significant non-linear transformation of the contrast signal between the input layers of V1 and conscious perception.</p>
 			</abstract>
 		</article-meta>
 	</front>
@@ -71,7 +142,7 @@
                 
                <fn-group>
 			<fn>
-				<p>Funding: Funding: None</p>
+				<p>Funding: Funding: Knights Templar Eye Foundation, Research to Prevent Blindness, Unrestricted grant from Research to Prevent Blindness to UW Department of Ophthalmology</p>
 			</fn>
 		</fn-group>
 
